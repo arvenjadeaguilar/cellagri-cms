@@ -473,6 +473,9 @@ template {
 }
 a{
   color:#60A65F;
+  &:hover{
+    opacity: 0.5;
+  }
 }
 p{
   font-size: 16px;	
