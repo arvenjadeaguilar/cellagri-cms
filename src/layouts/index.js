@@ -6,7 +6,9 @@ import './all.scss';
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Cell Agri" />
+    <Helmet title="Cell Agri">
+      <link rel="icon" type="image" href={require("../img/favicon.ico")}/>
+    </Helmet>
     <div>{children()}</div>
   </div>
 );
