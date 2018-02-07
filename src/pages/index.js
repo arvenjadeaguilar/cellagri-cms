@@ -78,7 +78,7 @@ export default class IndexPage extends React.Component {
               </a>
             </div>
             <div className="moreTrends">
-              <a href="">More trends, research and insights on our blog</a>
+              <a href="https://medium.com/cellagri">More trends, research and insights on our blog</a>
             </div>
           </div>
         </section>
