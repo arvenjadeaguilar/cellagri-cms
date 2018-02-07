@@ -581,6 +581,10 @@ h3{
 .welcome{
   background-color: #223348;
   color: #fff;
+  background-image: url(../img/Rectangle@2x.png);
+  background-size: cover;
+  background-position: right bottom, right bottom;
+  background-repeat: no-repeat, no-repeat;
   .container{
     padding: 1px 97px 16px 97px;
     .sub-heading{
@@ -609,7 +613,7 @@ h3{
   }
 }
 .navbar{
-  background-color: #223348;
+  background-color: transparent;
   .container{
     padding: 32px 97px 16px 97px;
     @media only screen and (max-width: 810px)  {
