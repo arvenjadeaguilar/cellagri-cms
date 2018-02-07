@@ -9,10 +9,24 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <img src={logo} alt="Kaldi"  />
+          <img src={require('../img/cellagri-logo@1x.png')}  srcSet={`${require('../img/cellagri-logo@1x.png')} 1x, ${require('../img/cellagri-logo@2x.png')} 2x`} alt="Cell Agri"  />
         </Link>
+        <div className="nav">
+          <Link to="/" className="navbar-item">
+            Articles
+          </Link>
+          <Link to="/" className="navbar-item">
+            Contact
+          </Link>
+        </div>
+
       </div>
-      
+      <div className="navbar-brand-mobile">
+        <Link to="/" className="navbar-item">
+          <img src={logo} alt="Cell Agri"  />
+        </Link>
+        
+      </div>
     </div>
   </div>
 );

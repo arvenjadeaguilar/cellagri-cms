@@ -471,24 +471,26 @@ template {
 *{
   box-sizing: border-box;
 }
+a{
+  color:#60A65F;
+}
 p{
   font-size: 16px;	
-  line-height: 24px;	
+  line-height: 1.5;	
   text-align: center;
-  -webkit-margin-before: 16px;
-  -webkit-margin-after: 16px;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
 }
 h1{
-  font-size: 30px;	
+  font-size: 48px;	
   font-weight: bold;	
   margin: 16px 0;
-  line-height: 39px;	
+  line-height: 1.3;	
   -webkit-margin-before: 16px;
   -webkit-margin-after: 16px;
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
+  @media only screen and (max-width: 640px)  {
+    font-size: 30px;	
+  }
 }
 h2{
   font-size: 24px;	
@@ -499,6 +501,9 @@ h2{
   -webkit-margin-after: 16px;
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
+  @media only screen and (max-width: 640px)  {
+    font-size: 24px;	
+  }
 }
 h3{
   font-size: 20px;	
@@ -514,13 +519,14 @@ h3{
 }
 
 .container{
-  padding:16px;
+  padding: 16px 97px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-
+  max-width: 1280px;
   @media only screen and (max-width: 640px)  {
     max-width: 425px;
+    padding:16px;
   }
 }
 .container-center{
@@ -539,20 +545,28 @@ h3{
   width: 100%;
   border-radius: 4px;	
   background-color: #FFFFFF;
-  margin: 16px 0;
+  margin: 16px;
   font-size: 16px;
   padding: 16px;
   border: none;
-  max-width: 400px;
+  max-width: 271px;
+  border: 1px solid rgba(34,51,72,0.23);
+  @media only screen and (max-width: 640px)  {
+    max-width: 400px;
+    margin: 16px 0;    
+  }
 }
 .btn{
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.09);
   padding: 16px;
   width: 100%;
   border-radius: 4px;
-  max-width: 400px;
+  max-width: 164px;
   border-color:transparent;
   cursor: pointer;
+  @media only screen and (max-width: 640px)  {
+    max-width: 400px;
+  }
   &.btn-success{
     background-color: #5FA65F;
     color:#fff;
@@ -565,23 +579,72 @@ h3{
   background-color: #223348;
   color: #fff;
   .container{
-    padding: 1px 16px 16px 16px;
+    padding: 1px 97px 16px 97px;
+    .sub-heading{
+      font-size: 20px;
+      @media only screen and (max-width: 640px)  {
+        font-size: 16px;
+      }
+    }
+    @media only screen and (max-width: 640px)  {
+      padding: 1px 16px 16px 16px;
+    }
   }
 }
 .news{
-  background-color: #fff;
+  background-color: #F7FAFC;;
   color: #223348;
+
+  .moreTrends{
+    margin:32px 0 48px 0;
+    a{
+      font-size: 24px;
+      line-height: 1.5;
+      font-weight: 500;
+      color:#60A65F;
+    }
+  }
 }
 .navbar{
   background-color: #223348;
   .container{
-    padding: 32px 16px 1px 16px;
+    padding: 32px 97px 16px 97px;
+    @media only screen and (max-width: 810px)  {
+      padding: 32px 16px 16px 16px;
+    }
+  }
+}
+.navbar-brand{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  @media only screen and (max-width: 640px)  {
+    display: none;
+  }
+  .nav{
+    .navbar-item{
+      margin:auto 16px;
+      color: #fff;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 1.3;
+      text-decoration: none;
+    }
+  }
+}
+.navbar-brand-mobile{
+  display: none;
+  @media only screen and (max-width: 640px)  {
+    display: block;
   }
 }
 .feature_list{
   grid-template-columns: repeat(auto-fill, minmax(288px, 288px));
-  max-width: 1024px;
+  max-width: 1280px;
   margin: 16px auto;
+  @media only screen and (max-width: 1024px)  {
+    max-width: 1024px;
+  }
 }
 
 .feature{
@@ -593,6 +656,7 @@ h3{
   box-shadow: 0 1px 1px 0 rgba(0,0,0,0.09), 0 2px 8px -3px rgba(0,0,0,0.06);
   color: inherit;
   text-decoration: none;
+  
   &::first-line{
     margin: 16px;
   }
@@ -603,10 +667,82 @@ h3{
     }
     height: 219px;	
     width: 288px;
+    
   }
   .feature_headLine{
     padding: 16px ;
     
   }
+}
+.aboutUs{
+  color:#223348;
+  background-color: #fff;
+  
+  padding: 32px 0;
+  p{
+    font-size: 20px;
+  }
+  .content{
+    max-width: 606px;
+    margin: 0 auto;
+  }
+  @media only screen and (max-width: 1024px)  {
+    padding: 0;    
+  }
+}
+.footer{
+  color:#223348;
+  background-color: #F7FAFC;
+  padding:32px 0;
+
+  .container{
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: calc(100% * 0.4) calc(100% * 0.60);
+    grid-auto-flow: column;
+    width: 100%;
+    
+    @media only screen and (max-width: 1024px)  {
+      display: block;
+    }
+    .content{
+      grid-column: 2;
+      text-align: right;
+      .input{
+        margin-top: 8px;
+      }
+      @media only screen and (max-width: 1024px)  {
+        text-align: center;
+      }
+      p{
+        text-align: right;
+        @media only screen and (max-width: 1024px)  {
+          text-align: center;
+        }
+      }
+    }
+    .dropUsALine{
+      grid-column: 1;      
+      text-align: left;
+      @media only screen and (max-width: 1024px)  {
+        display: block;
+        text-align: center;
+      }
+      p{
+        text-align: left;
+        @media only screen and (max-width: 1024px)  {
+          text-align: center;
+        }
+      }
+    }
+    .copywrite{
+      color: rgba(43,61,84,0.59);	
+      font-family: "Inter UI";	
+      font-size: 12px;	
+      line-height: 1.3;
+    }
+  }
+  
+  
 }
 // @import "~bulma"
