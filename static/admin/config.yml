@@ -27,11 +27,11 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "company-post"}
       - {label: "Path", name: "path", widget: "string"}
       - {label: "Company Name", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Website URL", name: "website", widget: "string"}
-      - {label: "Social Media URL", name: "socialMedia", widget: "list", fields: [{label: Name, name: media, widget: string}, {label: Url, name: url, widget: string}] }
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Website URL", name: "website", widget: "string", default: "#"}
+      - {label: "Social Media URL",name: "socialMedia", widget: "list",required: false, fields: [{label: Name, name: media, widget: string}, {label: Url, name: url, widget: string}] }
       - {label: "Logo", name: "logo", widget: "image"}
-      - {label: "Jobs", name: "jobs", widget: "list", fields: [{label: Position, name: position, widget: string}, {label: Location, name: location, widget: string}, {label: Description, name: description, widget: text}] }
+      - {label: "Jobs", name: "jobs", widget: "list",required: false, fields: [{label: Position, name: position, widget: string}, {label: Location, name: location, widget: string}, {label: Description, name: description, widget: text}] }
 
   - name: "pages"
     label: "Pages"
