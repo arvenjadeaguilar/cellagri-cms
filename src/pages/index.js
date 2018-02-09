@@ -38,8 +38,10 @@ export default class IndexPage extends React.Component {
               <p className="sub-heading">
                 Your #1 source for latest news, trends and jobs in cellular agriculture.
               </p>
-              <input type="email" className="input" placeholder="Your Email" />
-              <button className="btn btn-success">SUBSCRIBE</button>
+              <form action="https://cell.us17.list-manage.com/subscribe/post?u=1eb30a522df43dfeeb91f54d2&amp;id=96fa9a2b9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <input type="email" className="input" placeholder="Your Email" name="EMAIL" id="mce-EMAIL" required />
+                <button type="submit" className="btn btn-success">SUBSCRIBE</button>
+              </form>
               <p>
                 Get the latest research, insights and jobs delivered to your inbox every week.
               </p>
@@ -102,10 +104,10 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <p>Get the latest research, insights and jobs delivered to your inbox every week.</p>
-              <div>
-                <input type="email" className="input" placeholder="Your Email" />
-                <button className="btn btn-success">SUBSCRIBE</button>
-              </div>
+              <form action="https://cell.us17.list-manage.com/subscribe/post?u=1eb30a522df43dfeeb91f54d2&amp;id=96fa9a2b9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <input type="email" className="input" placeholder="Your Email" name="EMAIL" id="mce-EMAIL" required  />
+                <button type="submit" className="btn btn-success">SUBSCRIBE</button>
+              </form>
             </div>
 
             <div className="dropUsALine">

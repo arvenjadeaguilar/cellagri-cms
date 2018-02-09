@@ -75,11 +75,11 @@ export const companyPageQuery = graphql`
         title
         description
         logo
-        thumbnail
         jobs {
           position
           location
         }
+        thumbnail
       }
     }
   }
