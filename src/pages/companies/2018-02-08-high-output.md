@@ -14,7 +14,7 @@ description: >
   that can be dramatically improved. Our studio gives us the place to experiment
   and test our assumptions. On the other hand, our capital arm is driven to find
   other entrepreneurs and makers who are out solving similar problems.
-website: sdasdsadasdsadasdsd
+website: 'http://www.highoutput.io/'
 socialMedia:
   - {}
 logo: /img/favicon-180@2x.png
