@@ -17,7 +17,7 @@ description: >
 website: sdasdsadasdsadasdsd
 socialMedia:
   - {}
-logo: /img/logo4.png
+logo: /img/favicon-180@2x.png
 jobs:
   - description: no description
     location: Cagayan De Oro
