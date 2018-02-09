@@ -4,9 +4,8 @@ import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import FaTwitter from 'react-icons/lib/fa/twitter';
 import FaGlobe from 'react-icons/lib/fa/globe';
-export const CompanyPageTemplate = ({ title,logo,jobs, content,description, contentComponent }) => {
+export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,description, contentComponent }) => {
   const PageContent = contentComponent || Content;
-  console.log(jobs);
   return (
     <section className="section company">
       <Navbar color="#2B3D54"/>
@@ -31,7 +30,7 @@ export const CompanyPageTemplate = ({ title,logo,jobs, content,description, cont
               <div className="job-list">
                 {jobs ? jobs.map(job => (
                   <div className="item">
-                    <img className="item-logo" src={logo} alt={"logo"}/>
+                    <img className="item-logo" src={thumbnail} alt={"logo"}/>
                     <div className="item-description">
                       <h3>{job.position}</h3>
                       <div className="inline">
@@ -55,12 +54,15 @@ export const CompanyPageTemplate = ({ title,logo,jobs, content,description, cont
 
 export default ({ data }) => {
   const { markdownRemark: post } = data;
+  console.log(post.frontmatter);
+  
   return (<CompanyPageTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.title}
     description={post.frontmatter.description}
     logo={post.frontmatter.logo}
     jobs={post.frontmatter.jobs}
+    thumbnail={post.frontmatter.thumbnail}
   />);
 };
 
@@ -73,6 +75,7 @@ export const companyPageQuery = graphql`
         title
         description
         logo
+        thumbnail
         jobs {
           position
           location
