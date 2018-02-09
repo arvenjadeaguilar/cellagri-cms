@@ -11,7 +11,6 @@ const CompanyPagePreview = ({ entry, getAsset }) => {
         description={entry.getIn(['data', 'description'])}
         jobs={jobs}
         logo={entry.getIn(['data', 'logo'])} 
-        
       />
     );
   };
