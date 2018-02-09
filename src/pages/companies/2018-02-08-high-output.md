@@ -19,8 +19,11 @@ socialMedia:
   - {}
 logo: /img/favicon-180@2x.png
 jobs:
-  - description: sdasdsadsadsdsdsadsadasdsad
-    location: asasasasas
+  - description: no description
+    location: Cagayan De Oro
     position: Frontend Developer
+  - description: nacend
+    location: Zamboanga
+    position: Backend Developer
 ---
 
