@@ -34,7 +34,7 @@ export default class IndexPage extends React.Component {
           
           <div className="container ">
             <div className="content">
-              <h1 className="h1">Expolore the future of food with us</h1>
+              <h1 className="h1">Explore the future of food with us</h1>
               <p className="sub-heading">
                 Your #1 source for latest news, trends and jobs in cellular agriculture.
               </p>

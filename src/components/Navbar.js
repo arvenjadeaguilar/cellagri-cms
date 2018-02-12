@@ -12,12 +12,12 @@ const Navbar = () => (
           <img src={require('../img/cellagri-logo@1x.png')}  srcSet={`${require('../img/cellagri-logo@1x.png')} 1x, ${require('../img/cellagri-logo@2x.png')} 2x`} alt="Cell Agri"  />
         </Link>
         <div className="nav">
-          <Link to="/" className="navbar-item">
+          <a href="https://medium.com/cellagri" className="navbar-item">
             Articles
-          </Link>
-          <Link to="/" className="navbar-item">
+          </a>
+          <a href="mailto:usman@cell.ag" target="_top" className="navbar-item">
             Contact
-          </Link>
+          </a>
         </div>
 
       </div>

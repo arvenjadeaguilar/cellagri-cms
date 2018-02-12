@@ -22,6 +22,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               image
               heading
               description
+              logo
+              thumbnail
               intro {
                 blurbs {
                   image
