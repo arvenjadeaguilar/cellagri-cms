@@ -26,7 +26,7 @@ let getIcon=(media)=>{
 export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
-  let mediaJSX = socialMedia.map(media=>{
+  let mediaJSX = socialMedia && socialMedia.map(media=>{
     return (
       <a href={media.url} className="media inline">
         {getIcon(media.media)} {media.media}
