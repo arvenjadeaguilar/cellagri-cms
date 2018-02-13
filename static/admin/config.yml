@@ -33,7 +33,18 @@ collections:
       - {label: "Logo", name: "logo", widget: "image"}
       - {label: "Thumbnail", name: "thumbnail", widget: "image"}
       - {label: "Jobs", name: "jobs", widget: "list",required: false, fields: [{label: Position, name: position, widget: string}, {label: Location, name: location, widget: string}, {label: Description, name: description, widget: text}] }
-
+  
+  - name: "jobsList"
+    label: "Jobs"
+    folder: "src/pages/jobs"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
+      - {label: Position, name: position, widget: string}
+      - {label: Location, name: location, widget: string}
+      - {label: Description, name: description, widget: text}
+      - {label: "Company", name: "companyRelated", widget: "relation", collection: "company", seachFields: ["title", display:["title"]}
   # - name: "pages"
   #   label: "Pages"
   #   files:
