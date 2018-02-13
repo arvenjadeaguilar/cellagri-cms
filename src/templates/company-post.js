@@ -28,7 +28,7 @@ export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, cont
 
   let mediaJSX = socialMedia.map(media=>{
     return (
-      <a href="/" className="media inline">
+      <a href={media.url} className="media inline">
         {getIcon(media.media)} {media.media}
       </a>
     );
