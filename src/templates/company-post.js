@@ -53,7 +53,7 @@ export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, cont
         <div className="section">
           <div className="job-containers">
             <div className="jobs">
-              <h2>Jobs at {title.toLowerCase()}</h2> 
+              <h2>Jobs at {title && title.toLowerCase()}</h2> 
               <div className="job-list">
                 {jobs ? jobs.map(job => (
                   <div className="item">
