@@ -4,6 +4,8 @@ import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import FaTwitter from 'react-icons/lib/fa/twitter';
 import FaGlobe from 'react-icons/lib/fa/globe';
+import Footer from '../components/Footer';
+
 export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,description, contentComponent }) => {
   const PageContent = contentComponent || Content;
   return (
@@ -11,16 +13,18 @@ export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,descrip
       <Navbar color="#2B3D54"/>
       <div className="container">
         <div className="section">
-          <img className="logo" src={logo} alt={"logo"}/>
-          <div className="socialMedia">
-            <div className="media inline">
-              <FaGlobe /> Website
+          <div className="header">
+            <img className="logo" src={logo} alt={"logo"}/>
+            <div className="socialMedia">
+              <div className="media inline">
+                <FaGlobe /> Website
+              </div>
+              <div className="media inline">
+                <FaTwitter /> Twitter
+              </div>
             </div>
-            <div className="media inline">
-              <FaTwitter /> Twitter
-            </div>
+            <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
           </div>
-          <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
           <p>{description}</p>
         </div>
         <div className="section">
@@ -31,12 +35,10 @@ export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,descrip
                 {jobs ? jobs.map(job => (
                   <div className="item">
                     <img className="item-logo" src={thumbnail} alt={"logo"}/>
-                    <div className="item-description">
-                      <h3>{job.position}</h3>
-                      <div className="inline">
-                        <h3>{title}</h3>
-                        <span>{job.location}</span>
-                      </div>
+                    <h3 className="title">{job.position}</h3>
+                    <div className="inline">
+                      <h3>{title}</h3>
+                      <span>{job.location}</span>
                     </div>
                     <div className="item-date">
                       Feb 2
@@ -48,6 +50,7 @@ export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,descrip
           </div>
         </div>
       </div>
+      <Footer/>
     </section>
   );
 };

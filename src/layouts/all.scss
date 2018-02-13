@@ -528,7 +528,6 @@ h3{
   text-align: center;
   max-width: 1280px;
   @media only screen and (max-width: 640px)  {
-    max-width: 425px;
     padding:16px;
   }
 }
@@ -754,9 +753,78 @@ h3{
 .company{
   color:#2B3D54;
   font-size: 20px;
+  @media only screen and (max-width: 640px)  {
+    font-size: 16px;
+  }
+  .navbar-brand{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @media only screen and (max-width: 640px)  {
+      display: flex;
+    }
+    .navbar-item{
+      img{
+        @media only screen and (max-width: 640px)  {
+          width: 48px;
+          height: 48px;
+        }
+      }
+    }
+    .nav{
+      .navbar-item{
+        @media only screen and (max-width: 640px)  {
+          font-size: 16px;
+          margin: 0 8px;
+        }
+        
+      }
+    }
+    
+  }
+  .navbar-brand-mobile{
+    display: none;
+    @media only screen and (max-width: 640px)  {
+      display: none;
+    }
+  }
 }
 .logo{
   height: 128px;
+  @media only screen and (max-width: 640px)  {
+    height: 64px;
+  }
+}
+
+.header{
+  display: grid;
+  
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "logo"
+    "headerName"
+    "socialMedia"; 
+  grid-gap: 16px;
+  justify-items: center;
+  @media only screen and (max-width: 640px)  {
+    grid-template-columns: 64px auto;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "logo headerName"
+      "socialMedia socialMedia"; 
+    grid-gap: 16px;
+    justify-items: start;
+  }
+  .logo{
+    grid-area: logo;
+  }
+  .socialMedia{
+    grid-area: socialMedia;
+  }
+  .title{
+    grid-area: headerName;
+  }
 }
 
 .inline{
@@ -775,7 +843,14 @@ h3{
   display: inline-flex;
   align-self: center;
   position: relative;
-  margin: 16px;
+  margin: 0 16px;
+  @media only screen and (max-width: 640px)  {
+    margin: 0;
+    margin-right: 16px;
+    &:first{
+      margin-right: 0;
+    }
+  }
   svg {
     height:1em;
     width:1em;
@@ -791,29 +866,74 @@ h3{
   grid-column-gap: 16px;
   justify-items: start;
   text-align: left;
+  @media only screen and (max-width: 640px)  {
+    grid-template-columns: auto;
+  }
   .jobs{
     width: 100%;
     grid-column: 3 / 11;
+    @media only screen and (max-width: 640px)  {
+      grid-column: auto;
+    }
+    @media only screen and (max-width: 1023px) and (min-width: 641px) {
+      grid-column: 1 / 13;
+    }
+    
     .job-list{
       margin: 16px;
+      @media only screen and (max-width: 640px)  {
+        margin: 16px 0;
+      }
       .item{
         display: grid;
-        grid-template-columns: repeat(8, minmax(10px, 1fr));
         grid-column-gap: 16px;
         justify-items: stretch;
         margin: 48px 0;
+        grid-template-columns: 64px auto 64px;
+        grid-template-rows: auto;
+        grid-template-areas: 
+          "logo title date"
+          "logo company date";
+        @media only screen and (max-width: 640px)  {
+          grid-template-columns: 24px auto auto;
+          grid-template-rows: auto;
+          grid-template-areas: 
+            "title title title"
+            "logo company company"; 
+          margin: 35px 0;
+        }
         .item-logo{
           align-self: center;
           width: 64px;
           max-height: 64px;
-          grid-column: 1/1;
+          grid-area: logo;
+          
+          @media only screen and (max-width: 640px)  {
+            width: 24px;
+            max-height: 24px;
+          }
         }
-        .item-description{
-          grid-column: 2/8;
+        .title{
+          grid-area: title;
+        }
+        .inline{
+          grid-area: company;
+          @media only screen and (max-width: 640px)  {
+            grid-area: company;
+            font-size: 14px;
+          }
+          h3{
+            @media only screen and (max-width: 640px)  {
+              font-size: 14px;
+            }
+          }
         }
         .item-date{
           justify-self: right;
           align-self: center;
+          @media only screen and (max-width: 640px)  {
+            display: none;
+          }
         }
       }
     }
