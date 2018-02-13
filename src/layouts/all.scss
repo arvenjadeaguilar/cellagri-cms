@@ -529,6 +529,8 @@ h3{
   max-width: 1280px;
   @media only screen and (max-width: 640px)  {
     padding:16px;
+    // max-width: 420px;
+    
   }
 }
 .container-center{
@@ -815,6 +817,7 @@ h3{
       "socialMedia socialMedia"; 
     grid-gap: 16px;
     justify-items: start;
+    align-items: center;
   }
   .logo{
     grid-area: logo;
@@ -915,6 +918,13 @@ h3{
         }
         .title{
           grid-area: title;
+          @media only screen and (max-width: 640px)  {
+            color: #60A65F;	
+            font-family: "Inter UI";	
+            font-size: 16px;
+            text-decoration: underline;
+            font-weight: 400;
+          }
         }
         .inline{
           grid-area: company;
@@ -926,6 +936,9 @@ h3{
             @media only screen and (max-width: 640px)  {
               font-size: 14px;
             }
+          }
+          .location{
+            color: rgba(18,27,39,0.6);
           }
         }
         .item-date{

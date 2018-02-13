@@ -25,7 +25,7 @@ export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,descrip
             </div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
           </div>
-          <p>{description}</p>
+          <p >{description}</p>
         </div>
         <div className="section">
           <div className="job-containers">
@@ -38,7 +38,7 @@ export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,descrip
                     <h3 className="title">{job.position}</h3>
                     <div className="inline">
                       <h3>{title}</h3>
-                      <span>{job.location}</span>
+                      <span className="location">{job.location}</span>
                     </div>
                     <div className="item-date">
                       Feb 2
