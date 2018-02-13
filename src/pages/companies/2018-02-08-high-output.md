@@ -12,7 +12,7 @@ socialMedia:
   - media: Twitter
     url: 'https://www.twitter.com/'
 logo: /img/favicon-180@2x.png
-thumbnail: /img/logo4.png
+thumbnail: /img/cellagri-logo.png
 jobs:
   - description: no description
     location: Cagayan De Oro
