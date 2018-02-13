@@ -3,11 +3,36 @@ import graphql from 'graphql';
 import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import FaTwitter from 'react-icons/lib/fa/twitter';
+import FaFacebook from 'react-icons/lib/fa/facebook';
+import FaLinkedIn from 'react-icons/lib/fa/linkedin';
+import FaInstagram from 'react-icons/lib/fa/instagram';
 import FaGlobe from 'react-icons/lib/fa/globe';
 import Footer from '../components/Footer';
 
-export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,description, contentComponent }) => {
+let getIcon=(media)=>{
+  if(media == 'Twitter'){
+    return <FaTwitter />
+  }
+  if(media == 'Facebook'){
+    return <FaFacebook />
+  }
+  if(media == 'LinkedIn'){
+    return <FaLinkedIn />
+  }
+  if(media == 'Instagram'){
+    return <FaTwitter />
+  }
+}
+export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
+
+  let mediaJSX = socialMedia.map(media=>{
+    return (
+      <a href="/" className="media inline">
+        {getIcon(media.media)} {media.media}
+      </a>
+    );
+  });
   return (
     <section className="section company">
       <Navbar color="#2B3D54"/>
@@ -16,12 +41,10 @@ export const CompanyPageTemplate = ({ title,logo,jobs,thumbnail, content,descrip
           <div className="header">
             <img className="logo" src={logo} alt={"logo"}/>
             <div className="socialMedia">
-              <div className="media inline">
+              <a href={website} className="media inline">
                 <FaGlobe /> Website
-              </div>
-              <div className="media inline">
-                <FaTwitter /> Twitter
-              </div>
+              </a>
+              {mediaJSX}
             </div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
           </div>
@@ -65,6 +88,8 @@ export default ({ data }) => {
     description={post.frontmatter.description}
     logo={post.frontmatter.logo}
     jobs={post.frontmatter.jobs}
+    website={post.frontmatter.website}
+    socialMedia={post.frontmatter.socialMedia}
     thumbnail={post.frontmatter.thumbnail}
   />);
 };
@@ -78,6 +103,11 @@ export const companyPageQuery = graphql`
         title
         description
         logo
+        website
+        socialMedia {
+          media
+          url
+        }
         jobs {
           position
           location

@@ -38,7 +38,7 @@ export default class IndexPage extends React.Component {
               <p className="sub-heading">
                 Your #1 source for latest news, trends and jobs in cellular agriculture.
               </p>
-              <form action="https://cell.us17.list-manage.com/subscribe/post?u=1eb30a522df43dfeeb91f54d2&amp;id=96fa9a2b9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <form action="https://cell.us17.list-manage.com/subscribe/post?u=1eb30a522df43dfeeb91f54d2&amp;id=96fa9a2b9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
                 <input type="email" className="input" placeholder="Your Email" name="EMAIL" id="mce-EMAIL" required />
                 <button type="submit" className="btn btn-success">SUBSCRIBE</button>
               </form>
