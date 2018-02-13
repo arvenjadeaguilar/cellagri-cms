@@ -6,7 +6,11 @@ description: >
   We are a small group of individuals who enjoy and take great pride in the work
   we do. Nothing is ever completely finished. 
 website: 'http://www.highoutput.io/'
-socialMedia: []
+socialMedia:
+  - media: Facebook
+    url: 'https://www.facebook.com/'
+  - media: Twitter
+    url: 'https://www.twitter.com/'
 logo: /img/favicon-180@2x.png
 thumbnail: /img/logo4.png
 jobs:
