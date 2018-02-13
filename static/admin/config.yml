@@ -41,6 +41,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
+      - {label: "Path", name: "path", widget: "string", default: "{{year}}-{{month}}-{{day}}-{{position}}"}
       - {label: Position, name: position, widget: string}
       - {label: Location, name: location, widget: string}
       - {label: Description, name: description, widget: text}
