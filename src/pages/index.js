@@ -4,6 +4,8 @@ import Script from "react-load-script";
 import graphql from "graphql";
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import flatten from 'lodash/flatten'
+import slice from 'lodash/slice'
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
     if (typeof window !== `undefined` && window.netlifyIdentity) {
@@ -22,6 +24,17 @@ export default class IndexPage extends React.Component {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
+    let company = posts && posts.filter(({node})=>{
+      return node.frontmatter.templateKey == 'company-post'
+    });
+    let jobs = slice(flatten(company.map(({node})=>{
+      let {frontmatter} = node;
+      let jobList = node.frontmatter.jobs.map((job)=>{
+        return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title};
+      });
+      return jobList;
+    })),0,5);
+    
     return (
       <div className="over-all-container">
         <Script
@@ -79,8 +92,40 @@ export default class IndexPage extends React.Component {
                 </h3>
               </a>
             </div>
-            <div className="moreTrends">
+            <div className="more">
               <a href="https://medium.com/cellagri">More trends, research and insights on our blog</a>
+            </div>
+          </div>
+        </section>
+        <section className="section main-job-list">
+          <div className="container ">
+            <div className="content">
+              {/* <h2 className="h1">Jobs</h2> */}
+              <div className="section">
+                <div className="job-containers">
+                  <div className="jobs">
+                    <h2>Latest Jobs</h2> 
+                    <div className="job-list">
+                      {jobs ? jobs.map(job => (
+                        <div className="item">
+                          <img className="item-logo" src={job.thumbnail} alt={"logo"}/>
+                          <h3 className="title">{job.position}</h3>
+                          <div className="inline">
+                            <h3>{job.title}</h3>
+                            <span className="location">{job.location}</span>
+                          </div>
+                          <div className="item-date">
+                            Feb 2
+                          </div>
+                        </div>
+                      )):null}
+                    </div>
+                    <div className="more">
+                      <a href="https://medium.com/cellagri">See all cellular agriculture jobs</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -119,6 +164,13 @@ export const pageQuery = graphql`
             templateKey
             date(formatString: "MMMM DD, YYYY")
             path
+            logo
+            thumbnail
+            jobs {
+              position
+              location
+              description
+            }
           }
         }
       }

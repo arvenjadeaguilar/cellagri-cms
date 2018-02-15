@@ -18,7 +18,7 @@ collections:
   #     - {label: "Publish Date", name: "date", widget: "datetime"}
   #     - {label: "Description", name: "description", widget: "text"}
   #     - {label: "Body", name: "body", widget: "markdown"}
-  - name: "company"
+  - name: "company" 
     label: "Companies"
     folder: "src/pages/companies"
     create: true
@@ -26,6 +26,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "company-post"}
       - {label: "Path", name: "path", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Company Name", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Website URL", name: "website", widget: "string", default: "#"}
@@ -41,7 +42,8 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
-      - {label: "Path", name: "path", widget: "string", default: "{{year}}-{{month}}-{{day}}-{{position}}"}
+      - {label: "Path", name: "path", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: Position, name: position, widget: string}
       - {label: Location, name: location, widget: string}
       - {label: Description, name: description, widget: text}

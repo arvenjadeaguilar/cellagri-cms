@@ -99,20 +99,7 @@ export const companyPageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        path
         title
-        description
-        logo
-        website
-        socialMedia {
-          media
-          url
-        }
-        jobs {
-          position
-          location
-        }
-        thumbnail
       }
     }
   }
