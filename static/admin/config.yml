@@ -42,7 +42,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
-      - {label: "Path", name: "path", widget: "string"}
+      - {label: "Path", name: "path", widget: "string", default: "`r format(Sys.time(), '%d %B, %Y')`"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: Position, name: position, widget: string}
       - {label: Location, name: location, widget: string}

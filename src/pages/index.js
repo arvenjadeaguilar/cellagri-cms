@@ -6,6 +6,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import flatten from 'lodash/flatten'
 import slice from 'lodash/slice'
+import orderBy from 'lodash/orderBy'
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
     if (typeof window !== `undefined` && window.netlifyIdentity) {
@@ -27,14 +28,15 @@ export default class IndexPage extends React.Component {
     let company = posts && posts.filter(({node})=>{
       return node.frontmatter.templateKey == 'company-post'
     });
-    let jobs = slice(flatten(company.map(({node})=>{
+    let jobs = orderBy(slice(flatten(company.map(({node})=>{
       let {frontmatter} = node;
       let jobList = frontmatter.jobs && frontmatter.jobs.map((job)=>{
-        return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title};
+        return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title,date:frontmatter.date};
       });
       return jobList;
-    })),0,5);
-    
+    })),0,5),['date'],['desc']);
+
+    console.log(company);
     return (
       <div className="over-all-container">
         <Script
@@ -115,7 +117,7 @@ export default class IndexPage extends React.Component {
                             <span className="location">{job.location}</span>
                           </div>
                           <div className="item-date">
-                            Feb 2
+                            {job.date}
                           </div>
                         </div>
                       )):null}
@@ -162,7 +164,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMM DD")
             path
             logo
             thumbnail
