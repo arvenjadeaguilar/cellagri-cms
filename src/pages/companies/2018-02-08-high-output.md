@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /highoutput
+date: 2018-02-15T00:00:00+08:00
 title: High Output
 description: >
   We are a small group of individuals who enjoy and take great pride in the work
