@@ -26,7 +26,7 @@ let getIcon=(media)=>{
 export const JobsPageTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
-  let mediaJSX = socialMedia.map(media=>{
+  let mediaJSX = socialMedia && socialMedia.map(media=>{
     return (
       <a href={media.url} className="media inline">
         {getIcon(media.media)} {media.media}
@@ -53,7 +53,7 @@ export const JobsPageTemplate = ({ title, logo, jobs, website,thumbnail, content
         <div className="section">
           <div className="job-containers">
             <div className="jobs">
-              <h2>Jobs at {title.toLowerCase()}</h2> 
+              <h2>Jobs at {title && title.toLowerCase()}</h2> 
               <div className="job-list">
                 {jobs ? jobs.map(job => (
                   <div className="item">

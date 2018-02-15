@@ -24,6 +24,7 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
+    console.log(posts);
 
     let company = posts && posts.filter(({node})=>{
       return node.frontmatter.templateKey == 'company-post'
@@ -36,7 +37,6 @@ export default class IndexPage extends React.Component {
       return jobList;
     })),0,5),['date'],['desc']);
 
-    console.log(company);
     return (
       <div className="over-all-container">
         <Script
