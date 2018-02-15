@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /clarafoods
+date: 2018-02-15T00:00:00+08:00
 title: Clara Foods
 description: >-
   Clara Foods is a cellular agriculture company that makes animal-free egg
