@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /gfi
+date: 2018-02-15T00:00:00+08:00
 title: Good Food Institute
 description: >-
   The Good Food Institute is an institute that promotes the growth of
