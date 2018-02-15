@@ -29,7 +29,7 @@ export default class IndexPage extends React.Component {
     });
     let jobs = slice(flatten(company.map(({node})=>{
       let {frontmatter} = node;
-      let jobList = node.frontmatter.jobs.map((job)=>{
+      let jobList = frontmatter.jobs && frontmatter.jobs.map((job)=>{
         return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title};
       });
       return jobList;
