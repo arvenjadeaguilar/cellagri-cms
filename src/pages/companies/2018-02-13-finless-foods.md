@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /finlessfoods
+date: 2018-02-15T00:00:00+08:00
 title: Finless Foods
 description: >-
   Finless Foods is the first cellular agriculture company to make cultured fish
