@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /modernmeadow
+date: 2018-02-15T00:00:00+08:00
 title: Modern Meadow
 description: >-
   Founded by Andras Forgacs, Modern Meadow is one of the first companies to use
