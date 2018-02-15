@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /newharvest
+date: 2018-02-15T00:00:00+08:00
 title: New Harvest
 description: >-
   New Harvest is the non-profit organization that is responsible for funding
