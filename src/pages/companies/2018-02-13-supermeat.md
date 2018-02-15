@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /supermeat
-date: 2018-02-15T00:00:00+08:00
+date: 2018-02-16T00:00:00+08:00
 title: SuperMeat
 description: >-
   SuperMeat is a cellular agriculture startup based in Tel Aviv, Israel.
