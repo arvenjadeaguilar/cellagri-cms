@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /memphismeats
+date: 2018-02-15T00:00:00+08:00
 title: Memphis Meats
 description: >-
   Memphis Meats was the first cellular agriculture company to make a cultured
