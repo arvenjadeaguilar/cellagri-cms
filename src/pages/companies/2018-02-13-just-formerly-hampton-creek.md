@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /hamptoncreek
+date: 2018-02-15T00:00:00+08:00
 title: Just (Formerly Hampton Creek)
 description: >-
   Just (Formerly called Hampton Creek) is a company that makes plant-based
