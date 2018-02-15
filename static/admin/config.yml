@@ -33,7 +33,7 @@ collections:
       - {label: "Social Media URL",name: "socialMedia", widget: "list",required: false, fields: [{label: Type, name: media, widget: select, options: ["Twitter", "Facebook", "Instagram", "LinkedIn"]}, {label: Url, name: url, widget: string}] }
       - {label: "Logo", name: "logo", widget: "image"}
       - {label: "Thumbnail", name: "thumbnail", widget: "image"}
-      - {label: "Jobs", name: "jobs", widget: "list",required: false, fields: [{label: Position, name: position, widget: string}, {label: Location, name: location, widget: string}, {label: Description, name: description, widget: text}] meta: [ {label: Job posted, name: jobPosted, widget: datetime}] }
+      - {label: "Jobs", name: "jobs", widget: "list",required: false, fields: [{label: Position, name: position, widget: string}, {label: Location, name: location, widget: string}, {label: Description, name: description, widget: text}], meta: [ {label: Job posted, name: jobPosted, widget: datetime}] }
   
   - name: "jobs"
     label: "Jobs"
