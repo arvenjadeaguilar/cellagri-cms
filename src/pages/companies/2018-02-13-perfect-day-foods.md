@@ -1,6 +1,7 @@
 ---
 templateKey: company-post
 path: /perfectday
+date: 2018-02-15T00:00:00+08:00
 title: Perfect Day Foods
 description: >-
   Perfect Day Foods is the first cellular agriculture company to make
