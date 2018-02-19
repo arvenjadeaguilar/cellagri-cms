@@ -35,19 +35,19 @@ collections:
       - {label: "Thumbnail", name: "thumbnail", widget: "image"}
       - {label: "Jobs", name: "jobs", widget: "list",required: false, fields: [{label: Job Posted, name: date, widget: datetime}, {label: Position, name: position, widget: string}, {label: Location, name: location, widget: string}, {label: Description, name: description, widget: text}] }
   
-  - name: "jobs"
-    label: "Jobs"
-    folder: "src/pages/jobs"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
-      - {label: "Path", name: "path", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime",}
-      - {label: Position, name: position, widget: string}
-      - {label: Location, name: location, widget: string}
-      - {label: Description, name: description, widget: text}
-      - {label: "Company", name: "companyRelated", widget: "relation", collection: "company", searchFields: ["title", display:["title"]], valueField: "title"}
+  # - name: "jobs"
+  #   label: "Jobs"
+  #   folder: "src/pages/jobs"
+  #   create: true
+  #   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  #   fields:
+  #     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
+  #     - {label: "Path", name: "path", widget: "string"}
+  #     - {label: "Publish Date", name: "date", widget: "datetime",}
+  #     - {label: Position, name: position, widget: string}
+  #     - {label: Location, name: location, widget: string}
+  #     - {label: Description, name: description, widget: text}
+  #     - {label: "Company", name: "companyRelated", widget: "relation", collection: "company", searchFields: ["title", display:["title"]], valueField: "title"}
 
   # - name: "pages"
   #   label: "Pages"
