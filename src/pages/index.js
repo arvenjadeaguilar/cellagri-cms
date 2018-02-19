@@ -32,11 +32,15 @@ export default class IndexPage extends React.Component {
     let jobs = orderBy(slice(flatten(company.map(({node})=>{
       let {frontmatter} = node;
       let jobList = frontmatter.jobs && frontmatter.jobs.map((job)=>{
-        return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title,date:frontmatter.date};
+        return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title,date:frontmatter.date,path:frontmatter.path};
       });
-      return jobList;
+      if(jobList){
+        return jobList;
+      }else{
+        return [];
+      }
     })),0,5),['date'],['desc']);
-
+    console.log(jobs);
     return (
       <div className="over-all-container">
         <Script
@@ -111,7 +115,7 @@ export default class IndexPage extends React.Component {
                       {jobs ? jobs.map(job => (
                         <div className="item">
                           <img className="item-logo" src={job.thumbnail} alt={"logo"}/>
-                          <h3 className="title">{job.position}</h3>
+                          <Link to={job.path}><h3 className="title">{job.position}</h3></Link>
                           <div className="inline">
                             <h3>{job.title}</h3>
                             <span className="location">{job.location}</span>
