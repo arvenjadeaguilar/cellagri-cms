@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /gfi
-date: 2018-02-15T00:00:00+08:00
+date: 2018-02-14T16:00:00.000Z
 title: Good Food Institute
 description: >-
   The Good Food Institute is an institute that promotes the growth of
@@ -11,6 +11,12 @@ description: >-
   they aim to provide strategic support to other actors and companies that aim
   to create sustainable alternatives to the current animal livestock agriculture
   system. 
+
+
+  Enjoy working from home, full medical coverage, optional dental and vision
+  packages, a 401(k) retirement plan, flexible holiday and vacation plans, room
+  for advancement, respectful managers, and supportive colleagues at The Good
+  Food Institute!
 website: gfi.org
 socialMedia:
   - media: Twitter
@@ -85,6 +91,78 @@ jobs:
     location: 'Washington DC, USA'
     position: Academic Research Advisor
   - description: >-
+      GFI’s Associate General Counsel - International will provide legal,
+      fiscal, and regulatory guidance and training for GFI’s international
+      operations.  
+
+
+      How You Will Make a Difference:
+
+      You will identify, resolve, and manage legal compliance issues for GFI’s
+      international operations; assist the General Counsel and Director of
+      Finance to ensure compliance with tax and financial requirements arising
+      from such operations, and support GFI’s other departments in international
+      legal matters by:
+
+      - Providing legal support for the formation of GFI offices, partnerships,
+      or affiliate organizations around the world.
+
+      - Working with GFI offices or affiliate organizations globally to develop
+      compliance programs that ensure GFI international operations comply with
+      applicable legal requirements, including registration, reporting,
+      governance, tax, and lobbying laws.  
+
+      - Handling legal issues that may arise during the day-to-day operations of
+      the International Engagement department and GFI’s international offices or
+      affiliate organizations.
+
+      - Developing and maintaining close working relationships with pro bono
+      counsel and local attorneys, and maintaining a directory of international
+      attorneys who can assist in GFI’s work.
+
+      - Managing GFI’s FCPA compliance, including policy updates and periodic
+      training for GFI staff, independent contractors, and affiliated
+      organizations.
+
+
+      Who We’re Looking For:
+
+      We are seeking smart, thoughtful, and creative self-starters who want to
+      push back against climate change, transform industrial animal agriculture,
+      and develop healthy and humane foods that are accessible to everyone. GFI
+      staff enjoy high levels of autonomy and must be self-motivated, work well
+      both independently and in concert with a larger group, and be comfortable
+      working with a rapidly evolving and growing team.
+
+
+      The Associate General Counsel -- International must also have:
+
+      - Exceptional organizational and interpersonal skills.
+
+      - Ability to independently identify legal compliance issues and develop
+      proposed solutions.
+
+      - Demonstrated initiative and ability to respond well to quickly evolving
+      and unique situations, work well in a team, and represent GFI
+      professionally.
+
+      - Cross-cultural sensitivity and international experience.
+
+      - Fluency in foreign language(s) preferred.
+
+
+      We’re considering candidates who possess a Juris Doctor degree from an
+      accredited law school and a minimum of five years of previous experience
+      practicing law. Previous experience in a general counsel, associate
+      general counsel, or regulatory/compliance role strongly preferred.
+
+
+      Please Note: We are only able to consider applicants who are citizens or
+      permanent residents of the United States, or who already possess a United
+      States Worker Visa. All applicants must live in the United States.
+    location: 'Washington DC, USA'
+    position: Associate General Counsel - International
+  - description: >-
       The Business Analyst will support the founding and growth of companies
       developing plant-based and clean meat, eggs, and dairy; making the
       healthy, humane, and sustainable choice the default.
@@ -136,6 +214,72 @@ jobs:
       are preferred but not required.
     location: 'Washington DC, USA'
     position: Business Analyst
+  - description: >-
+      The Communications Assistant will provide essential support to the
+      Communications team to ensure that vital projects are organized and
+      executed efficiently.
+
+
+      How You Will Make a Difference:
+
+      In this role, you will provide administrative and project management
+      support for the Communications department by:
+
+      - Creating timelines and calendars and managing department projects
+      through Asana and Google environments; developing and implementing project
+      management systems.
+
+      - Providing writing, editing, and proofreading support for social media
+      posts, blogs, fact sheets, white papers, and other materials.
+
+      - Assisting with media monitoring (traditional and social) and media list
+      research/management and outreach.
+
+      - Supporting events and GFI speaking opportunities (webinars, conferences,
+      trade shows).
+
+      - Collecting data from social media, website, and other platforms for
+      month-end reporting and analysis; conducting research to support
+      list-building and audience expansion efforts.
+
+
+      Who We’re Looking For:
+
+      We are seeking smart, thoughtful, and creative self-starters who want to
+      push back against climate change, transform industrial animal agriculture,
+      and develop healthy and humane foods that are accessible to everyone. GFI
+      staff enjoy high levels of autonomy and must be self-motivated, work well
+      both independently and in concert with a larger group, and be comfortable
+      working with a rapidly evolving and growing team.
+
+
+      The Communications Assistant must also have:
+
+      - Exceptional written and verbal communication skills.
+
+      - Strong interest in and understanding of various communications platforms
+      (including social/digital media, traditional media, and interactive user
+      experience) and the role they each play in a communications strategy.
+
+      - Experience in an agency setting and/or knowledge of Asana or similar
+      tools a plus.
+
+      - Ability to work well independently and under pressure, manage multiple
+      projects simultaneously, and meet deadlines.
+
+      - Proficiency in Microsoft Word, Powerpoint, and Excel; experience with
+      Google Docs preferred.
+
+
+      We’re considering candidates with a bachelor’s degree or equivalent
+      experience.
+
+
+      (Please Note: We are only able to consider applicants who are citizens or
+      permanent residents of the United States, or who already possess a United
+      States Worker Visa. All applicants must live in the United States.)
+    location: 'Washington DC, USA'
+    position: Communication Assistant
   - description: >-
       The Executive Assistant in the International Engagement Department will
       support our rapidly growing International Engagement team, execute special
@@ -979,6 +1123,75 @@ jobs:
       and and MBA are preferred but not required.
     location: 'Washington DC, USA'
     position: Strategic Implementation Specialist
+  - description: >-
+      The Good Food Institute’s Senior Web Developer & Manager will create the
+      strategic vision for maintaining and updating our web presence to ensure
+      that we can reach the largest possible audience with the highest degree of
+      impact.
+
+
+      How You Will Make a Difference:
+
+      You will be a member of a dynamic Communications Department and will be a
+      key player in GFI’s ongoing work to inspire students, entrepreneurs, and
+      scientists to use their skills to address challenges within our global
+      food system. You will radically transform the food system by:
+
+      - Designing and building best-in-class websites for GFI and its
+      international affiliates in a WordPress environment.
+
+      - Serving as the lead in-house technologist and ensuring integration of
+      new digital technologies that span communications channels (e.g., website,
+      social media, plugins, and apps).
+
+      - Overseeing hosting, software/system updates, and other technical aspects
+      of GFI’s web presence.
+
+      - Devising and managing GFI’s website governance policies and SOPs, ensure
+      best outcomes for visitors (UX and UI), and empower staff to directly
+      impact web content through CMS self-sufficiency.
+
+      - Monitoring, tracking, and reporting KPIs; using this data to inform web
+      strategy.
+
+
+      Who We’re Looking For:
+
+      We are seeking smart, thoughtful, and creative self-starters who want to
+      push back against climate change, transform industrial animal agriculture,
+      and develop healthy and humane foods that are accessible to everyone. GFI
+      staff enjoy high levels of autonomy and must be self-motivated, work well
+      both independently and in concert with a larger group, and be comfortable
+      working with a rapidly evolving and growing team.
+
+
+      The Senior Web Developer & Manager must also have:
+
+      - Experience with database administration and managing hosting
+      environments
+
+      - Experience writing custom WordPress plugins and child themes in PHP
+
+      - Fluency in HTML, CSS, and JQuery
+
+      - Experience developing plug-ins, services, and APIs
+
+      - Familiarity with best practices in several areas: UI/UX, mobile
+      environments, QA testing, security, and risk management
+
+      - Demonstrated training or experience (via degree program or training
+      certifications) in computer science, programming, database management,
+      mathematics, networking, Web design/ building and managing websites in
+      WordPress, or similar
+
+      - Excellent written and verbal communication skills
+
+
+      Familiarity with internationalization and supporting sites in multiple
+      languages strongly preferred; experience with CRM (Fundly), MailChimp, and
+      Constant Contact preferred but not required. 
+    location: 'Washington DC, USA'
+    position: Senior Web Developer & Manager
   - description: >-
       The Corporate Engagement Department focuses on increasing the
       accessibility and visibility of plant-based alternatives to factory-farmed

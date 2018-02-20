@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
-path: /hamptoncreek
-date: 2018-02-15T00:00:00+08:00
+path: /just
+date: 2018-02-14T16:00:00.000Z
 title: Just (Formerly Hampton Creek)
 description: >-
   Just (Formerly called Hampton Creek) is a company that makes plant-based
@@ -163,77 +163,90 @@ jobs:
     location: 'San Francisco, California'
     position: Web Developer
   - description: >-
-      The Director of Retail Partnerships, West is a key leadership role on our
-      Partnerships team reporting directly to our VP Retail Partnerships. This
-      role will strategize, plan, partner and execute directly to and with our
-      Partners as well as through third party sales agencies (brokers).
+      Role:
+
+      The Director of Foodservice Partnerships, is a leadership role reporting
+      directly to our VP of Foodservice Partnerships. This role will be
+      accountable for the effective management of the National & Regional
+      Accounts within Foodservice along with some in-store retail bakery
+      business.
+
+      - The Partnership Director will be expected to grow net sales/profits
+      through both a targeted list of customers as well as any they may have
+      worked with in the past.
 
 
-      The Partnership Director will be expected to grow net sales through
-      creating ubiquitous distribution, achieving parity pricing, securing
-      optimal shelf presence and executing appropriate promotions. The Director
-      of Retail Partnerships, West will utilize insights, analytics and fact
-      based selling along with strong broker interface/management and direct
-      contact with our Partners to drive results.
+      Responsibilities:
+        - Grow Foodservice Partnerships sales at these accounts and uncover new business, while delivering on the Director of Foodservice Partnership’s annual budget/plan against all metrics
+        - Determining market strategies & goals for products and programs with VP of Foodservice following key Company initiatives
+        - Review competitive in-store bakery strategies and determine key areas of focus
+        - Develop and implement strategic sales plans and forecasts to achieve corporate objectives for products and services
+        - Direct sales forecasting activities and sets performance goals accordingly
+        - Guide preparation of marketing activity reports and presents to executive management
+        - Understand trends, consumer insights and more
+        - Work closely with marketing, operation and R & D development in an effort to develop new products or product improvements
+        - Establish and maintain effective relationships with decision-makers at key Partners
+        - Primary store contact and will filter-out business details and issues
+        - Provide service support on HC food categories and build credibility at the bakery operation and store level
+
+      Attributes
+        - 10+ years in foodservice industry with prior experience in retail bakery a plus
+        - Relevant pre-established relationships with key partners in assigned geography
+        - Strong sales, influence and collaboration skills
+        - Intense level of curiosity, creativity, strategic thinking to drive results
+        - Ability to think both strategically and tactically
+        - Demonstrated personal growth and personal development throughout career
+        - Collaborator, team member and passionate
+        - Ability and willingness to travel up to 50%
+
+      Location:
+
+      - Position has responsibilities across the US, and successful candidate
+      could be based in a number of major cities (e.g. New York, Cincinnati,
+      Atlanta, Chicago, Dallas, Denver, San Francisco).
+    location: Location Varies
+    position: 'Director of FoodService Partnerships, Retail'
+  - description: >-
+      The Scientific Manager/Director will spearhead our cellular agriculture
+      R&D to transform the future of meat & seafood from today’s degrading
+      system to one of sustainable, clean meat. As part of our 60+ person R&D
+      department, the cellular agriculture team spans from process engineers to
+      biochemists, from research chefs to food scientists, and from stem cell
+      biologists to tissue engineers.
 
 
-      Major Roles & Responsibilities:
-
-      - Net Sales – Achievement of the Hampton Creek annual net sales target as
-      measured by internal financial reporting for the Partnership
-      base/geography defined for the role
-
-      - Ubiquitous distribution-achieve distribution targets by item/category
-      across assigned Partnership base.
-
-      - Parity pricing-ensure the Just brand products are priced appropriately
-      for consumers to easily make the choice.
-
-      - Broker management/scorecarding-engage third party broker partners to
-      ensure flawless execution in store and at headquarters.  Enlist broker
-      partners for administrative and category management where required.
-
-      - Forecasting – Ensure operations has a complete and timely forecast of
-      case volume related to the customer base assigned
-
-       
-      Additional Objectives:
-
-      - Collaborate with all other members of the Partnerships team to ensure
-      the company’s goals are achieved and to share best practices
-
-      - Establish targets and goals for each broker and customer around
-      distribution, pricing and merchandising.
-
-      - Develop and execute sales, pricing and merchandising strategies with
-      retail partners that will simultaneously achieve Hampton Creek goals and
-      retailer goals.
-
-      - Constantly assess the brokers representing Hampton Creek to ensure we
-      have the best possible broker for each market.
-
-      - Continuously establish and prioritize objectives for each broker, and
-      train/educate to assist the brokers in achieving their key objectives.
-
-      - Establish and maintain effective relationships with decision-makers at
-      key Partners.
+      The Scientific Manager/Director’s role is to bring these diverse sets of
+      expertise together toward the unified goal of the commercial realization,
+      cost reduction, and quality improvement of clean meat & seafood products. 
 
 
-      Requirements:
+      This position will report to and collaborate closely with the Chief
+      Technology Officer. Success in the role requires an entrepreneurial and
+      innovative mind, a proven track record of delivering results and the
+      commercialization of products through collaboration and leadership,
+      rigorous analytical skills and a passion for achieving objectives.
 
-      - 10+ years CPG industry experience with both direct and broker management
-      experience.
 
-      - Relevant pre-established relationships with key partners in assigned
-      geography.
+      You Will:
+        - Lead and manage all aspects of cellular agriculture R&D
+        - Engage with the Just, Inc. leadership team and work in close collaboration with the CTO and other R&D functions
+        - Ensure a constant focus on new technologies including cell line development, media development, and bioprocess scale-up
+        - Lead and manage a world class group of highly qualified cellular agriculture scientists and engineers
+        - Manage multiple concurrent sub-projects and external research collaborations
 
-      - Strong sales, influence and collaboration skills.
-
-      - Ability to think both strategically and tactically.
-
-      - Collaborator, team member and passion.
+      You Have:
+        - Ph.D. in molecular biology, biology, cell biology, chemical engineering, biomedical engineering; or a closely related field
+        - 10+ years of hands on experience with progressively increasing responsibilities and will consider a combination of academia/industry experience
+        - 5+ years of multi disciplinary team management
+        - History of successfully building, developing, leading, and managing cross-functional teams of scientists and engineers
+        - Prior experience with cell-based therapies/products preferred
+        - Comprehensive understanding of the technical challenges involved in cellular agriculture
+        - Ability to communicate effectively across diverse technical areas, including but not limited to: cell and molecular biology, bioengineering, bioprocess development and scale up
+        - Setting and communicating clear vision and expectations for the team, defining expectations clearly, encouraging and empowering people, inspiring them to be leaders, motivating them to outperform expectations
+        - Experience with food, regulatory, 3D bioprinting, and manufacturing all pluses
+        - Knowledge of CRISPR, computational bioinformatics, proteomics, metabolomics all pluses
     location: 'San Francisco, California'
-    position: Director of Retail Partnerships - West
+    position: 'Scientific Manager/Director, Cellular Agriculture'
   - description: >-
       The Senior Scientist will be part of our Cellular Agriculture R&D team
       that is transforming the future of meat & seafood from today’s degrading
@@ -391,49 +404,43 @@ jobs:
     location: 'San Francisco, California'
     position: Food Chemist
   - description: >-
-      Role:
-
-      The Director of Foodservice Partnerships, is a leadership role reporting
-      directly to our VP of Foodservice Partnerships. This role will be
-      accountable for the effective management of the National & Regional
-      Accounts within Foodservice along with some in-store retail bakery
-      business.
-
-      - The Partnership Director will be expected to grow net sales/profits
-      through both a targeted list of customers as well as any they may have
-      worked with in the past.
-
+      The Manager, Food Safety & Quality will manage and conduct all quality
+      audits and apply continuous improvement throughout all levels of the
+      supply chain for internal and external manufacturing of Just brand
+      products.  You will manage and implement processes to maintain food
+      safety, ensure quality and support sustainability at external partners as
+      well as internally.  You will work cross-functionally with internal and
+      external Partners to provide baseline food safety and quality criteria and
+      hold our Partners to the highest-level of practice and standards.
 
       Responsibilities:
-        - Grow Foodservice Partnerships sales at these accounts and uncover new business, while delivering on the Director of Foodservice Partnership’s annual budget/plan against all metrics
-        - Determining market strategies & goals for products and programs with VP of Foodservice following key Company initiatives
-        - Review competitive in-store bakery strategies and determine key areas of focus
-        - Develop and implement strategic sales plans and forecasts to achieve corporate objectives for products and services
-        - Direct sales forecasting activities and sets performance goals accordingly
-        - Guide preparation of marketing activity reports and presents to executive management
-        - Understand trends, consumer insights and more
-        - Work closely with marketing, operation and R & D development in an effort to develop new products or product improvements
-        - Establish and maintain effective relationships with decision-makers at key Partners
-        - Primary store contact and will filter-out business details and issues
-        - Provide service support on HC food categories and build credibility at the bakery operation and store level
 
-      Attributes
-        - 10+ years in foodservice industry with prior experience in retail bakery a plus
-        - Relevant pre-established relationships with key partners in assigned geography
-        - Strong sales, influence and collaboration skills
-        - Intense level of curiosity, creativity, strategic thinking to drive results
-        - Ability to think both strategically and tactically
-        - Demonstrated personal growth and personal development throughout career
-        - Collaborator, team member and passionate
-        - Ability and willingness to travel up to 50%
+        - Provide strategic direction and guidance for the implementation and adherence of all quality programs internally, at external manufacturing facilities and raw material suppliers
+        - Support manufacturing in food safety related programs (FSMA, HACCP, Sanitation, Environmental Monitoring, etc.)
+        - Manage and be accountable for the relationship with external manufacturing quality departments
+        - Work closely with the product development team to ensure food safety requirements and quality standards are incorporated and provide support during plant trials for product launches
+        - Perform internal, external vendor audits and build a corrective action and maintenance plan
+        - Maintain quality metrics and implement applicable corrective and preventative actions
+        - Facilitate in the development of all on-site employees to ensure their knowledge and implementation of food safety guidelines is up to date and exceeds compliance of federal and Just, Inc.'s regulatory guidelines
+        - Develop product evaluation programs including quality scoring, gold standard, shelf life, etc.
+        - Develop and implement food safety training and traceability programs
+        - Maintain accurate records and reports as pertinent to food safety, health, environmental and federal policies.  Communicate any issues that may arise to the Quality and Operations leadership team.
 
-      Location:
+      Attributes:
 
-      - Position has responsibilities across the US, and successful candidate
-      could be based in a number of major cities (e.g. New York, Cincinnati,
-      Atlanta, Chicago, Dallas, Denver, San Francisco).
-    location: Location Varies
-    position: 'Director of FoodService Partnerships, Retail'
+        - B.S. in Food Science, Microbiology, or similar degree with 5+ years of food industry experience
+        - Certified as a Preventive Controls Qualified Individual (PCQI)
+        - In depth knowledge of food microbiology, product sampling plans and environmental monitoring
+        - Expertise in implementing and maintaining GFSI food safety and quality management programs
+        - Experience with auditing all levels of the supply chain (raw material, warehouse, internal/external manufacturing, transportation, laboratory, etc.)
+        - Able to develop food safety initiatives and constantly striving for continuous improvement
+        - Strong ability to communicate effectively and comfortable working within a cross functional team to set the gold standard for quality and food safety
+        - Confident in being the expert with the foremost responsibility of ensuring food safety which will require you to make business and quality decisions based on scientific, regulatory and quality evidence
+        - Mindset of taking a hands-on approach to achieve company objectives while taking a practical and systems based approach to problem solving and prevention
+        - Ability to be accountable, highly adaptable, flexible and strict while maintaining the mindset of providing solutions as needed
+        - Ability to travel as necessary
+    location: 'San Francisco, California'
+    position: Food Safety & Quality Manager
   - description: >-
       Thank you so much for your interest in Just, Inc. If you don't see a role
       that defines you, we would still like to hear how you may be able to
