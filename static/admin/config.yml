@@ -60,7 +60,6 @@ collections:
           - {label: "Path", name: "path", widget: "hidden", default: "/about"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      
       - file: "src/pages/product/product.md"
         label: "Products Page"
         name: "products"
