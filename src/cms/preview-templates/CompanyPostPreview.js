@@ -1,7 +1,7 @@
 import React from 'react';
 import { CompanyPostTemplate } from '../../templates/company-post';
 
-const CompanyPostTemplate = ({ entry, getAsset }) => {
+const CompanyPostPreview = ({ entry, getAsset }) => {
     const entryJobs = entry.getIn(['data', 'jobs']);
     const jobs = entryJobs ? entryJobs.toJS() : [];
 
@@ -16,4 +16,4 @@ const CompanyPostTemplate = ({ entry, getAsset }) => {
     );
   };
 
-export default CompanyPostTemplate;
+export default CompanyPostPreview;
