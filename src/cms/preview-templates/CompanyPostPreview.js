@@ -1,12 +1,12 @@
 import React from 'react';
-import { CompanyPageTemplate } from '../../templates/company-post';
+import { CompanyPostTemplate } from '../../templates/company-post';
 
-const CompanyPagePreview = ({ entry, getAsset }) => {
+const CompanyPostTemplate = ({ entry, getAsset }) => {
     const entryJobs = entry.getIn(['data', 'jobs']);
     const jobs = entryJobs ? entryJobs.toJS() : [];
 
     return (
-      <CompanyPageTemplate 
+      <CompanyPostTemplate 
         title={entry.getIn(['data', 'title'])} 
         description={entry.getIn(['data', 'description'])}
         jobs={jobs}
@@ -16,4 +16,4 @@ const CompanyPagePreview = ({ entry, getAsset }) => {
     );
   };
 
-export default CompanyPagePreview;
+export default CompanyPostTemplate;

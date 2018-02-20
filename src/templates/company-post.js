@@ -23,7 +23,7 @@ let getIcon=(media)=>{
     return <FaTwitter />
   }
 }
-export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -82,7 +82,7 @@ export default ({ data }) => {
   const { markdownRemark: post, } = data;
   const { edges: posts } = data.allMarkdownRemark?data.allMarkdownRemark:[];
 
-  return (<CompanyPageTemplate
+  return (<CompanyPostTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.title}
     description={post.frontmatter.description}
@@ -94,8 +94,8 @@ export default ({ data }) => {
   />);
 };
 
-export const companyPageQuery = graphql`
-  query CompanyPage($path: String!) {
+export const companyPostQuery = graphql`
+  query CompanyPost($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
