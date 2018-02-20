@@ -58,13 +58,13 @@ export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, cont
                 {jobs ? jobs.map(job => (
                   <div className="item">
                     <img className="item-logo" src={thumbnail} alt={"logo"}/>
-                    <h3 className="title">{job.position}</h3>
+                    <h3 className="title">{job.node.frontmatter.position && job.node.frontmatter.position.toUpperCase()}</h3>
                     <div className="inline">
                       <h3>{title}</h3>
-                      <span className="location">{job.location}</span>
+                      <span className="location">{job.node.frontmatter.location}</span>
                     </div>
                     <div className="item-date">
-                      Feb 2
+                      {job.node.frontmatter.date}
                     </div>
                   </div>
                 )):null}
@@ -79,15 +79,15 @@ export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, cont
 };
 
 export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  console.log(post.frontmatter);
-  
+  const { markdownRemark: post, } = data;
+  const { edges: posts } = data.allMarkdownRemark;
+  console.log(posts);
   return (<CompanyPageTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.title}
     description={post.frontmatter.description}
     logo={post.frontmatter.logo}
-    jobs={post.frontmatter.jobs}
+    jobs={posts}
     website={post.frontmatter.website}
     socialMedia={post.frontmatter.socialMedia}
     thumbnail={post.frontmatter.thumbnail}
@@ -113,6 +113,21 @@ export const companyPageQuery = graphql`
           location
         }
         thumbnail
+      }
+    }
+    allMarkdownRemark(filter: {frontmatter: {companyRelated:{eq:$path}}}) {
+      edges {
+        node {
+          excerpt(pruneLength: 400)
+          id
+          frontmatter {
+            path
+            position
+            location
+            description
+            date(formatString: "MMM DD")
+          }
+        }
       }
     }
   }

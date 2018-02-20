@@ -100,6 +100,8 @@ export const companyPageQuery = graphql`
       html
       frontmatter {
         title
+        position
+        location
       }
     }
   }
