@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /modernmeadow
-date: 2018-02-15T00:00:00+08:00
+date: 2018-02-14T16:00:00.000Z
 title: Modern Meadow
 description: >-
   Founded by Andras Forgacs, Modern Meadow is one of the first companies to use
@@ -71,6 +71,324 @@ jobs:
       Please Include your online portfolio with your application
     location: 'Nutley, New Jersey'
     position: Graphic Designer
+  - description: >-
+      As we continue to grow we are seeking a Business Development lead to focus
+      on personal care.
+
+
+      Responsibilities:
+
+      - Identify and qualify opportunities for MM ingredients in personal care
+      applications
+
+      - Share trends to assess and prioritize short- and long-term opportunities
+
+      - Determine best go-to-market strategy
+
+      - Map value chain within personal care and ingredient sector to determine
+      best opportunities
+
+      - Define and deploy the Marketing and Business Development strategy for
+      our target markets
+
+      - Manage the Identification, recommendation and quantification of new
+      business opportunities
+
+      - Evaluate regulatory and product risk issues
+
+      - Establish a network of collaboration with business and technical
+      contacts to accelerate new product introductions
+
+      - Work closely with technical team to understand product opportunities and
+      value statement
+
+
+      Qualifications:
+
+      - BS in Biology or Chemistry  
+
+      - 5-8 years sales/marketing or R&I experience in the personal care market
+      with a specific experience in the development and selling of personal care
+      specialty ingredients
+
+      - Experience in managing marketing and/or technical projects internally
+      and externally with customers
+
+      - Ability to manage projects in a cross functional environment
+
+      - Deep understanding of value chain and key players within personal care
+      market space
+
+      - Prior experience operating as the lead in identifying new market
+      opportunities in the personal care space, including mapping the value
+      chain, use of analytical decision making tools to identify and validate
+      new market opportunities, and development and execution of a go to market
+      strategy.
+
+      - Experience building a business plan for a new market opportunity
+
+      - Strong communication, ability to create presentations, communicate
+      marketing and technical information to a broad audience
+
+      - Financial and cost analysis skills and knowledge
+    location: 'Nutley, New Jersey'
+    position: 'Business Development Lead, Personal Care'
+  - description: >-
+      As we continue to grow we are seeking to hire a Social Media Intern for
+      Summer 2018 to manage our online presence.
+
+
+      Responsibilities:
+
+      - Daily posting and engagement on Twitter, Facebook and Instagram, and
+      other social media accounts as determined by the team,
+
+      - Create and execute a content calendar with a regular publishing schedule
+      for both MM and ZoaTMchannels
+
+      - Build and engage audiences within the sustainability and biotech
+      community, design and fashion community, manufacturing community and end
+      consumers
+
+      - Work with the communications team to maintain and develop brand
+      awareness and online reputation
+
+      - Content management, managing all content-related assets such as
+      photography and graphics
+
+      - Track and analyze the impact of social media campaigns.
+
+
+      Requirements:
+
+      - Previous experience in managing social channels for a brand
+
+      - Previous experience in community management
+
+      - Demonstrates creativity and knowledge of the social space.
+
+      - Experience sourcing and managing content development and publishing
+
+      - Displays in-depth knowledge and understanding of social media platforms,
+      their respective participants (Facebook, Twitter, Instagram, YouTube,
+      Pinterest etc.) and how each platform can be deployed in different
+      scenarios
+
+      - Highly motivated, creative individual with experience and a passion for
+      connecting with current and future fans
+
+      - Excellent writing and language skills, strong time management
+
+      - Basic photography, video and/or graphic design skills a plus
+
+      - Displays ability to effectively communicate information and ideas in
+      written and visual format.
+
+      - Strong people skills - empathy, patience, advocacy and conflict
+      resolution
+    location: 'Nutley, New Jersey'
+    position: Social Media Intern
+  - description: >-
+      As we continue to grow we are seeking to hire a driven MBA intern to join
+      our team for the summer.
+
+
+      The opportunity:
+
+      We are a growing biotech startup seeking an outstanding business strategy
+      professional to join us for a summer 2018 internship. In this role, you
+      will work alongside our leadership team on key projects that will have
+      direct and lasting impact on our business. You will join us during a truly
+      transformational period for the organization and experience all of the
+      excitement, challenges, and opportunities that are a part of this stage of
+      growth.
+
+
+      Expect to apply your business acumen in a unique environment where your
+      team is comprised of scientists, creatives, and business professionals.
+      Your skills will be valued and applied to real-life business challenges
+      and have a direct effect on our future. This summer, you will work
+      alongside a fellow finance and engineering professional to form an agile
+      and expert team, working together to tackle and drive exciting and complex
+      projects.
+
+
+      Responsibilities:
+
+      - Working closely with leadership team, developing new market strategy
+
+      - Creating new product adjacencies assessment, COGs analysis, and
+      go-to-market plan
+
+      - Undertaking projects with autonomy while engaging with internal and
+      external stakeholders
+
+      - Prepare and present interim and final conclusions to executive team
+
+
+      Requirements:
+
+      - Business focused MBA student with graduation date between December 2018
+      and August 2019
+
+      - 3+ years of Business Strategy experience from a top global consulting
+      firm or equivalent preferred
+
+      - Ability to collaborate with diverse groups and teams
+
+      - Ability to learn new concepts and technologies quickly
+
+      - Outstanding written and verbal communication skills
+
+      - Strong organizational skills including task prioritization and effective
+      time management.
+
+      - Excellent analytical skills demonstrating good judgment and
+      problem-solving ability
+
+      - A natural leader. Your track record shows numerous occasions of bringing
+      people together, formally or informally, to accomplish something you’re
+      passionate about
+
+      - Tendency to ‘geek’ out a little when it comes to science!
+    location: 'Nutley, New Jersey'
+    position: 'Summer Associate: Business Development'
+  - description: >-
+      As we continue to grow we are seeking to hire a driven MBA intern to join
+      our team for the summer.
+
+
+      The opportunity:
+
+      We are a growing biotech startup seeking an outstanding business strategy
+      professional to join us for a summer 2018 internship. In this role, you
+      will work alongside our engineering teams on key projects that will have
+      direct and lasting impact on our business. You will join us during a truly
+      transformational period for the organization and experience all of the
+      excitement, challenges, and opportunities that are a part of this stage of
+      growth.
+
+
+      Expect to apply your business acumen in a unique environment where your
+      team is comprised of scientists, creatives, and business professionals.
+      Your skills will be valued and applied to real-life business challenges
+      and have a direct effect on our future. This summer, you will work
+      alongside a fellow finance and business development professional to form
+      an agile and expert team, working together to tackle and drive exciting
+      and complex projects.
+
+
+      Responsibilities:
+
+      - Assist the Product Management Team with technology assessment,
+      business/product model analysis and product roadmapping
+
+      - Explore new market/product/business model opportunities
+
+      - Work closely with executive and management teams
+
+      - Prepare and present interim and final conclusions to executive team and
+      organization
+
+
+      Requirements:
+
+      - Business focused MBA student with graduation date between December 2018
+      and August 2019
+
+      - 3+ years of Engineering experience
+
+      - Ability to collaborate with diverse groups and teams
+
+      - Ability to learn new concepts and technologies quickly
+
+      - Outstanding written and verbal communication skills
+
+      - Strong organizational skills including task prioritization and effective
+      time management.
+
+      - Excellent analytical skills demonstrating good judgment and
+      problem-solving ability
+
+      - A natural leader. Your track record shows numerous occasions of bringing
+      people together, formally or informally, to accomplish something you’re
+      passionate about
+
+      - Tendency to ‘geek’ out a little when it comes to science!
+    location: 'Nutley, New Jersey'
+    position: 'Summer Associate: Engineering'
+  - description: >-
+      As we continue to grow we are seeking to hire a driven MBA intern to join
+      our team for the summer.
+
+
+      The opportunity:
+
+      We are a growing bio-tech startup seeking an outstanding finance
+      professional to join us for a summer 2018 internship. In this role, you
+      will work alongside the VP of Finance and the leadership team on key
+      projects that will have direct and lasting impact on our business. As a
+      post-Series B funded company, you will join us during a truly
+      transformational period for the organization and experience all of the
+      excitement, challenges, and opportunities that are a part of this stage of
+      growth.
+
+
+      Expect to apply your financial acumen in a unique environment where your
+      team is comprised of scientists, creatives, and business professionals.
+      Your skills will be valued and applied to real-life business challenges
+      and have a direct effect on our future.
+
+      This summer, you will work alongside a fellow business and engineering
+      professional to form an agile and expert team, working together to tackle
+      and drive an exciting and complex project. Additionally, you will carry
+      out the responsibilities below.
+
+
+      Responsibilities:
+
+      - Work closely with the leadership team and key stakeholders to develop
+      financial models to assist in management decision-making in potential
+      areas such as capital budgeting, manufacturing strategy, and product
+      analysis
+
+      - Assist finance team on future manufacturing strategy and scenario
+      planning
+
+      - New technology development vector assessment and modeling
+
+      - Assist with benchmarking of various financial and/or operational metrics
+
+      - Prepare and present interim and final conclusions to executive team
+
+
+      Requirements:
+
+      - Finance focused MBA student with graduation date between December 2018
+      and August 2019
+
+      - 3+ years of analyst experience from a top global investment bank or
+      management consulting
+
+      - Ability to collaborate with diverse groups and teams
+
+      - Ability to learn new concepts and technologies quickly
+
+      - Outstanding written and verbal communication skills
+
+      - Strong organizational skills including task prioritization and effective
+      time management.
+
+      - Excellent analytical skills demonstrating good judgment and
+      problem-solving ability
+
+      - A natural leader. Your track record shows numerous occasions of bringing
+      people together, formally or informally, to accomplish something you’re
+      passionate about
+
+      - Tendency to ‘geek’ out a little when it comes to science!
+    location: 'Nutley, New Jersey'
+    position: 'Summer Associate: Finance'
   - description: >-
       As we continue to grow we are seeking to hire a Fiber Scientist to help
       create a new class of high performing textiles.
@@ -155,59 +473,6 @@ jobs:
       environment
     location: 'Nutley, New Jersey'
     position: Materials Research Scientist
-  - description: >-
-      As we continue to grow we are seeking to hire a Research Associate with a
-      background in Chemistry.
-
-
-      Requirements:
-
-      - Bachelor's Degree in Chemical Engineering or Chemistry
-
-      - A foundation of basic scientific and analytical principles obtained
-      through academic training and/or experience
-
-      - Experience with developing and running processes, maintaining batch
-      records, and excellent attention to detail
-
-      - A passion for Chemistry and strong wet chemistry experience is essential
-
-      - High degree of personal accountability, with the ability to work
-      independently and deliver results within project specific timelines
-
-      - Self-motivated, passionate about your work, and enthusiastic about
-      contributing to a positive team spirit
-
-      - An interest in leather and materials characterization is a big plus!
-
-
-      Responsibilities:
-
-      - Understand available instrumentation and execute experiments based on
-      established protocols or procedures with limited explanation and
-      supervision
-
-      - Responsible for departmental/team presentations. Drafts SOPs and
-      research reports with guidance
-
-      - Responsible for maintaining scientifically current (state of the art)
-      laboratory environment and/or product inventory. Maintains accurate and
-      complete records consistent with company policy and legal requirements
-
-      - Keep up with the latest scientific and engineering developments by
-      reading the current literature and attending conferences
-
-      - Develop cross-functional knowledge and skills and make a contribution
-      within your own functional area
-
-      - Help facilitate projects through adherence to established project or
-      company timelines. Assist Ability to operate in fast paced rapidly
-      evolving analytical lab operating to support fundamental R&D, technology
-      scale-up and routine production analytical support
-
-      - Keep up with SOP training and compliance responsibilities 
-    location: 'Nutley, New Jersey'
-    position: 'Research Associate: Chemical Engineering'
   - description: >-
       As we continue to grow we are seeking to hire a Research Associate for our
       Materials Science team.
