@@ -65,6 +65,7 @@ collections:
         name: "company"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "company-page"}
+          - {label: Title, name: title, widget: string}
           - {label: "Path", name: "path", widget: "hidden", default: "/company"}
       - file: "src/pages/company/company-list.md"
         label: "Companies"
@@ -72,6 +73,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "companies-page"}
           - {label: "Path", name: "path", widget: "hidden", default: "/companies"}
+          - {label: Title, name: title, widget: string}
         
       - file: "src/pages/product/product.md"
         label: "Products Page"
