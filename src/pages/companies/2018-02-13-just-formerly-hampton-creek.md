@@ -1,6 +1,6 @@
 ---
 templateKey: company-post
-path: /hamptoncreek
+path: /just
 date: 2018-02-14T16:00:00.000Z
 title: Just (Formerly Hampton Creek)
 description: >-
