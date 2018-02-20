@@ -80,8 +80,8 @@ export const CompanyPageTemplate = ({ title, logo, jobs, website,thumbnail, cont
 
 export default ({ data }) => {
   const { markdownRemark: post, } = data;
-  const { edges: posts } = data.allMarkdownRemark;
-  console.log(posts);
+  const { edges: posts } = data.allMarkdownRemark?data.allMarkdownRemark:[];
+
   return (<CompanyPageTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.title}
