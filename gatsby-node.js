@@ -24,6 +24,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               description
               logo
               website
+              position
+              location
               thumbnail
               socialMedia{
                 media
