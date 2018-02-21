@@ -13,7 +13,7 @@ export const CompaniesPageTemplate = ({ title, companies,description, contentCom
         <div className="section">
           <div className="header">
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
-            <p className="socialMedia">{description}</p>
+            <div className="socialMedia">{description}</div>
           </div>
         </div>
         <div className="section">

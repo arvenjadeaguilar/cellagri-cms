@@ -859,15 +859,14 @@ h3{
 
 .header{
   display: grid;
-  
   grid-template-columns: auto;
   grid-template-rows: auto;
   grid-template-areas: 
     "logo"
     "headerName"
     "socialMedia"; 
-  grid-gap: 16px;
   justify-items: center;
+  padding: 56px 0 96px 0;
   @media only screen and (max-width: 640px)  {
     grid-template-columns: 64px auto;
     grid-template-rows: auto;
@@ -883,6 +882,9 @@ h3{
   }
   .socialMedia{
     grid-area: socialMedia;
+    max-width: 606px;
+    font-size: 20px;
+    text-align: center;
   }
   .title{
     grid-area: headerName;
