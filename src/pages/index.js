@@ -24,8 +24,6 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    console.log(posts);
-
     let company = posts && posts.filter(({node})=>{
       return node.frontmatter.templateKey == 'company-post'
     });
@@ -40,7 +38,6 @@ export default class IndexPage extends React.Component {
         return [];
       }
     })),0,5),['date'],['desc']);
-    console.log(jobs);
     return (
       <div className="over-all-container">
         <Script
@@ -69,7 +66,7 @@ export default class IndexPage extends React.Component {
         </section>
         <section className="section news">
           <div className="container ">
-            <div className="content">
+            <div className="content title_container">
               <h2 className="h1">News & Insights</h2>
             </div>
             <div className="container-center feature_list">
@@ -125,10 +122,11 @@ export default class IndexPage extends React.Component {
                           </div>
                         </div>
                       )):null}
+                      <div className="more">
+                        <a href="https://medium.com/cellagri" className="btn btn-info">See all jobs</a>
+                      </div>
                     </div>
-                    <div className="more">
-                      <a href="https://medium.com/cellagri">See all cellular agriculture jobs</a>
-                    </div>
+                    
                   </div>
                 </div>
               </div>

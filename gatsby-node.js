@@ -27,6 +27,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               position
               location
               thumbnail
+              companyRelated
               socialMedia{
                 media
                 url

@@ -58,7 +58,7 @@ export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, cont
                 {jobs ? jobs.map(job => (
                   <div className="item">
                     <img className="item-logo" src={thumbnail} alt={"logo"}/>
-                    <h3 className="title">{job.node.frontmatter.position && job.node.frontmatter.position.toUpperCase()}</h3>
+                    <a href={job.node.frontmatter.path}><h3 className="title">{job.node.frontmatter.position && job.node.frontmatter.position.toUpperCase()}</h3></a>
                     <div className="inline">
                       <h3>{title}</h3>
                       <span className="location">{job.node.frontmatter.location}</span>

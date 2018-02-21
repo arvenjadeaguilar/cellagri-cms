@@ -23,7 +23,7 @@ let getIcon=(media)=>{
     return <FaTwitter />
   }
 }
-export const JobsPageTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const JobsPostTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -40,37 +40,9 @@ export const JobsPageTemplate = ({ title, logo, jobs, website,thumbnail, content
         <div className="section">
           <div className="header">
             <img className="logo" src={logo} alt={"logo"}/>
-            <div className="socialMedia">
-              <a href={website} className="media inline">
-                <FaGlobe /> Website
-              </a>
-              {mediaJSX}
-            </div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
           </div>
           <p >{description}</p>
-        </div>
-        <div className="section">
-          <div className="job-containers">
-            <div className="jobs">
-              <h2>Jobs at {title && title.toLowerCase()}</h2> 
-              <div className="job-list">
-                {jobs ? jobs.map(job => (
-                  <div className="item">
-                    <img className="item-logo" src={thumbnail} alt={"logo"}/>
-                    <h3 className="title">{job.position}</h3>
-                    <div className="inline">
-                      <h3>{title}</h3>
-                      <span className="location">{job.location}</span>
-                    </div>
-                    <div className="item-date">
-                      Feb 2
-                    </div>
-                  </div>
-                )):null}
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <Footer/>
@@ -82,26 +54,22 @@ export default ({ data }) => {
   const { markdownRemark: post } = data;
   console.log(post.frontmatter);
   
-  return (<JobsPageTemplate
+  return (<JobsPostTemplate
     contentComponent={HTMLContent}
-    title={post.frontmatter.title}
+    title={post.frontmatter.position}
     description={post.frontmatter.description}
-    logo={post.frontmatter.logo}
-    jobs={post.frontmatter.jobs}
-    website={post.frontmatter.website}
-    socialMedia={post.frontmatter.socialMedia}
-    thumbnail={post.frontmatter.thumbnail}
   />);
 };
 
-export const companyPageQuery = graphql`
-  query JobsPage($path: String!) {
+export const jobsPostQuery = graphql`
+  query JobsPost($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
         title
         position
         location
+        description
       }
     }
   }

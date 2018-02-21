@@ -52,17 +52,17 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/company/company.md"
-        label: "Company"
-        name: "company"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "company-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: "Path", name: "path", widget: "hidden", default: "/company"}
       - file: "src/pages/company/company-list.md"
         label: "Companies"
         name: "companyList"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "companies-page"}
           - {label: "Path", name: "path", widget: "hidden", default: "/companies"}
+          - {label: Title, name: title, widget: string}
+      - file: "src/pages/jobsList/jobs.md"
+        label: "Jobs"
+        name: "jobList"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "job-list-page"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/jobs-list"}
           - {label: Title, name: title, widget: string}

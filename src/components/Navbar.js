@@ -13,11 +13,13 @@ const Navbar = () => (
         </Link>
         <div className="nav">
           <a href="https://medium.com/cellagri" className="navbar-item">
-            Articles
+            ARTICLES
           </a>
           <a href="mailto:usman@cell.ag" target="_top" className="navbar-item">
-            Contact
+            CONTACT
           </a>
+          <a href="/companies"  className="navbar-item">COMPANIES</a> 
+          <a href="/jobs "  className="navbar-item">JOBS</a> 
         </div>
 
       </div>
