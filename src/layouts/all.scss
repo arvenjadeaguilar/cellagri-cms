@@ -927,6 +927,35 @@ h3{
   .title{
     grid-area: headerName;
   }
+  .header-label{
+    color: rgba(18,27,39,0.6);
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .header-company{
+    display: grid;
+    grid-template-columns:64px auto;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "thumbnail title"
+      "thumbnail media";
+    grid-gap:14px;
+    justify-items: left;
+    .thumbnail{
+      background-color: red;
+      grid-area: thumbnail;
+      height: 100%;
+      width: 64px;  
+    }
+    .title{
+      grid-area: title;  
+      font-size: 24px;
+      line-height: 1.3;
+    }
+    .companymedia{
+      grid-area: media;  
+    }
+  }
 }
 
 .inline{
@@ -1141,6 +1170,25 @@ h3{
     }
   }
 }
+.jobDescription{
+  width: 820px;
+  margin: 0 auto;
+  padding: 96px 0;
+  .jobPanelDesc{
+    background-color: #fff;
+    padding: 64px 131px;
 
-
+    .jobDescriptionsFooter{
+      text-align: center;
+      padding-top: 63px;
+      margin-top: 63px;
+      border-top: 1px solid rgba(205,209,213,1);
+      .btn{
+        margin-top: 16px;
+        font-size: 14px;
+        max-width: 200px;
+      }
+    }
+  }
+}
 // @import "~bulma"

@@ -39,12 +39,34 @@ export const JobsPostTemplate = ({ title, logo, jobs, website,thumbnail, content
       <div className="container">
         <div className="section">
           <div className="header">
-            <img className="logo" src={logo} alt={"logo"}/>
+            <div className="header-label">JOB LISTING</div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
+            <div className="header-company">
+              <div className="thumbnail">
+                
+              </div>
+              <div className="title">
+                Memphis Meats
+              </div>
+              <div className="companymedia">
+                Facebook
+              </div>
+            </div>
           </div>
-          <p >{description}</p>
         </div>
       </div>
+      <section className="container-fluid">
+        <div className="jobDescription">
+          <div className="jobPanelDesc">
+          {description}
+
+            <div className="jobDescriptionsFooter">
+              <div>Sounds interesting?</div>
+              <button className="btn btn-success">APPLY FOR THIS JOB</button>
+            </div>
+          </div>
+        </div>
+      </section>
       <Footer/>
     </section>
   );
