@@ -1,5 +1,6 @@
 ---
-templateKey: 'jobs-list-page'
+templateKey: jobs-list-page
 path: /jobs
-title: Jobs
+title: Latest Cellular Agriculture Job Listings
 ---
+
