@@ -21,8 +21,8 @@ export const CompaniesPageTemplate = ({ title, companies,description, contentCom
             <div className="job-grid">
                 {companies ? companies.map(company => (
                   <div className="item">
-                    <img className="item-logo" src={company.node.frontmatter.thumbnail} alt={"logo"}/>
-                    <h3 className="title">{company.node.frontmatter.title && company.node.frontmatter.title.toUpperCase()}</h3>
+                    <a href={company.node.frontmatter.path}><img className="item-logo" src={company.node.frontmatter.thumbnail} alt={"logo"}/></a>
+                    <a href={company.node.frontmatter.path}><h3 className="title">{company.node.frontmatter.title && company.node.frontmatter.title.toUpperCase()}</h3></a>
                     <div className="info">
                       <div className="location">Berkely California</div>
                       <div className="listing">4 active cellular agriculture job listings </div>

@@ -36,21 +36,25 @@ export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, cont
   return (
     <section className="section company">
       <Navbar color="#2B3D54"/>
-      <div className="container">
-        <div className="section">
-          <div className="header">
-            <img className="logo" src={logo} alt={"logo"}/>
-            <div className="socialMedia">
-              <a href={website} className="media inline">
-                <FaGlobe /> Website
-              </a>
-              {mediaJSX}
+        <div className="section container">
+          <div className="company-header">
+            <div className="logo_container">
+              <img className="logo" src={logo} alt={"logo"}/>
+              <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
             </div>
-            <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
+            <div className="desc_container">
+              <p className="description" >{description}</p>
+              <div className="socialMedia">
+                <a href={website} className="media inline">
+                  <FaGlobe /> Website
+                </a>
+                {mediaJSX}
+              </div>
+            </div>
+            
           </div>
-          <p >{description}</p>
         </div>
-        <div className="section">
+        <div className="section container-fluid">
           <div className="job-containers">
             <div className="jobs">
               <h2>Jobs at {title && title.toLowerCase()}</h2> 
@@ -72,7 +76,6 @@ export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, cont
             </div>
           </div>
         </div>
-      </div>
       <Footer/>
     </section>
   );
