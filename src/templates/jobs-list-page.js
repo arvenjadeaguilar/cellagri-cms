@@ -20,7 +20,6 @@ export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
           <div className="job-containers">
             <div className="jobs">
               <h2>Cellular Agriculture Jobs</h2> 
-
               <div className="job-list">
                 {jobs ? jobs.map(job => (
                   <div className="item">

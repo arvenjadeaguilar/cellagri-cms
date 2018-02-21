@@ -6,6 +6,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import flatten from 'lodash/flatten'
 import slice from 'lodash/slice'
+import find from 'lodash/find'
 import orderBy from 'lodash/orderBy'
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -24,20 +25,28 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
-    let company = posts && posts.filter(({node})=>{
+    let companyList = posts && posts.filter(({node})=>{
       return node.frontmatter.templateKey == 'company-post'
+    }).map((job)=>{
+      return job.node.frontmatter;
     });
-    let jobs = orderBy(slice(flatten(company.map(({node})=>{
-      let {frontmatter} = node;
-      let jobList = frontmatter.jobs && frontmatter.jobs.map((job)=>{
-        return {...job,logo:frontmatter.logo,thumbnail:frontmatter.thumbnail,title:frontmatter.title,date:frontmatter.date,path:frontmatter.path};
+    let jobsList = posts && posts.filter(({node})=>{
+      return node.frontmatter.templateKey == 'jobs-post'
+    }).map((job)=>{
+      let jobObject = {};
+      let company = find(companyList, function(o) { 
+        return o.path == job.node.frontmatter.companyRelated; 
       });
-      if(jobList){
-        return jobList;
-      }else{
-        return [];
+
+      if(company){
+        jobObject = {
+          title:company.title,
+          thumbnail:company.thumbnail
+        }
       }
-    })),0,5),['date'],['desc']);
+      return {...job.node.frontmatter,...jobObject};
+    });
+    let jobs = orderBy(slice(jobsList,0,5),['date'],['desc']);
     return (
       <div className="over-all-container">
         <Script
@@ -123,7 +132,7 @@ export default class IndexPage extends React.Component {
                         </div>
                       )):null}
                       <div className="more">
-                        <a href="https://medium.com/cellagri" className="btn btn-info">See all jobs</a>
+                        <a href="/jobs" className="btn btn-info">See all jobs</a>
                       </div>
                     </div>
                     
@@ -169,12 +178,9 @@ export const pageQuery = graphql`
             date(formatString: "MMM DD")
             path
             logo
+            position
             thumbnail
-            jobs {
-              position
-              location
-              description
-            }
+            companyRelated
           }
         }
       }
