@@ -1,4 +1,5 @@
 ---
+title: Lab Manager at Perfect Day
 position: Lab Manager
 templateKey: jobs-post
 path: /perfectday-lab-manager
