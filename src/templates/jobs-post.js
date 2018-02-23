@@ -25,7 +25,7 @@ let getIcon=(media)=>{
   }
 }
 export const JobsPostTemplate = ({ title, logo,company, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
-  const PageContent = contentComponent || Content;
+  const PostContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
     return (
@@ -62,8 +62,7 @@ export const JobsPostTemplate = ({ title, logo,company, jobs, website,thumbnail,
       <section className="container-fluid">
         <div className="jobDescription">
           <div className="jobPanelDesc">
-          {description}
-
+            <PostContent content={description} />
             <div className="jobDescriptionsFooter">
               <div>Sounds interesting?</div>
               <button className="btn btn-success">APPLY FOR THIS JOB</button>
@@ -81,7 +80,7 @@ export default ({ data }) => {
   let company = find(companies.edges,(item)=>{
     return item.node.frontmatter.path == post.frontmatter.companyRelated;
   });
-  console.log(company);
+  console.log(post);
   return (<JobsPostTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.position}
