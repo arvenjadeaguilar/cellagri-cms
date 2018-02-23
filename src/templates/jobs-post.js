@@ -50,7 +50,10 @@ export const JobsPostTemplate = ({ title, logo,company, jobs, website,thumbnail,
                 {company.node.frontmatter.title}
               </div>
               <div className="companymedia">
-                Facebook
+                <a href={website} className="media inline">
+                  <FaGlobe /> Website
+                </a>
+                {mediaJSX}
               </div>
             </div>
           </div>
@@ -84,6 +87,7 @@ export default ({ data }) => {
     title={post.frontmatter.position}
     description={post.frontmatter.description}
     company={company}
+    socialMedia={company.node.frontmatter.socialMedia}
   />);
 };
 

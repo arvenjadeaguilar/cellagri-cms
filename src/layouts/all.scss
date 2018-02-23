@@ -940,6 +940,7 @@ h3{
       "thumbnail title"
       "thumbnail media";
     grid-gap:14px;
+    grid-row-gap: 8px;
     justify-items: left;
     .thumbnail{
       grid-area: thumbnail;
@@ -977,12 +978,12 @@ h3{
   display: inline-flex;
   align-self: center;
   position: relative;
-  margin: 0 16px;
+  margin: 0 8px;
   color: #223348;
   text-decoration: none;
   @media only screen and (max-width: 640px)  {
     margin: 0;
-    margin-right: 16px;
+    margin-right: 8px;
     &:first{
       margin-right: 0;
     }
@@ -1180,6 +1181,9 @@ h3{
   .jobPanelDesc{
     background-color: #fff;
     padding: 64px 131px;
+    font-size: 18px;	
+    line-height: 1.5;
+    color: rgba(18,27,39,0.85);
     .jobDescriptionsFooter{
       text-align: center;
       padding-top: 63px;
