@@ -28,11 +28,12 @@ collections:
       - {label: "Path", name: "path", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Company Name", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: Location, name: location, widget: string}
       - {label: "Website URL", name: "website", widget: "string", default: "#"}
       - {label: "Social Media URL",name: "socialMedia", widget: "list",required: false, fields: [{label: Type, name: media, widget: select, options: ["Twitter", "Facebook", "Instagram", "LinkedIn"]}, {label: Url, name: url, widget: string}] }
       - {label: "Logo", name: "logo", widget: "image"}
       - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Description", name: "description", widget: "text", required: false}
   
   - name: "jobs"
     label: "Jobs"
@@ -45,7 +46,6 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-post"}
       - {label: "Path", name: "path", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: Location, name: location, widget: string}
       - {label: Description, name: description, widget: text}
       - {label: "Company", name: "companyRelated", widget: "relation", collection: "company", searchFields: ["title"], display:["title"], valueField: "path"}
 

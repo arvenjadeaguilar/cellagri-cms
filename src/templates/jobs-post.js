@@ -92,6 +92,8 @@ export const jobsPostQuery = graphql`
         position
         location
         description
+        companyRelated
+        date
       }
     }
   }
