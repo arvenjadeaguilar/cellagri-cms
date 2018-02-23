@@ -84,7 +84,7 @@ export default ({ data }) => {
   return (<JobsPostTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.position}
-    description={post.frontmatter.description}
+    description={post.html}
     company={company}
     socialMedia={company.node.frontmatter.socialMedia}
   />);
