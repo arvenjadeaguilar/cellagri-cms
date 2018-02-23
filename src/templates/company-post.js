@@ -23,7 +23,7 @@ let getIcon=(media)=>{
     return <FaTwitter />
   }
 }
-export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const CompanyPostTemplate = ({ title, logo, jobs,location, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -64,7 +64,7 @@ export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, cont
                     <img className="item-logo" src={thumbnail} alt={"logo"}/>
                     <a href={job.node.frontmatter.path}><h3 className="title">{job.node.frontmatter.position && job.node.frontmatter.position.toUpperCase()}</h3></a>
                     <div className="inline">
-                      <span className="location">{job.node.frontmatter.location}</span>
+                      <span className="location">{location}</span>
                     </div>
                     <div className="item-date">
                       {job.node.frontmatter.date}
@@ -89,6 +89,7 @@ export default ({ data }) => {
     title={post.frontmatter.title}
     description={post.frontmatter.description}
     logo={post.frontmatter.logo}
+    location={post.frontmatter.location}
     jobs={posts}
     website={post.frontmatter.website}
     socialMedia={post.frontmatter.socialMedia}
@@ -106,14 +107,12 @@ export const companyPostQuery = graphql`
         description
         logo
         website
+        location
         socialMedia {
           media
           url
         }
-        jobs {
-          position
-          location
-        }
+        
         thumbnail
       }
     }

@@ -21,11 +21,11 @@ export const CompaniesPageTemplate = ({ title, companies,description, contentCom
             <div className="job-grid">
                 {companies ? companies.map(company => (
                   <div className="item">
-                    <a href={company.node.frontmatter.path}><img className="item-logo" src={company.node.frontmatter.thumbnail} alt={"logo"}/></a>
-                    <a href={company.node.frontmatter.path}><h3 className="title">{company.node.frontmatter.title && company.node.frontmatter.title.toUpperCase()}</h3></a>
+                    <a href={company.path}><img className="item-logo" src={company.thumbnail} alt={"logo"}/></a>
+                    <a href={company.path}><h3 className="title">{company.title && company.title.toUpperCase()}</h3></a>
                     <div className="info">
-                      <div className="location">Berkely California</div>
-                      <div className="listing">4 active cellular agriculture job listings </div>
+                      <div className="location">{company.location}</div>
+                      <div className="listing">{company.jobsLength} active cellular agriculture job listings </div>
                     </div>
                   </div>
                 )):null}
@@ -39,12 +39,38 @@ export const CompaniesPageTemplate = ({ title, companies,description, contentCom
 
 export default ({ data }) => {
   const { markdownRemark: post } = data;
-  const { allMarkdownRemark: companies } = data;
+  const { allMarkdownRemark: postList } = data;
+  let companies = postList.edges.filter((post)=>{
+    if(post.node.frontmatter.templateKey == 'company-post'){
+      return true;
+    }else{
+      return false;
+    }
+  }).map(company=>{
+    let jobs = postList.edges.filter((post)=>{
+      if(post.node.frontmatter.companyRelated == company.node.frontmatter.path ){
+        return true;
+      }else{
+        return false;
+      }
+    });
+  
+    let companyObject ={};
+
+    if(jobs){
+      companyObject = {
+        jobsLength: jobs.length
+      }
+    }
+    return {...company.node.frontmatter,...companyObject};
+  });
+
+
   return (<CompaniesPageTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.title}
     content={post.html}
-    companies={companies?companies.edges:[]}
+    companies={companies?companies:[]}
     description={post.frontmatter.description}
   />);
 };
@@ -58,7 +84,7 @@ export const companiesPageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, filter: {frontmatter: {templateKey:{eq:"company-post"}}}) {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
           frontmatter {
@@ -70,6 +96,7 @@ export const companiesPageQuery = graphql`
             location
             thumbnail
             description
+            companyRelated
           }
         }
       }
