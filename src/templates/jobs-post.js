@@ -8,6 +8,7 @@ import FaLinkedIn from 'react-icons/lib/fa/linkedin';
 import FaInstagram from 'react-icons/lib/fa/instagram';
 import FaGlobe from 'react-icons/lib/fa/globe';
 import Footer from '../components/Footer';
+import find from 'lodash/find';
 
 let getIcon=(media)=>{
   if(media == 'Twitter'){
@@ -23,7 +24,7 @@ let getIcon=(media)=>{
     return <FaTwitter />
   }
 }
-export const JobsPostTemplate = ({ title, logo, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const JobsPostTemplate = ({ title, logo,company, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -43,10 +44,10 @@ export const JobsPostTemplate = ({ title, logo, jobs, website,thumbnail, content
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">{title}</h1>
             <div className="header-company">
               <div className="thumbnail">
-                
+                <img src={company.node.frontmatter.thumbnail} alt="logo"/>
               </div>
               <div className="title">
-                Memphis Meats
+                {company.node.frontmatter.title}
               </div>
               <div className="companymedia">
                 Facebook
@@ -73,13 +74,16 @@ export const JobsPostTemplate = ({ title, logo, jobs, website,thumbnail, content
 };
 
 export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  console.log(post.frontmatter);
-  
+  const { markdownRemark: post,allMarkdownRemark:companies } = data;
+  let company = find(companies.edges,(item)=>{
+    return item.node.frontmatter.path == post.frontmatter.companyRelated;
+  });
+  console.log(company);
   return (<JobsPostTemplate
     contentComponent={HTMLContent}
     title={post.frontmatter.position}
     description={post.frontmatter.description}
+    company={company}
   />);
 };
 
@@ -94,6 +98,26 @@ export const jobsPostQuery = graphql`
         description
         companyRelated
         date
+      }
+    }
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, filter: {frontmatter: {templateKey:{eq:"company-post"}}}) {
+      edges {
+        node {
+          frontmatter {
+            path
+            templateKey
+            date(formatString: "MMM DD")
+            title
+            logo
+            location
+            thumbnail
+            description
+            socialMedia {
+              media
+              url
+            }
+          }
+        }
       }
     }
   }

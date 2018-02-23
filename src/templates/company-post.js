@@ -64,7 +64,6 @@ export const CompanyPostTemplate = ({ title, logo, jobs, website,thumbnail, cont
                     <img className="item-logo" src={thumbnail} alt={"logo"}/>
                     <a href={job.node.frontmatter.path}><h3 className="title">{job.node.frontmatter.position && job.node.frontmatter.position.toUpperCase()}</h3></a>
                     <div className="inline">
-                      <h3>{title}</h3>
                       <span className="location">{job.node.frontmatter.location}</span>
                     </div>
                     <div className="item-date">

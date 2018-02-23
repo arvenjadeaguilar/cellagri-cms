@@ -942,10 +942,13 @@ h3{
     grid-gap:14px;
     justify-items: left;
     .thumbnail{
-      background-color: red;
       grid-area: thumbnail;
-      height: 100%;
+      height: 64px;
       width: 64px;  
+      img{
+        height: 100%;
+        width: 100%;
+      }
     }
     .title{
       grid-area: title;  
