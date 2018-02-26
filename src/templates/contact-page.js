@@ -4,7 +4,13 @@ import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
-export const ContactUsTemplate = ({ title, contentComponent }) => {
+function encode(data) {
+  return Object.keys(data)
+      .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+      .join("&");
+}
+
+export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComponent }) => {
   const PostContent = contentComponent || Content;
 
   return (
@@ -15,15 +21,21 @@ export const ContactUsTemplate = ({ title, contentComponent }) => {
           <div className="header">
             <div className="header-label">DROP US A LINE</div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Contact</h1>
-            <form name="contact" netlify>
+            <form 
+              name="contact"
+              method="post"
+              action="/thanks/"
+              data-netlify="true"
+              onSubmit={handleSubmit}
+            >
             <p>
-              <label>Your Name: <input type="text" name="name"/></label>   
+              <label>Your Name: <input type="text" name="name"  onChange={handleChange}/></label>   
             </p>
             <p>
-              <label>Your Email: <input type="email" name="email"/></label>
+              <label>Your Email: <input type="email" name="email"  onChange={handleChange}/></label>
             </p>
             <p>
-              <label>Message: <textarea name="message"></textarea></label>
+              <label>Message: <textarea name="message"  onChange={handleChange}></textarea></label>
             </p>
             <p>
               <button type="submit">Send</button>
@@ -38,9 +50,27 @@ export const ContactUsTemplate = ({ title, contentComponent }) => {
 };
 
 export default class ContactUs extends React.Component {
-  constructor(){
-    super();
+  constructor(props){
+    super(props);
+    this.state = {};
+
   }
+  handleChange = (e) => {
+    this.setState({[e.target.name]: e.target.value});
+  }
+
+  handleSubmit = e => {
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "contact", ...this.state })
+    })
+      .then(() => alert("Success!"))
+      .catch(error => alert(error));
+
+    e.preventDefault();
+  };
+
   render() {
     let {data} = this.props;
     const { markdownRemark: post} = data;
@@ -48,6 +78,8 @@ export default class ContactUs extends React.Component {
     return (<ContactUsTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.position}
+      handleChange={this.handleChange.bind(this)}
+      handleSubmit={this.handleSubmit.bind(this)}
     />);
   }
 };
