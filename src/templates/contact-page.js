@@ -16,31 +16,51 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
   return (
     <section className="section company">
       <Navbar color="#2B3D54"/>
-      <div className="container">
+      <div>
         <div className="section">
-          <div className="header">
+          <div className="header container">
             <div className="header-label">DROP US A LINE</div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Contact</h1>
-            <form 
+          </div>
+          <div className="contactUs">
+            <div className="form">
+            <form
               name="contact"
               method="post"
               action="/thanks/"
               data-netlify="true"
-              onSubmit={handleSubmit}
-            >
-            <p>
-              <label>Your Name: <input type="text" name="name"  onChange={handleChange}/></label>   
-            </p>
-            <p>
-              <label>Your Email: <input type="email" name="email"  onChange={handleChange}/></label>
-            </p>
-            <p>
-              <label>Message: <textarea name="message" onChange={handleChange}></textarea></label>
-            </p>
-            <p>
-              <button type="submit">Send</button>
-            </p>
-          </form>
+              onSubmit={handleSubmit}>
+                <div className="formSection">
+                  <div className="formBody">
+                    <label>
+                      YOUR FULL NAME
+                    </label>
+                    <div>
+                      <input type="text" className="input" name="name"  onChange={handleChange} />
+                    </div>
+                  </div>
+                  <div className="formBody">
+                    <label>
+                      YOUR EMAIL
+                    </label>
+                    <div>
+                      <input type="email" className="input" name="email"  onChange={handleChange} />
+                    </div>
+                  </div>
+                  <div className="formBody">
+                    <label>
+                      COVER LETTER
+                    </label>
+                    <div>
+                      <textarea className="input" name="message" onChange={ handleChange} rows="10" />
+                    </div>
+                  </div>
+                </div>
+                <div className="formAction">
+                  <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
+                </div>
+              </form>
+            </div>
           </div>
         </div>
       </div>
@@ -60,7 +80,6 @@ export default class ContactUs extends React.Component {
   }
 
   handleSubmit = e => {
-    console.log(this.state);
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
