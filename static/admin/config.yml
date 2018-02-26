@@ -64,7 +64,14 @@ collections:
         label: "Jobs"
         name: "jobList"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "job-list-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "jobs-list-page"}
           - {label: "Path", name: "path", widget: "hidden", default: "/jobs-list"}
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string}
+      - file: "src/pages/jobsList/apply.md"
+        label: "Apply Job"
+        name: "apply"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "job-apply-page"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/apply"}
+          - {label: Title, name: title, widget: string}

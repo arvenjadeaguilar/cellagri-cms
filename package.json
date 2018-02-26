@@ -21,7 +21,8 @@
     "react": "^16.2.0",
     "react-helmet": "^5.2.0",
     "react-icons": "^2.2.7",
-    "react-load-script": "0.0.6"
+    "react-load-script": "0.0.6",
+    "react-modal": "^3.3.1"
   },
   "keywords": [
     "gatsby"

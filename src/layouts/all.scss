@@ -592,12 +592,17 @@ h3{
     margin: 16px 0;    
   }
 }
+input[type="file"] {
+  border: 1px;
+  padding: 1px;
+  background-color: transparent;
+}
 .btn{
   box-shadow: 0 2px 4px 0 rgba(0,0,0,0.09);
   padding: 16px;
-  width: 100%;
   border-radius: 4px;
-  max-width: 164px;
+  font-size: inherit;
+  letter-spacing: 1px;
   border-color:transparent;
   cursor: pointer;
   @media only screen and (max-width: 640px)  {
@@ -788,7 +793,7 @@ h3{
   color:#223348;
   background-color: #fff;
   padding:32px 0;
-
+  font-size: 14px;
   .container{
     display: grid;
     grid-gap: 16px;
@@ -1201,4 +1206,42 @@ h3{
     }
   }
 }
+
+.form{
+  width: 518px;
+  margin: 0 auto;
+  font-size: 16px;
+  .closeIcon{
+    font-size: 32px;
+    margin-left: auto;
+    width: 32px;
+    cursor: pointer;
+  }
+  .input{
+    max-width: 100%;
+    margin: 8px 0;
+  }
+  .formBody{
+    padding: 8px 0;
+    label{
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 1.5;
+      color: rgba(18,27,39,0.85);
+    }
+  }
+  .formHeader{
+    color: rgba(18,27,39,0.85);
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 16px 0;
+  }
+  .formAction{
+    padding:32px 0;
+  }
+}
+.full{
+  width:100%;
+}
+
 // @import "~bulma"
