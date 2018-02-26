@@ -27,7 +27,6 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
             <form
               name="contact"
               method="post"
-              action="/thanks/"
               data-netlify="true"
               onSubmit={handleSubmit}>
                 <div className="formSection">
