@@ -96,7 +96,7 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
           <div className="closeIcon">
             <FaClose onClick={()=>closeModal()}/>
           </div>
-          <form name="apply" action="thank-you" netlify>
+          <form name="applicant" netlify>
             <div className="formSection">
               <div className="formHeader">
                 BASIC INFO
