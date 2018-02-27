@@ -3,6 +3,7 @@ import graphql from 'graphql';
 import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import { navigateTo } from "gatsby-link"
 
 function encode(data) {
   return Object.keys(data)
@@ -10,7 +11,7 @@ function encode(data) {
       .join("&");
 }
 
-export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,message, contentComponent }) => {
+export const ContactUsTemplate = ({ title,handleSubmit,showSuccess,handleChange,name,email,message, contentComponent }) => {
   const PostContent = contentComponent || Content;
 
   return (
@@ -23,40 +24,48 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Contact</h1>
           </div>
           <div className="contactUs">
+            { !showSuccess?
             <div className="form">
-                <div className="formSection">
-                  <form name="contactUsForm" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
-                    <div className="formBody">
-                      <label>
-                        YOUR FULL NAME
-                      </label>
-                      <div>
-                        <input type="text" className="input" name="name" onChange={handleChange} />
-                      </div>
+              <div className="formSection">
+                <form name="contactUsForm" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
+                  <div className="formBody">
+                    <label>
+                      YOUR FULL NAME
+                    </label>
+                    <div>
+                      <input type="text" className="input" name="name" onChange={handleChange} />
                     </div>
-                    <div className="formBody">
-                      <label>
-                        YOUR EMAIL
-                      </label>
-                      <div>
-                        <input type="email" className="input" name="email" onChange={handleChange} />
-                      </div>
+                  </div>
+                  <div className="formBody">
+                    <label>
+                      YOUR EMAIL
+                    </label>
+                    <div>
+                      <input type="email" className="input" name="email" onChange={handleChange} />
                     </div>
-                    <div className="formBody">
-                      <label>
-                        MESSAGE
-                      </label>
-                      <div>
-                        <textarea type="text" className="input" name="message" onChange={handleChange} rows="10" />
-                      </div>
+                  </div>
+                  <div className="formBody">
+                    <label>
+                      MESSAGE
+                    </label>
+                    <div>
+                      <textarea type="text" className="input" name="message" onChange={handleChange} rows="10" />
                     </div>
-                    <div data-netlify-recaptcha="true"></div>
-                    <div className="formAction">
-                      <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
-                    </div>
-                  </form>
-                </div>
+                  </div>
+                  <div data-netlify-recaptcha="true"></div>
+                  <div className="formAction">
+                    <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
+                  </div>
+                </form>
               </div>
+            </div>
+            :
+            <div className="section">
+              <h1>Success</h1>
+              <div className="sectionContent">
+                Thanks for getting in touch, you’ll hear back from someone on our team soon.
+              </div>
+            </div>}
           </div>
           
         </div>
@@ -69,16 +78,22 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
 export default class ContactUs extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { name: "", email: "", message: "" };
+    this.state = { success:false,name: "", email: "", message: "" };
   }
   
   handleSubmit = e => {
+    let body = {
+      "form-name": "contactUsForm",
+      name: this.state.name, 
+      email: this.state.email, 
+      message: this.state.message
+    }
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contactUsForm", ...this.state })
+      body: encode(body)
     })
-      .then(() => alert("Success!"))
+      .then(() => this.setState({success:true}))
       .catch(error => alert(error));
     e.preventDefault();
   };
@@ -87,7 +102,7 @@ export default class ContactUs extends React.Component {
 
 
   render() {
-    const { name, email, message } = this.state;
+    const { name, email, message,success } = this.state;
     let {data} = this.props;
     const { markdownRemark: post} = data;
 
@@ -99,6 +114,7 @@ export default class ContactUs extends React.Component {
       name = {name}
       email = {email}
       message = {message}
+      showSuccess={success}
     />);
   }
 };
