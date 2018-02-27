@@ -70,7 +70,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
                 </div>
               </div>
           </div> */}
-          <form name="test" method="POST" data-netlify-honeypot="bot-field" netlify>
+          <form name="test" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
             <p>
               <label>Your Name: <input type="text" name="name"/></label>   
             </p>
