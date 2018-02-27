@@ -29,13 +29,13 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
                   data-netlify="true"
                   onSubmit={handleSubmit}>
                   <p>
-                    <label>Your Name: <input type="text" name="name"  onChange={handleChange}/></label>   
+                    <label>Your Name: <input type="text" name="name"  onChange={()=>handleChange}/></label>   
                   </p>
                   <p>
-                    <label>Your Email: <input type="email" name="email"  onChange={handleChange}/></label>
+                    <label>Your Email: <input type="email" name="email"  onChange={()=>handleChange}/></label>
                   </p>
                   <p>
-                    <label>Message: <textarea name="message" onChange={ handleChange}></textarea></label>
+                    <label>Message: <textarea name="message" onChange={()=>handleChange}></textarea></label>
                   </p>
                   <p>
                     <button type="submit">Send</button>
