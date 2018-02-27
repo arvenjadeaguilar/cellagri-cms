@@ -22,7 +22,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
             <div className="header-label">DROP US A LINE</div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Contact</h1>
           </div>
-          {/* <div className="contactUs">
+          <div className="contactUs">
             <div className="form">
                 <div className="formSection">
                   <form
@@ -62,29 +62,15 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
                         <textarea type="text" className="input" name="message" onChange={handleChange} rows="10" />
                       </div>
                     </div>
-                    
+                    <div data-netlify-recaptcha="true"></div>
                     <div className="formAction">
                       <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
                     </div>
                   </form>
                 </div>
               </div>
-          </div> */}
-          <form name="test" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
-            <p>
-              <label>Your Name: <input type="text" name="name"/></label>   
-            </p>
-            <p>
-              <label>Your Email: <input type="email" name="email"/></label>
-            </p>
-            <p>
-              <label>Message: <textarea name="message"></textarea></label>
-            </p>
-            <div data-netlify-recaptcha="true"></div>
-            <p>
-              <button type="submit">Send</button>
-            </p>
-          </form>
+          </div>
+          
         </div>
       </div>
       <Footer/>
@@ -102,7 +88,7 @@ export default class ContactUs extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "test", ...this.state })
+      body: encode({ "form-name": "contactUs", ...this.state })
     })
       .then(() => alert("Success!"))
       .catch(error => alert(error));
