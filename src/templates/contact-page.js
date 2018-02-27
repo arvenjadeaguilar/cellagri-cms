@@ -23,7 +23,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Contact</h1>
               <div className="form">
                 <form
-                  name="contact"
+                  name="contactUs"
                   method="post"
                   action="/thanks/"
                   data-netlify="true"
@@ -37,6 +37,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
                   <p>
                     <label>Message: <textarea name="message" onChange={()=>handleChange}></textarea></label>
                   </p>
+                  <div netlify-recaptcha></div>
                   <p>
                     <button type="submit">Send</button>
                   </p>
@@ -65,7 +66,7 @@ export default class ContactUs extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", ...this.state })
+      body: encode({ "form-name": "contactUs", ...this.state })
     })
       .then(() => alert("Success!"))
       .catch(error => alert(error));
