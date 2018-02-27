@@ -33,7 +33,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,showSuccess,handleChange,
                       YOUR FULL NAME
                     </label>
                     <div>
-                      <input type="text" className="input" name="name" onChange={handleChange} />
+                      <input type="text" className="input" name="name" onChange={handleChange} required="true" />
                     </div>
                   </div>
                   <div className="formBody">
@@ -41,7 +41,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,showSuccess,handleChange,
                       YOUR EMAIL
                     </label>
                     <div>
-                      <input type="email" className="input" name="email" onChange={handleChange} />
+                      <input type="email" className="input" name="email" onChange={handleChange} required="true"/>
                     </div>
                   </div>
                   <div className="formBody">
@@ -49,7 +49,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,showSuccess,handleChange,
                       MESSAGE
                     </label>
                     <div>
-                      <textarea type="text" className="input" name="message" onChange={handleChange} rows="10" />
+                      <textarea type="text" className="input" name="message" onChange={handleChange} rows="10" required="true"/>
                     </div>
                   </div>
                   <div data-netlify-recaptcha="true"></div>
@@ -61,7 +61,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,showSuccess,handleChange,
             </div>
             :
             <div className="section">
-              <h1>Success</h1>
+              <h1>Success 🎉</h1>
               <div className="sectionContent">
                 Thanks for getting in touch, you’ll hear back from someone on our team soon.
               </div>
