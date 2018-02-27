@@ -27,7 +27,14 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
                   method="post"
                   action="/thanks/"
                   data-netlify="true"
+                  data-netlify-honeypot="bot-field"
                   onSubmit={handleSubmit}>
+                  
+                  <p hidden>
+                    <label>
+                      Don’t fill this out: <input name="bot-field" />
+                    </label>
+                  </p>
                   <p>
                     <label>Your Name: <input type="text" name="name"  onChange={()=>handleChange}/></label>   
                   </p>
@@ -37,7 +44,6 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
                   <p>
                     <label>Message: <textarea name="message" onChange={()=>handleChange}></textarea></label>
                   </p>
-                  <div netlify-recaptcha></div>
                   <p>
                     <button type="submit">Send</button>
                   </p>
