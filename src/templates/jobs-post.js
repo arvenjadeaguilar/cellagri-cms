@@ -10,6 +10,7 @@ import FaGlobe from 'react-icons/lib/fa/globe';
 import FaClose from 'react-icons/lib/md/close';
 import Footer from '../components/Footer';
 import find from 'lodash/find';
+import clone from 'lodash/clone';
 import Modal from 'react-modal';
 
 let getIcon=(media)=>{
@@ -27,6 +28,11 @@ let getIcon=(media)=>{
   }
 }
 
+function encode(data) {
+  return Object.keys(data)
+      .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+      .join("&");
+}
 
 const customStyles = {
   content : {
@@ -39,12 +45,12 @@ const customStyles = {
   }
 };
 
-export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PostContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
     return (
-      <a href={media.url} className="media inline">
+      <a href={media.url} key={media.url} className="media inline">
         {getIcon(media.media)} {media.media}
       </a>
     );
@@ -90,13 +96,14 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
         isOpen={modalOpen}
         onRequestClose={()=>{console.log('onClose')}}
         style={customStyles}
+        ariaHideApp={false}
         contentLabel="Example Modal"
       >
         <div className="form">
           <div className="closeIcon">
             <FaClose onClick={()=>closeModal()}/>
           </div>
-          <form name="applicant" netlify>
+          <form name="applicationForm" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit} required="true">
             <div className="formSection">
               <div className="formHeader">
                 BASIC INFO
@@ -106,7 +113,7 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
                   YOUR FULL NAME
                 </label>
                 <div>
-                  <input type="text" className="input" name="fullName" />
+                  <input type="text" className="input" onChange={handleChange} name="fullName" required="true" />
                 </div>
               </div>
               <div className="formBody">
@@ -114,23 +121,23 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
                   YOUR EMAIL
                 </label>
                 <div>
-                  <input type="email" className="input" name="email" />
+                  <input type="email" className="input" onChange={handleChange} name="email" required="true" />
                 </div>
               </div>
-              <div className="formBody">
+              {/* <div className="formBody">
                 <label>
                   ATTACH YOUR CV
                 </label>
                 <div>
                   <input type="file" className="input" name="cv" />
                 </div>
-              </div>
+              </div> */}
               <div className="formBody">
                 <label>
                   COVER LETTER
                 </label>
                 <div>
-                  <textarea type="text" className="input" name="coverletter" rows="10" />
+                  <textarea className="input" name="coverletter" onChange={handleChange} rows="10" required="true" />
                 </div>
               </div>
             </div>
@@ -144,7 +151,7 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
                   TWITTER
                 </label>
                 <div>
-                  <input type="text" className="input" name="twitter" />
+                  <input type="url" className="input" name="twitter" onChange={handleChange}/>
                 </div>
               </div>
               <div className="formBody">
@@ -152,7 +159,7 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
                   LINKEDIN
                 </label>
                 <div>
-                  <input type="text" className="input" name="linkedin" />
+                  <input type="url" className="input" name="linkedin" onChange={handleChange}/>
                 </div>
               </div>
               <div className="formBody">
@@ -160,7 +167,7 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
                   FACEBOOK
                 </label>
                 <div>
-                  <input type="text" className="input" name="facebook" />
+                  <input type="url" className="input" name="facebook" onChange={handleChange}/>
                 </div>
               </div>
               <div className="formBody">
@@ -168,10 +175,11 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
                   GITHUB
                 </label>
                 <div>
-                  <input type="text" className="input" name="github" />
+                  <input type="url" className="input" name="github" onChange={handleChange}/>
                 </div>
               </div>
             </div>
+            <div data-netlify-recaptcha="true"></div>
             <div className="formAction">
               <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
             </div>
@@ -183,13 +191,36 @@ export const JobsPostTemplate = ({ title, logo,company,modalOpen,closeModal,open
 };
 
 export default class JobsPost extends React.Component {
-  constructor(){
-    super();
+  constructor(props){
+    super(props);
     this.state = {
-      modalOpen:false
+      modalOpen:false,
+      success:false
+      
     };
-    
   }
+  handleSubmit = e => {
+    let body = clone(this.state);
+    delete body.modalOpen;
+    delete body.success;
+    // if(grecaptcha && grecaptcha.getResponse().length > 0)
+    // {
+    //     //the recaptcha is checked
+    //     // Do what you want here
+    //     alert('Well, recaptcha is checked !');
+    // }
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ "form-name": "applicationForm",...body})
+    })
+      .then(() => this.setState({success:true}))
+      .catch(error => alert(error));
+    e.preventDefault();
+  };
+
+  handleChange = e => this.setState({ [e.target.name]: e.target.value });
+
   openModal(){
     this.setState({modalOpen:true});
   }
@@ -212,6 +243,8 @@ export default class JobsPost extends React.Component {
       openModal={this.openModal.bind(this)}
       closeModal={this.closeModal.bind(this)}
       socialMedia={company.node.frontmatter.socialMedia}
+      handleChange={this.handleChange}
+      handleSubmit={this.handleSubmit}
     />);
   }
 };

@@ -82,6 +82,12 @@ export default class ContactUs extends React.Component {
   }
   
   handleSubmit = e => {
+    if(grecaptcha && grecaptcha.getResponse().length > 0)
+    {
+        //the recaptcha is checked
+        // Do what you want here
+        alert('Well, recaptcha is checked !');
+    }
     let body = {
       "form-name": "contactUsForm",
       name: this.state.name, 
