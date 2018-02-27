@@ -80,6 +80,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
             <p>
               <label>Message: <textarea name="message"></textarea></label>
             </p>
+            <div data-netlify-recaptcha="true"></div>
             <p>
               <button type="submit">Send</button>
             </p>
@@ -101,7 +102,7 @@ export default class ContactUs extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", ...this.state })
+      body: encode({ "form-name": "test", ...this.state })
     })
       .then(() => alert("Success!"))
       .catch(error => alert(error));
