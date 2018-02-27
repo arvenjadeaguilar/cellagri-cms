@@ -89,7 +89,6 @@ export default class ContactUs extends React.Component {
   }
 
   handleSubmit = e => {
-    console.log(this.state);
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
