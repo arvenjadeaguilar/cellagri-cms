@@ -76,7 +76,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
           action="/thanks/"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
-          onSubmit={this.handleSubmit}
+          onSubmit={handleSubmit}
         >
           <p hidden>
             <label>
@@ -86,19 +86,19 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
           <p>
             <label>
               Your name:<br />
-            <input type="text" name="name" onChange={this.handleChange}/>
+            <input type="text" name="name" onChange={handleChange}/>
             </label>
           </p>
           <p>
             <label>
               Your email:<br />
-              <input type="email" name="email" onChange={this.handleChange}/>
+              <input type="email" name="email" onChange={handleChange}/>
             </label>
           </p>
           <p>
             <label>
               Message:<br />
-              <textarea name="message" onChange={this.handleChange}/>
+              <textarea name="message" onChange={handleChange}/>
             </label>
           </p>
           <p>
