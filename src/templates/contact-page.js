@@ -22,7 +22,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
             <div className="header-label">DROP US A LINE</div>
             <h1 className="title is-size-3 has-text-weight-bold is-bold-light">Contact</h1>
           </div>
-          <div className="contactUs">
+          {/* <div className="contactUs">
             <div className="form">
                 <div className="formSection">
                   <form
@@ -62,7 +62,6 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
                         <textarea type="text" className="input" name="message" onChange={handleChange} rows="10" />
                       </div>
                     </div>
-                    <div netlify-recaptcha></div>
                     
                     <div className="formAction">
                       <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
@@ -70,7 +69,42 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
                   </form>
                 </div>
               </div>
-          </div>
+          </div> */}
+          <form
+          name="contact"
+          method="post"
+          action="/thanks/"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          onSubmit={this.handleSubmit}
+        >
+          <p hidden>
+            <label>
+              Don’t fill this out: <input name="bot-field" />
+            </label>
+          </p>
+          <p>
+            <label>
+              Your name:<br />
+            <input type="text" name="name" onChange={this.handleChange}/>
+            </label>
+          </p>
+          <p>
+            <label>
+              Your email:<br />
+              <input type="email" name="email" onChange={this.handleChange}/>
+            </label>
+          </p>
+          <p>
+            <label>
+              Message:<br />
+              <textarea name="message" onChange={this.handleChange}/>
+            </label>
+          </p>
+          <p>
+            <button type="submit">Send</button>
+          </p>
+        </form>
         </div>
       </div>
       <Footer/>
