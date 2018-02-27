@@ -12,6 +12,7 @@ import Footer from '../components/Footer';
 import find from 'lodash/find';
 import clone from 'lodash/clone';
 import Modal from 'react-modal';
+import { navigateTo } from "gatsby-link"
 
 let getIcon=(media)=>{
   if(media == 'Twitter'){
@@ -45,7 +46,7 @@ const customStyles = {
   }
 };
 
-export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const JobsPostTemplate = ({ title,handleSubmit,handleChange,showSuccess, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
   const PostContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -80,18 +81,33 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company
           </div>
         </div>
       </div>
-      <section className="container-fluid">
-        <div className="jobDescription">
-          <div className="jobPanelDesc">
-            <PostContent content={description} />
-            <div className="jobDescriptionsFooter">
-              <div>Sounds interesting?</div>
-              <button className="btn btn-success" onClick={()=>openModal()}>APPLY FOR THIS JOB</button>
+      {
+        !showSuccess?
+        <section className="container-fluid">
+          <div className="jobDescription">
+            <div className="jobPanelDesc">
+              <PostContent content={description} />
+              <div className="jobDescriptionsFooter">
+                <div>Sounds interesting?</div>
+                <button className="btn btn-success" onClick={()=>openModal()}>APPLY FOR THIS JOB</button>
+              </div>
             </div>
           </div>
-        </div>
-      </section>
-      <form name="applicationForm" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
+        </section>:
+        <div className="contactUs">
+          <div className="section">
+            <h1>Success 🎉</h1>
+            <div className="sectionContent">
+              Congratulations! You've successfully submitted your application to {company.node.frontmatter.title}. We have contacted the company regarding your interest, and if you are lucky, you'll hear from them very soon!
+            </div>
+            <div className="action">
+              <button className="btn btn-success" onClick={()=>navigateTo('/jobs')}>APPLY FOR MORE JOBS</button>
+            </div>
+          </div>
+        </div> 
+      }
+      
+      <form name="applicants" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
         <input type="text" name="fullName" />
         <input type="email" name="email" />
         <input type="url" name="cv" />
@@ -109,13 +125,13 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company
         onRequestClose={()=>{console.log('onClose')}}
         style={customStyles}
         ariaHideApp={false}
-        contentLabel="Example Modal"
+        contentLabel="Application Form"
       >
         <div className="form">
           <div className="closeIcon">
             <FaClose onClick={()=>closeModal()}/>
           </div>
-          <form name="applicationForm" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit} required="true">
+          <form name="applicants" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit} required="true">
             <div className="formSection">
               <div className="formHeader">
                 BASIC INFO
@@ -211,7 +227,6 @@ export default class JobsPost extends React.Component {
     this.state = {
       modalOpen:false,
       success:false
-      
     };
   }
   handleSubmit = e => {
@@ -234,13 +249,13 @@ export default class JobsPost extends React.Component {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ 
-        "form-name": "applicationForm",
+        "form-name": "applicants",
         "position":post.frontmatter.position,
         "company":company.node.frontmatter.title,
         ...body
       })
     })
-      .then(() => this.setState({success:true}))
+      .then(() => this.setState({modalOpen:false,success:true}))
       .catch(error => alert(error));
     e.preventDefault();
   };
@@ -271,6 +286,7 @@ export default class JobsPost extends React.Component {
       socialMedia={company.node.frontmatter.socialMedia}
       handleChange={this.handleChange}
       handleSubmit={this.handleSubmit}
+      showSuccess = {this.state.success}
     />);
   }
 };
