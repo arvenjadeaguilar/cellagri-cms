@@ -24,18 +24,23 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange, contentComp
             <form 
               name="contact"
               method="post"
-              action="/thanks/"
               data-netlify="true"
+              data-netlify-honeypot="bot-field"
               onSubmit={handleSubmit}
             >
-            <p>
-              <label>Your Name: <input type="text" name="name"  onChange={handleChange}/></label>   
+            <p hidden>
+              <label>
+                Don’t fill this out: <input name="bot-field" />
+              </label>
             </p>
             <p>
-              <label>Your Email: <input type="email" name="email"  onChange={handleChange}/></label>
+              <label>Your Name: <input type="text" name="name" onChange={(e)=>handleChange(e)}/></label>   
             </p>
             <p>
-              <label>Message: <textarea name="message"  onChange={handleChange}></textarea></label>
+              <label>Your Email: <input type="email" name="email" onChange={(e)=>handleChange(e)}/></label>
+            </p>
+            <p>
+              <label>Message: <textarea name="message" onChange={(e)=>handleChange(e)}></textarea></label>
             </p>
             <p>
               <button type="submit">Send</button>
