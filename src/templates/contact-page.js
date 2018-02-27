@@ -25,25 +25,13 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
           <div className="contactUs">
             <div className="form">
                 <div className="formSection">
-                  <form
-                    name="contactUs"
-                    method="post"
-                    action="/thanks/"
-                    data-netlify="true"
-                    data-netlify-honeypot="bot-field"
-                    onSubmit={handleSubmit}>
-                    
-                    <p hidden>
-                      <label>
-                        Don’t fill this out: <input name="bot-field" />
-                      </label>
-                    </p>
+                  <form name="test" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
                     <div className="formBody">
                       <label>
                         YOUR FULL NAME
                       </label>
                       <div>
-                        <input type="text" className="input" name="name"  onChange={handleChange} />
+                        <input type="text" className="input" name="name" onChange={handleChange} />
                       </div>
                     </div>
                     <div className="formBody">
@@ -51,7 +39,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
                         YOUR EMAIL
                       </label>
                       <div>
-                        <input type="email" className="input" name="email"  onChange={handleChange} />
+                        <input type="email" className="input" name="email" onChange={handleChange} />
                       </div>
                     </div>
                     <div className="formBody">
