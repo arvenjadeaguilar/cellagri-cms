@@ -25,7 +25,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,handleChange,name,email,m
           <div className="contactUs">
             <div className="form">
                 <div className="formSection">
-                  <form name="test" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
+                  <form name="contactUs" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit}>
                     <div className="formBody">
                       <label>
                         YOUR FULL NAME
@@ -76,7 +76,7 @@ export default class ContactUs extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "test", ...this.state })
+      body: encode({ "form-name": "contactUs", ...this.state })
     })
       .then(() => alert("Success!"))
       .catch(error => alert(error));
