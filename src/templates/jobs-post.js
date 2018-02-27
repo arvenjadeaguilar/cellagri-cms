@@ -91,9 +91,12 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company
           </div>
         </div>
       </section>
-      <form name="applicationForm"  data-netlify-honeypot="bot-field" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <form name="applicationForm" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
         <input type="text" name="fullName" />
         <input type="email" name="email" />
+        <input type="url" name="cv" />
+        <input type="text" name="position" />
+        <input type="text" name="company" />
         <input type="url" name="twitter" />
         <input type="url" name="linkedin" />
         <input type="url" name="facebook" />
@@ -133,14 +136,18 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company
                   <input type="email" className="input" onChange={handleChange} name="email" required="true" />
                 </div>
               </div>
-              {/* <div className="formBody">
+              <div className="formBody">
                 <label>
-                  ATTACH YOUR CV
+                  YOUR CV's URL
                 </label>
                 <div>
-                  <input type="file" className="input" name="cv" />
+                  <input type="url" className="input" name="cv" onChange={handleChange} required="true"/>
+                  <span className="note">
+                    Paste your CV's url. You can upload your CV to Dropbox, Google Drive or WeTransfer
+                  </span>
                 </div>
-              </div> */}
+                
+              </div>
               <div className="formBody">
                 <label>
                   COVER LETTER
@@ -188,7 +195,6 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange, logo,company
                 </div>
               </div>
             </div>
-            <div data-netlify-recaptcha="true"></div>
             <div className="formAction">
               <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
             </div>
@@ -212,6 +218,12 @@ export default class JobsPost extends React.Component {
     let body = clone(this.state);
     delete body.modalOpen;
     delete body.success;
+    let {data} = this.props;
+    const { markdownRemark: post,allMarkdownRemark:companies } = data;
+    let company = find(companies.edges,(item)=>{
+      return item.node.frontmatter.path == post.frontmatter.companyRelated;
+    });
+
     // if(grecaptcha && grecaptcha.getResponse().length > 0)
     // {
     //     //the recaptcha is checked
@@ -221,7 +233,12 @@ export default class JobsPost extends React.Component {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "applicationForm",...body})
+      body: encode({ 
+        "form-name": "applicationForm",
+        "position":post.frontmatter.position,
+        "company":company.node.frontmatter.title,
+        ...body
+      })
     })
       .then(() => this.setState({success:true}))
       .catch(error => alert(error));

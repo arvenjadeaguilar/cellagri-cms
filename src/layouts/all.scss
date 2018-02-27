@@ -1248,6 +1248,7 @@ input[type="file"] {
   background-color: #F6F6F6;
   .form{
     padding: 48px 0;
+    
   }
   .section{
     padding: 87px 0;
@@ -1255,5 +1256,9 @@ input[type="file"] {
     margin: 0 auto;
     max-width: 802px;
   }
+}
+.note{
+  font-size: 13px;
+  color:rgba(18, 27, 39, 0.85);
 }
 // @import "~bulma"
