@@ -107,10 +107,10 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange,showSuccess, 
         </div> 
       }
       
-      <form name="applicants" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
+      <form name="applicantsDataForm" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
         <input type="text" name="fullName" />
         <input type="email" name="email" />
-        <input type="url" name="cv" />
+        <input type="file" name="cv" />
         <input type="text" name="position" />
         <input type="text" name="company" />
         <input type="url" name="twitter" />
@@ -157,7 +157,7 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange,showSuccess, 
                   YOUR CV's URL
                 </label>
                 <div>
-                  <input type="url" className="input" name="cv" onChange={handleChange} required="true"/>
+                  <input type="file" className="input" name="cv" onChange={handleChange} required="true"/>
                   <span className="note">
                     Paste your CV's url. You can upload your CV to Dropbox, Google Drive or WeTransfer
                   </span>
@@ -249,7 +249,7 @@ export default class JobsPost extends React.Component {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ 
-        "form-name": "applicants",
+        "form-name": "applicantsDataForm",
         "position":post.frontmatter.position,
         "company":company.node.frontmatter.title,
         ...body
