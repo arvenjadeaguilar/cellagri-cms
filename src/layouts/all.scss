@@ -608,8 +608,8 @@ input[type="file"] {
   border-color:transparent;
   cursor: pointer;
   @media only screen and (max-width: 640px)  {
-    max-width: 400px;
     font-size: 14px;
+    width: 100%;
   }
   &.btn-success{
     background-color: #247065;
@@ -726,7 +726,32 @@ input[type="file"] {
   display: none;
   text-align: left;
   @media only screen and (max-width: 640px)  {
-    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .hamburger{
+    font-size: 26px;
+    color:#121B27;
+    cursor: pointer;
+  }
+}
+.navMobile{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  .closeIcon{
+    align-self: flex-end;
+    font-size: 32px;
+    margin-bottom: 96px;
+    cursor: pointer;
+  }
+  .navItem{
+    font-size: 32px;
+    line-height: 2;
+    text-decoration: none;
   }
 }
 .feature_list{
