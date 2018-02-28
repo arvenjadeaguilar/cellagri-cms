@@ -521,7 +521,7 @@ h1{
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;
   @media only screen and (max-width: 640px)  {
-    font-size: 30px;	
+    font-size: 24px;	
   }
 }
 h2{
@@ -585,7 +585,7 @@ h3{
   font-size: 16px;
   padding: 16px;
   border: none;
-  max-width: 271px;
+  max-width: 60%;
   border: 1px solid rgba(34,51,72,0.23);
   @media only screen and (max-width: 640px)  {
     max-width: 400px;
@@ -607,6 +607,7 @@ input[type="file"] {
   cursor: pointer;
   @media only screen and (max-width: 640px)  {
     max-width: 400px;
+    font-size: 14px;
   }
   &.btn-success{
     background-color: #247065;
@@ -650,21 +651,32 @@ input[type="file"] {
   background-color: #F7FAFC;;
   color: #223348;
   padding: 97px 0px 0px 0px;
-
+  @media only screen and (max-width: 768px)  {
+    padding:0;
+  }
   .title_container{
     text-align: left;
     padding-bottom: 16px;
+    @media only screen and (max-width: 1024px)  {
+      text-align: center;
+    }
   }
   .more{
     a{
       font-size: 24px;
       text-decoration: underline;
+      @media only screen and (max-width: 640px)  {
+        font-size: 18px;
+      }
     }
   }
 }
 .more{
   margin:32px 0 48px 0;
   text-align: center;
+  @media only screen and (max-width: 640px)  {
+    margin:32px 0 16px 0;
+  }
   a{
     line-height: 1.5;
     font-weight: 500;
@@ -710,6 +722,7 @@ input[type="file"] {
 }
 .navbar-brand-mobile{
   display: none;
+  text-align: left;
   @media only screen and (max-width: 640px)  {
     display: block;
   }
@@ -720,6 +733,9 @@ input[type="file"] {
   margin: 16px auto;
   @media only screen and (max-width: 1024px)  {
     max-width: 1024px;
+  }
+  @media only screen and (max-width: 375px)  {
+    grid-template-columns: repeat(auto-fill, minmax(calc(100vw - 32px), calc(100vw - 32px)));
   }
 }
 
@@ -742,8 +758,6 @@ input[type="file"] {
       width: 100%;
     }
     height: 219px;	
-    width: 340px;
-    
   }
   .feature_headLine{
     padding: 16px ;
@@ -754,6 +768,14 @@ input[type="file"] {
   color:#223348;
   background-color: rgba(36,112,101,1);
   padding: 32px 0;
+  @media only screen and (max-width: 768px)  {
+    padding: 0;
+  }
+  .container{
+    @media only screen and (max-width: 768px)  {
+      padding: 0;
+    }
+  }
   .jobs{
     h2{
       text-align: center;
@@ -780,6 +802,9 @@ input[type="file"] {
   padding: 32px 0;
   p{
     font-size: 20px;
+    @media only screen and (max-width: 768px)  {
+      font-size: 16px;
+    }
   }
   .content{
     max-width: 606px;
@@ -792,14 +817,33 @@ input[type="file"] {
 .footer{
   color:#223348;
   background-color: #fff;
-  padding:32px 0;
+  padding:64px 0 32px 0;
   font-size: 14px;
   .container{
     display: grid;
     grid-gap: 16px;
-    grid-template-columns: calc(100% * 0.4) calc(100% * 0.60);
+    grid-column-gap: 32px;
+    grid-template-columns: calc(100% * 0.5) calc(100% * 0.50);
     grid-auto-flow: column;
     width: 100%;
+    margin-bottom:24px;
+    
+    &.footerNav{
+      margin-top:24px;
+      .navbar-footer{
+        margin: 1em 0;
+        font-size: 16px;
+        line-height: 1.5;
+        margin-left: auto;
+        .nav{
+          margin-left: auto;
+        }
+        @media only screen and (max-width: 1024px)  {
+          display: none;
+        }
+      }
+      
+    }
     
     @media only screen and (max-width: 1024px)  {
       display: block;
@@ -846,41 +890,9 @@ input[type="file"] {
 .company{
   color:rgba(43,61,84,1);;
   font-size: 20px;
+  
   @media only screen and (max-width: 640px)  {
     font-size: 16px;
-  }
-  
-  .navbar-brand{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    @media only screen and (max-width: 640px)  {
-      display: flex;
-    }
-    .navbar-item{
-      img{
-        @media only screen and (max-width: 640px)  {
-          width: 48px;
-          height: 48px;
-        }
-      }
-    }
-    .nav{
-      .navbar-item{
-        @media only screen and (max-width: 640px)  {
-          font-size: 16px;
-          margin: 0 8px;
-        }
-        
-      }
-    }
-    
-  }
-  .navbar-brand-mobile{
-    display: none;
-    @media only screen and (max-width: 640px)  {
-      display: none;
-    }
   }
   .job-grid-containers{
     background-color: rgba(36,112,101,1);
@@ -889,6 +901,9 @@ input[type="file"] {
       max-width: 1280px;
       margin: 0 auto;
       justify-content: center;
+      @media only screen and (max-width: 640px)  {
+        padding: 32px 0;
+      }
     }
   }
   
@@ -910,15 +925,18 @@ input[type="file"] {
     "socialMedia"; 
   justify-items: center;
   padding: 56px 0 48px 0;
+
   @media only screen and (max-width: 640px)  {
-    grid-template-columns: 64px auto;
-    grid-template-rows: auto;
-    grid-template-areas: 
-      "logo headerName"
-      "socialMedia socialMedia"; 
-    grid-gap: 16px;
-    justify-items: start;
-    align-items: center;
+    // grid-template-columns: 64px auto;
+    // grid-template-rows: auto;
+    // grid-template-areas: 
+    //   "logo headerName"
+    //   "socialMedia socialMedia"; 
+    // grid-gap: 16px;
+    // justify-items: start;
+    // align-items: center;
+    padding: 16px 0 0 0;
+    margin:16px;
   }
   .logo{
     grid-area: logo;
@@ -928,9 +946,13 @@ input[type="file"] {
     max-width: 606px;
     font-size: 20px;
     text-align: center;
+    @media only screen and (max-width: 640px)  {
+      font-size: 16px;
+    }
   }
   .title{
     grid-area: headerName;
+    text-align: center
   }
   .header-label{
     color: rgba(18,27,39,0.6);
@@ -1018,6 +1040,8 @@ input[type="file"] {
   padding: 64px 0;
   @media only screen and (max-width: 640px)  {
     grid-template-columns: auto;
+    padding: 0;
+    
   }
   .jobs{
     width: 100%;
@@ -1037,8 +1061,9 @@ input[type="file"] {
       margin: 16px;
       padding: 1px 48px;
       background-color: #fff;
-      @media only screen and (max-width: 640px)  {
-        margin: 16px 0;
+      @media only screen and (max-width: 320px)  {
+        margin:16px;
+        padding: 1px 32px;
       }
       .item{
         display: grid;
@@ -1051,11 +1076,19 @@ input[type="file"] {
           "logo title date"
           "logo company date";
         align-items: center;
-        @media only screen and (max-width: 640px)  {
+        @media only screen and (max-width: 424px)  {
           grid-template-columns: 24px auto auto;
           grid-template-rows: auto;
           grid-template-areas: 
             "title title title"
+            "logo company company"; 
+          margin: 35px 0;
+        }
+        @media only screen and (max-width: 640px) and (min-width: 425px)  {
+          grid-template-columns: 64px auto auto;
+          grid-template-rows: auto;
+          grid-template-areas: 
+            "logo title title"
             "logo company company"; 
           margin: 35px 0;
         }
@@ -1065,30 +1098,30 @@ input[type="file"] {
           max-height: 64px;
           grid-area: logo;
           
-          @media only screen and (max-width: 640px)  {
+          @media only screen and (max-width: 424px)  {
             width: 24px;
             max-height: 24px;
           }
         }
         .title{
           grid-area: title;
-          @media only screen and (max-width: 640px)  {
+          @media only screen and (max-width: 424px)  {
             color: #60A65F;	
             font-family: "Inter UI";	
-            font-size: 16px;
+            font-size: 20px;
             text-decoration: underline;
             font-weight: 400;
           }
         }
         .inline{
           grid-area: company;
-          @media only screen and (max-width: 640px)  {
+          @media only screen and (max-width: 424px)  {
             grid-area: company;
             font-size: 14px;
           }
           h3{
-            @media only screen and (max-width: 640px)  {
-              font-size: 14px;
+            @media only screen and (max-width: 424px)  {
+              font-size: 16px;
             }
           }
           .location{
@@ -1115,8 +1148,11 @@ input[type="file"] {
   display: grid;
   grid-gap: 32px;
   grid-template-columns: repeat(auto-fill, minmax(350px, 350px));
+  @media only screen and (max-width: 640px)  {
+    grid-template-columns: repeat(auto-fill, minmax(calc(100vw - 32px), calc(100vw - 32px)));
+  }
   .item{
-    width: 350px;
+    max-width: 350px;
     background-color: #fff;
     padding:32px 40px;
     a{
@@ -1140,7 +1176,7 @@ input[type="file"] {
     }
     img{
       height: 64px;
-      max-width: 260px;
+      max-width: 100%;
     }
   }
 }
@@ -1153,10 +1189,17 @@ input[type="file"] {
   justify-content: left;
   padding: 34px 0 64px 0;
   grid-gap: 32px;
-
+  @media only screen and (max-width: 640px)  {
+    grid-template-areas: "logo" "description";
+    grid-template-columns: 1fr;
+  }
   .logo_container{
     margin-top: 32px;
     grid-area: logo;
+    @media only screen and (max-width: 640px)  {
+      justify-self: center;
+      text-align: center;
+    }
     .logo{
       height: 100%;
       max-height: 120px;
@@ -1165,6 +1208,9 @@ input[type="file"] {
     .title{
       text-align: left;
       margin: 0;
+      @media only screen and (max-width: 1024px) and (min-width: 640px)  {
+        font-size: 1.5em;
+      }
     }
   }
   .desc_container{
@@ -1181,15 +1227,22 @@ input[type="file"] {
   }
 }
 .jobDescription{
-  width: 820px;
+  max-width: 820px;
   margin: 0 auto;
   padding: 96px 0;
+  @media only screen and (max-width: 640px)  {
+    margin: 16px;
+    padding:16px 0;
+  }
   .jobPanelDesc{
     background-color: #fff;
     padding: 64px 131px;
     font-size: 18px;	
     line-height: 1.5;
     color: rgba(18,27,39,0.85);
+    @media only screen and (max-width: 640px)  {
+      padding:16px;
+    }
     p{
       text-align: left;
     }
@@ -1198,6 +1251,9 @@ input[type="file"] {
       padding-top: 63px;
       margin-top: 63px;
       border-top: 1px solid rgba(205,209,213,1);
+      @media only screen and (max-width: 640px)  {
+        padding-top:16px;
+      }
       .btn{
         margin-top: 16px;
         font-size: 14px;
@@ -1208,7 +1264,7 @@ input[type="file"] {
 }
 
 .form{
-  width: 518px;
+  max-width: 518px;
   margin: 0 auto;
   font-size: 16px;
   text-align: left;
@@ -1246,6 +1302,7 @@ input[type="file"] {
 }
 .contactUs{
   background-color: #F6F6F6;
+  padding: 20px;
   .form{
     padding: 48px 0;
     
@@ -1264,5 +1321,14 @@ input[type="file"] {
 .note{
   font-size: 13px;
   color:rgba(18, 27, 39, 0.85);
+}
+hr{
+  background: #CDD1D5;
+  max-width: 1200px; 
+  height: 1px;
+  border: 0; 
+  @media only screen and (max-width: 1200px)  {
+    margin: 16px;
+  }    
 }
 // @import "~bulma"

@@ -15,9 +15,6 @@ const Navbar = () => (
           <a href="https://medium.com/cellagri" className="navbar-item">
             ARTICLES
           </a>
-          <a href="/contact" target="_top" className="navbar-item">
-            CONTACT
-          </a>
           <a href="/companies"  className="navbar-item">COMPANIES</a> 
           <a href="/jobs "  className="navbar-item">JOBS</a> 
         </div>

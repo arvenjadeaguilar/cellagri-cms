@@ -9,7 +9,7 @@ export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section company">
+    <section className="section">
       <Navbar color="#2B3D54"/>
         <div className="section">
           <div className="header">
@@ -24,7 +24,7 @@ export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
                 {jobs ? jobs.map(job => (
                   <div className="item">
                     <img className="item-logo" src={job.thumbnail} alt={"logo"}/>
-                    <a href={job.path}><h3 className="title">{job.position && job.position.toUpperCase()}</h3></a>
+                    <h3 className="title"><a href={job.path}>{job.position && job.position.toUpperCase()}</a></h3>
                     <div className="inline">
                       <h3>{job.companyName}</h3>
                       <span className="location">{job.location}</span>

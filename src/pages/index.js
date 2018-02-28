@@ -8,6 +8,8 @@ import flatten from 'lodash/flatten'
 import slice from 'lodash/slice'
 import find from 'lodash/find'
 import orderBy from 'lodash/orderBy'
+import { navigateTo } from "gatsby-link"
+
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
     if (typeof window !== `undefined` && window.netlifyIdentity) {
@@ -121,7 +123,7 @@ export default class IndexPage extends React.Component {
                       {jobs ? jobs.map(job => (
                         <div className="item">
                           <img className="item-logo" src={job.thumbnail} alt={"logo"}/>
-                          <Link to={job.path}><h3 className="title">{job.position}</h3></Link>
+                          <h3 className="title"><Link to={job.path}>{job.position}</Link></h3>
                           <div className="inline">
                             <h3>{job.title}</h3>
                             <span className="location">{job.location}</span>
@@ -132,7 +134,7 @@ export default class IndexPage extends React.Component {
                         </div>
                       )):null}
                       <div className="more">
-                        <a href="/jobs" className="btn btn-info">See all jobs</a>
+                        <button className="btn btn-info" onClick={()=>navigateTo('/jobs')}>See all jobs</button>
                       </div>
                     </div>
                     
