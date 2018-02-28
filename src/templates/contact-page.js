@@ -15,7 +15,7 @@ export const ContactUsTemplate = ({ title,handleSubmit,showSuccess,handleChange,
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section company">
+    <section className="section">
       <Navbar color="#2B3D54"/>
       <div className="">
         <div className="section">

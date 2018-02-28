@@ -58,6 +58,8 @@ $primary-invert: $kaldi-red-invert;
 body {
   margin: 0;
   font-family: 'Plex Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /**
@@ -759,9 +761,15 @@ input[type="file"] {
     }
     height: 219px;	
   }
+  .feature_date{
+    color: rgba(18,27,39,0.6);
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    padding: 24px 16px 4px 16px;
+  }
   .feature_headLine{
-    padding: 16px ;
-    
+    padding: 4px 16px 16px 16px;
   }
 }
 .main-job-list{
@@ -1332,3 +1340,13 @@ hr{
   }    
 }
 // @import "~bulma"
+.blog{
+  text-align: left;
+  color: rgba(18,27,39,0.85);
+  img{
+    max-width:100%;
+  }
+  p{
+    text-align: left;
+  }
+}
