@@ -617,6 +617,9 @@ input[type="file"] {
     &:hover{
       background-color: rgba(36,112,101,.7);
     }
+    &:disabled{
+      background-color: #ccc;
+    }
   }
   &.btn-info{
     background-color: rgba(18,27,39,0.85);
@@ -624,7 +627,11 @@ input[type="file"] {
     &:hover{
       background-color: rgba(18,27,39,0.7);
     }
+    &:disabled{
+      background-color: #ccc;
+    }
   }
+
 }
 .welcome{
   background-color: #fff;

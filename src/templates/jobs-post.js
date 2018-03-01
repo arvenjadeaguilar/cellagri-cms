@@ -223,7 +223,10 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
               </div>
             </div>
             <div className="formAction">
-              <button type="submit" className="btn btn-success full" disabled={true}>SEND APPLICATION</button>
+              <button type="submit" className="btn btn-success full" disabled={accepted.length==0}>SEND APPLICATION</button>
+              { accepted.length == 0?
+                <div className="note">*Please uppload your csv</div>:null
+              }
             </div>
           </form>
         </div>
