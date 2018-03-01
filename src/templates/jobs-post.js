@@ -109,7 +109,7 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
         </div> 
       }
       
-      <form name="applicantsDataForm1" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
+      <form name="applicants" data-netlify-honeypot="bot-field" data-netlify="true" hidden>
         <input type="text" name="fullName" />
         <input type="email" name="email" />
         <input type="file" name="cv" accept="application/pdf"/>
@@ -133,7 +133,7 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
           <div className="closeIcon">
             <FaClose onClick={()=>closeModal()}/>
           </div>
-          <form name="applicantsDataForm1" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit} required="true">
+          <form name="applicants" method="POST" data-netlify-honeypot="bot-field" data-netlify="true" onSubmit={handleSubmit} required="true">
             <div className="formSection">
               <div className="formHeader">
                 BASIC INFO
@@ -276,7 +276,7 @@ export default class JobsPost extends React.Component {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ 
-        "form-name": "applicantsDataForm1",
+        "form-name": "applicants",
         "position":post.frontmatter.position,
         "company":company.node.frontmatter.title,
         ...body
