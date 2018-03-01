@@ -245,15 +245,22 @@ export default class JobsPost extends React.Component {
     //     // Do what you want here
     //     alert('Well, recaptcha is checked !');
     // }
+    let data1 = { 
+      "form-name": "applicantsDataForm1",
+      "position":post.frontmatter.position,
+      "company":company.node.frontmatter.title,
+      ...body
+    };
+    var formData  = new FormData();
+
+    for(var name in data1) {
+      formData.append(name, data1[name]);
+    }
+  
     fetch("/", {
       method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ 
-        "form-name": "applicantsDataForm1",
-        "position":post.frontmatter.position,
-        "company":company.node.frontmatter.title,
-        ...body
-      })
+      headers: { "Content-Type": "multipart/form-data" },
+      body: formData
     })
       .then(() => this.setState({modalOpen:false,success:true}))
       .catch(error => alert(error));
