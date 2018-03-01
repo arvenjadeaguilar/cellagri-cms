@@ -245,6 +245,7 @@ export default class JobsPost extends React.Component {
       rejected: []
     };
   }
+  
   onFileUpload(){
     let accessToken = "uSYoWKriaLAAAAAAAAAABvOw2boyy87WqqQLp9xaClYJO49alFR8nIj8c1r4_snE";
     var dbx = new Dropbox({ accessToken: accessToken });
