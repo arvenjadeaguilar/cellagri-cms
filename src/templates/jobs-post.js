@@ -12,8 +12,10 @@ import Footer from '../components/Footer';
 import find from 'lodash/find';
 import clone from 'lodash/clone';
 import Modal from 'react-modal';
-import { navigateTo } from "gatsby-link"
-
+import { navigateTo } from "gatsby-link";
+import Dropzone from 'react-dropzone';
+import {Dropbox} from 'dropbox';
+import Moment from 'moment';
 let getIcon=(media)=>{
   if(media == 'Twitter'){
     return <FaTwitter />
@@ -46,7 +48,7 @@ const customStyles = {
   }
 };
 
-export const JobsPostTemplate = ({ title,handleSubmit,handleChange,showSuccess, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia, contentComponent }) => {
+export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleChange,showSuccess, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia,handleFileChange, contentComponent }) => {
   const PostContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -157,12 +159,21 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange,showSuccess, 
                   YOUR CV's URL
                 </label>
                 <div>
-                  <input type="file" className="input" name="cv" accept="application/pdf" onChange={handleChange} required="true"/>
-                  <span className="note">
-                    Paste your CV's url. You can upload your CV to Dropbox, Google Drive or WeTransfer
-                  </span>
+                  <Dropzone
+                    accept="application/pdf"
+                    onDrop={(accepted, rejected) => { handleFileChange( accepted, rejected ); }}
+                  >
+                    <p>Try dropping some files here, or click to select files to upload.</p>
+                    <p>Only *.pdf images will be accepted</p>
+                  </Dropzone>
                 </div>
-                
+                <aside>
+                  <ul>
+                    {
+                      accepted.map(f => <li key={f.name}>{f.name}</li>)
+                    }
+                  </ul>
+                </aside>
               </div>
               <div className="formBody">
                 <label>
@@ -212,7 +223,7 @@ export const JobsPostTemplate = ({ title,handleSubmit,handleChange,showSuccess, 
               </div>
             </div>
             <div className="formAction">
-              <button type="submit" className="btn btn-success full">SEND APPLICATION</button>
+              <button type="submit" className="btn btn-success full" disabled={true}>SEND APPLICATION</button>
             </div>
           </form>
         </div>
@@ -226,41 +237,50 @@ export default class JobsPost extends React.Component {
     super(props);
     this.state = {
       modalOpen:false,
-      success:false
+      success:false,
+      accepted: [],
+      rejected: []
     };
   }
+  onFileUpload(){
+    let accessToken = "uSYoWKriaLAAAAAAAAAABvOw2boyy87WqqQLp9xaClYJO49alFR8nIj8c1r4_snE";
+    var dbx = new Dropbox({ accessToken: accessToken });
+
+    this.state.accepted.forEach(file => {
+      console.log(file);
+      dbx.filesUpload({path: '/' + this.state.fullName+'-'+ Moment().format('DD-MM-YY-hh-mm-ss')+'.pdf', contents: file})
+      .then(function(response) {
+        console.log(response);
+      })
+      .catch(function(error) {
+      console.error(error);
+      });
+    });
+  }
+  
   handleSubmit = e => {
     let body = clone(this.state);
     delete body.modalOpen;
     delete body.success;
+    delete body.accepted;
+    delete body.rejected;
+    
     let {data} = this.props;
     const { markdownRemark: post,allMarkdownRemark:companies } = data;
     let company = find(companies.edges,(item)=>{
       return item.node.frontmatter.path == post.frontmatter.companyRelated;
     });
 
-    // if(grecaptcha && grecaptcha.getResponse().length > 0)
-    // {
-    //     //the recaptcha is checked
-    //     // Do what you want here
-    //     alert('Well, recaptcha is checked !');
-    // }
-    let data1 = { 
-      "form-name": "applicantsDataForm1",
-      "position":post.frontmatter.position,
-      "company":company.node.frontmatter.title,
-      ...body
-    };
-    var formData  = new FormData();
-
-    for(var name in data1) {
-      formData.append(name, data1[name]);
-    }
-  
+    this.onFileUpload();
     fetch("/", {
       method: "POST",
-      headers: { "Content-Type": "multipart/form-data" },
-      body: formData
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({ 
+        "form-name": "applicantsDataForm1",
+        "position":post.frontmatter.position,
+        "company":company.node.frontmatter.title,
+        ...body
+      })
     })
       .then(() => this.setState({modalOpen:false,success:true}))
       .catch(error => alert(error));
@@ -268,6 +288,11 @@ export default class JobsPost extends React.Component {
   };
 
   handleChange = e => this.setState({ [e.target.name]: e.target.value });
+  
+  handleFileChange(accepted, rejected){
+    this.setState({ accepted, rejected });
+  }
+  
 
   openModal(){
     this.setState({modalOpen:true});
@@ -293,7 +318,10 @@ export default class JobsPost extends React.Component {
       socialMedia={company.node.frontmatter.socialMedia}
       handleChange={this.handleChange}
       handleSubmit={this.handleSubmit}
+      handleFileChange = {this.handleFileChange.bind(this)}
       showSuccess = {this.state.success}
+      accepted = {this.state.accepted}
+      rejected = {this.state.rejected}
     />);
   }
 };
