@@ -47,11 +47,18 @@ class Navbar extends React.Component {
               <img src={require('../img/cellagri-logo@1x.png')}  srcSet={`${require('../img/cellagri-logo@1x.png')} 1x, ${require('../img/cellagri-logo@2x.png')} 2x`} alt="Cell Agri"  />
             </Link>
             <div className="nav">
-              <a href="https://medium.com/cellagri" className="navbar-item">
+              <Link to="/articles" className="navbar-item">
                 ARTICLES
-              </a>
-              <a href="/companies"  className="navbar-item">COMPANIES</a> 
-              <a href="/jobs "  className="navbar-item">JOBS</a> 
+              </Link>
+              <Link to="/companies" className="navbar-item">
+                COMPANIES
+              </Link>
+              <Link to="/jobs" className="navbar-item">
+                JOBS
+              </Link>
+              <Link to="/contact" className="navbar-item">
+                CONTACT
+              </Link>
             </div>
           </div>
           <div className="navbar-brand-mobile">

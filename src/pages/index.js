@@ -32,6 +32,26 @@ export default class IndexPage extends React.Component {
     }).map((job)=>{
       return job.node.frontmatter;
     });
+
+    let blogList = posts && posts.filter(({node})=>{
+      return node.frontmatter.templateKey == 'blog-post'
+    }).map((blog)=>{
+      return blog.node.frontmatter;
+    });
+
+    let blogJSX = blogList.map((blog)=>{
+      return (
+        <a key={blog.path} href={blog.path} className="feature">
+          <div className="feature_image_container">
+            <img src={blog.image} />
+          </div>
+          <h3 className="feature_headLine">
+            {blog.title}
+          </h3>
+        </a>
+      );
+    });
+
     let jobsList = posts && posts.filter(({node})=>{
       return node.frontmatter.templateKey == 'jobs-post'
     }).map((job)=>{
@@ -81,33 +101,10 @@ export default class IndexPage extends React.Component {
               <h2 className="h1">News & Insights</h2>
             </div>
             <div className="container-center feature_list">
-              <a href="https://medium.com/cellagri/january-2018-the-month-in-review-40df065cc1a2" className="feature">
-                <div className="feature_image_container">
-                  <img src={require('../img/blog-image-clean-meat.jpeg')} />
-                </div>
-                <h3 className="feature_headLine">
-                  January 2018: The Month in Review
-                </h3>
-              </a>
-              <a href="https://medium.com/cellagri/cellular-agriculture-the-obstacles-ahead-83ecd77115ac" className="feature">
-                <div className="feature_image_container">
-                  <img src={require('../img/blog-image.jpeg')} />
-                </div>
-                <h3 className="feature_headLine">
-                  Cellular Agriculture: The Obstacles Ahead
-                </h3>
-              </a>
-              <a href="https://medium.com/cellagri/lab-grown-clothing-dd1eef9eafa" className="feature">
-                <div className="feature_image_container">
-                  <img src={require('../img/blog-image-lab-grown.jpeg')} />
-                </div>
-                <h3 className="feature_headLine">
-                  Lab Grown Clothing
-                </h3>
-              </a>
+              {blogJSX}
             </div>
             <div className="more">
-              <a href="https://medium.com/cellagri">More trends, research and insights on our blog</a>
+              <Link to={'/articles'}>More trends, research and insights on our blog</Link>
             </div>
           </div>
         </section>
@@ -180,6 +177,7 @@ export const pageQuery = graphql`
             date(formatString: "MMM DD")
             path
             logo
+            image
             position
             thumbnail
             companyRelated
