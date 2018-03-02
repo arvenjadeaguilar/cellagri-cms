@@ -16,6 +16,8 @@ import { navigateTo } from "gatsby-link";
 import Dropzone from 'react-dropzone';
 import {Dropbox} from 'dropbox';
 import Moment from 'moment';
+import FaSpinner from 'react-icons/lib/fa/spinner';
+
 let getIcon=(media)=>{
   if(media == 'Twitter'){
     return <FaTwitter />
@@ -48,7 +50,7 @@ const customStyles = {
   }
 };
 
-export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleChange,showSuccess, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia,handleFileChange, contentComponent }) => {
+export const JobsPostTemplate = ({accepted,rejected,loading, title,handleSubmit,handleChange,showSuccess, logo,company,modalOpen,closeModal,openModal, jobs, website,thumbnail, content, description, socialMedia,handleFileChange, contentComponent }) => {
   const PostContent = contentComponent || Content;
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
@@ -219,9 +221,19 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
               </div>
             </div>
             <div className="formAction">
-              <button type="submit" className="btn btn-success full" disabled={!accepted}>SEND APPLICATION</button>
+              <button type="submit" className="btn btn-success full" disabled={!accepted || loading}>
+                {
+                  !loading?
+                    <span>
+                      SEND APPLICATION
+                    </span>:
+                    <span>
+                      Uploading your csv <FaSpinner className="fa-spin"/>
+                    </span>
+                }
+              </button>
               { !accepted?
-                <div className="note">Please uppload your csv</div>:null
+                <div className="note">*Please uppload your csv</div>:null
               }
             </div>
           </form>
@@ -238,16 +250,19 @@ export default class JobsPost extends React.Component {
       modalOpen:false,
       success:false,
       accepted: null,
-      rejected: []
+      rejected: [],
+      loading:false
     };
   }
 
   handleSubmit = e => {
     let body = clone(this.state);
+    let _this = this;
     delete body.modalOpen;
     delete body.success;
     delete body.accepted;
     delete body.rejected;
+    delete body.loading;
     
     let {data} = this.props;
     const { markdownRemark: post,allMarkdownRemark:companies } = data;
@@ -260,10 +275,9 @@ export default class JobsPost extends React.Component {
     let dbx = new Dropbox({ accessToken: accessToken });
     let name = this.state.fullName+'-'+ Moment().format('DD-MM-YY-hh-mm-ss')+'.pdf';
     body.cv = name;
-    
+    this.setState({loading:true});
     dbx.filesUpload({path: '/' + name, contents: this.state.accepted})
     .then(function(response) {
-      console.log(response);
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -274,7 +288,7 @@ export default class JobsPost extends React.Component {
           ...body
         })
       })
-      .then(() => this.setState({modalOpen:false,success:true}))
+      .then(() => _this.setState({modalOpen:false,success:true,loading:false}))
       .catch(error => alert(error));
     })
     .catch(function(error) {
@@ -319,6 +333,7 @@ export default class JobsPost extends React.Component {
       showSuccess = {this.state.success}
       accepted = {this.state.accepted}
       rejected = {this.state.rejected}
+      loading = {this.state.loading}
     />);
   }
 };
