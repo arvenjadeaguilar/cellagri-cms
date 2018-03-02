@@ -168,11 +168,7 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
                   </Dropzone>
                 </div>
                 <aside>
-                  <ul>
-                    {
-                      accepted.map(f => <li key={f.name}>{f.name}</li>)
-                    }
-                  </ul>
+                  {accepted && accepted.name}
                 </aside>
               </div>
               <div className="formBody">
@@ -223,8 +219,8 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
               </div>
             </div>
             <div className="formAction">
-              <button type="submit" className="btn btn-success full" disabled={accepted.length==0}>SEND APPLICATION</button>
-              { accepted.length == 0?
+              <button type="submit" className="btn btn-success full" disabled={!accepted}>SEND APPLICATION</button>
+              { !accepted?
                 <div className="note">*Please uppload your csv</div>:null
               }
             </div>
@@ -241,25 +237,13 @@ export default class JobsPost extends React.Component {
     this.state = {
       modalOpen:false,
       success:false,
-      accepted: [],
+      accepted: null,
       rejected: []
     };
   }
-  
-  onFileUpload(){
-    let accessToken = "uSYoWKriaLAAAAAAAAAABvOw2boyy87WqqQLp9xaClYJO49alFR8nIj8c1r4_snE";
-    var dbx = new Dropbox({ accessToken: accessToken });
 
-    this.state.accepted.forEach(file => {
-      console.log(file);
-      dbx.filesUpload({path: '/' + this.state.fullName+'-'+ Moment().format('DD-MM-YY-hh-mm-ss')+'.pdf', contents: file})
-      .then(function(response) {
-        console.log(response);
-      })
-      .catch(function(error) {
-      console.error(error);
-      });
-    });
+  async onFileUpload(){
+    
   }
   
   handleSubmit = e => {
@@ -275,7 +259,21 @@ export default class JobsPost extends React.Component {
       return item.node.frontmatter.path == post.frontmatter.companyRelated;
     });
 
-    this.onFileUpload();
+    
+    let accessToken = "uSYoWKriaLAAAAAAAAAABvOw2boyy87WqqQLp9xaClYJO49alFR8nIj8c1r4_snE";
+    let dbx = new Dropbox({ accessToken: accessToken });
+    let name = this.state.fullName+'-'+ Moment().format('DD-MM-YY-hh-mm-ss')+'.pdf';
+    body.cv = name;
+    
+    dbx.filesUpload({path: '/' + name, contents: this.state.accepted})
+    .then(function(response) {
+      console.log(response);
+    })
+    .catch(function(error) {
+      console.error(error);
+    });
+
+
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -294,7 +292,7 @@ export default class JobsPost extends React.Component {
   handleChange = e => this.setState({ [e.target.name]: e.target.value });
   
   handleFileChange(accepted, rejected){
-    this.setState({ accepted, rejected });
+    this.setState({ accepted:accepted[0]});
   }
   
 
