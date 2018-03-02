@@ -164,7 +164,7 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
                     onDrop={(accepted, rejected) => { handleFileChange( accepted, rejected ); }}
                   >
                     <p>Try dropping some files here, or click to select files to upload.</p>
-                    <p>Only *.pdf images will be accepted</p>
+                    <p>Only pdf images will be accepted</p>
                   </Dropzone>
                 </div>
                 <aside>
@@ -221,7 +221,7 @@ export const JobsPostTemplate = ({accepted,rejected, title,handleSubmit,handleCh
             <div className="formAction">
               <button type="submit" className="btn btn-success full" disabled={!accepted}>SEND APPLICATION</button>
               { !accepted?
-                <div className="note">*Please uppload your csv</div>:null
+                <div className="note">Please uppload your csv</div>:null
               }
             </div>
           </form>
@@ -242,10 +242,6 @@ export default class JobsPost extends React.Component {
     };
   }
 
-  async onFileUpload(){
-    
-  }
-  
   handleSubmit = e => {
     let body = clone(this.state);
     delete body.modalOpen;
