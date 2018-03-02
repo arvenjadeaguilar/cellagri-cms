@@ -264,24 +264,23 @@ export default class JobsPost extends React.Component {
     dbx.filesUpload({path: '/' + name, contents: this.state.accepted})
     .then(function(response) {
       console.log(response);
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: encode({ 
+          "form-name": "applicants",
+          "position":post.frontmatter.position,
+          "company":company.node.frontmatter.title,
+          ...body
+        })
+      })
+      .then(() => this.setState({modalOpen:false,success:true}))
+      .catch(error => alert(error));
     })
     .catch(function(error) {
       console.error(error);
     });
 
-
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ 
-        "form-name": "applicants",
-        "position":post.frontmatter.position,
-        "company":company.node.frontmatter.title,
-        ...body
-      })
-    })
-      .then(() => this.setState({modalOpen:false,success:true}))
-      .catch(error => alert(error));
     e.preventDefault();
   };
 
