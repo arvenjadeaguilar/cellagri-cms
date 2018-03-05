@@ -8,9 +8,7 @@ companyRelated: /just
 ---
 At JUST, Inc. our mission is to bring healthier, more affordable food to everyone, everywhere. We developed a technology platform that enables us to examine plants from different corners of the planet in search for better, healthier, and more sustainable ingredients for use in food products. You are a **food scientist** with strong applied research experience. You tackle product development problems hands-on, arriving at solutions to complex problems using first principles of physics and chemistry. You are keen on applying research to discover how novel, sustainable ingredients can be used to enable entire categories of delicious food products to be made.   
 
- At JUST, Inc. you will be a key member of our **Food Science Team **developing innovative products using proprietary ingredients that are new to the world. You will be engaged in product formulation activities, process development, supporting scale-up activities and shelf life evaluation. You will also be involved in functional property characterization of our proprietary ingredients as it relates to finished product performance. You will be a critical link between our research team discovering novel ingredients, process engineers and culinary chefs. Come join us and together we will create the future of food. 
-
-   
+ At JUST, Inc. you will be a key member of our **Food Science Team** developing innovative products using proprietary ingredients that are new to the world. You will be engaged in product formulation activities, process development, supporting scale-up activities and shelf life evaluation. You will also be involved in functional property characterization of our proprietary ingredients as it relates to finished product performance. You will be a critical link between our research team discovering novel ingredients, process engineers and culinary chefs. Come join us and together we will create the future of food. 
 
 **You Will:**
 
@@ -29,8 +27,6 @@ At JUST, Inc. our mission is to bring healthier, more affordable food to everyon
 \- Report project progress through technical updates, project briefs, project summaries to be presented to technical and to non-technical teams 
 
 \- Manage multiple projects and adhere to fast timelines Encourage and drive invention 
-
-
 
 **You Have:**
 
