@@ -6,7 +6,7 @@ path: /jobs/modernmeadow/fiber-scientist
 date: 2018-03-05T05:59:17.200Z
 companyRelated: /modernmeadow
 ---
-As we continue to grow we are seeking to hire a Fiber Scientist to help create a new class of high performing textiles.
+As we continue to grow we are seeking to hire a **Fiber Scientist** to help create a new class of high performing textiles.
 
 **Responsibilities:**
 
@@ -19,8 +19,6 @@ As we continue to grow we are seeking to hire a Fiber Scientist to help create a
 \- Goal orientated, motivated, and ability to work independently
 
 \- Excellent communication skills and comfortable working in a fast-paced environment
-
-
 
 **Requirements:**
 
