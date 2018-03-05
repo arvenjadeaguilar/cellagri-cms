@@ -58,11 +58,11 @@ class Navbar extends React.Component {
   }
   
   disableScroll() {
-    if (window.addEventListener) // older FF
+    if (window.addEventListener) 
       window.addEventListener('DOMMouseScroll', this.preventDefault, false);
-    window.onwheel = this.preventDefault; // modern standard
+    window.onwheel = this.preventDefault;
     window.onmousewheel = document.onmousewheel = this.preventDefault; // older browsers, IE
-    window.ontouchmove  = this.preventDefault; // mobile
+    window.ontouchmove  = this.preventDefault;
     document.onkeydown  = this.preventDefaultForScrollKeys;
   }
   
@@ -73,6 +73,7 @@ class Navbar extends React.Component {
     window.onwheel = null; 
     window.ontouchmove = null;  
     document.onkeydown = null;  
+  
   }
 
   render() {
