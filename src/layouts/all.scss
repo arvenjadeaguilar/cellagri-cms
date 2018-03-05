@@ -1139,7 +1139,7 @@ input[type="file"] {
         grid-template-areas: 
           "logo title date"
           "logo company date";
-        align-items: center;
+        grid-row-gap: 8px;
         min-width: 0;
         min-height: 0;
         overflow: hidden;
@@ -1160,11 +1160,10 @@ input[type="file"] {
           margin: 35px 0;
         }
         .item-logo{
-          align-self: center;
           width: 64px;
           max-height: 64px;
           grid-area: logo;
-          
+          margin-top:4px;
           @media only screen and (max-width: 424px)  {
             width: 24px;
             max-height: 24px;
@@ -1175,7 +1174,7 @@ input[type="file"] {
           @media only screen and (max-width: 424px)  {
             color: #60A65F;	
             font-family: "Plex Sans";	
-            font-size: 20px;
+            font-size: 18px;
             text-decoration: underline;
             font-weight: 400;
           }
@@ -1431,4 +1430,8 @@ hr{
     margin: 10px;
     color:inherit;
   }
+}
+.empty{
+  text-align: center;
+  padding:48px;
 }

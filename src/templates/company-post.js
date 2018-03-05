@@ -71,6 +71,13 @@ export const CompanyPostTemplate = ({ title, logo, jobs,location, website,thumbn
                     </div>
                   </div>
                 )):null}
+
+                {
+                  !jobs || (jobs && jobs.length) == 0?
+                  <div className="empty">
+                    <h3 className="title">No Jobs Posted</h3>
+                  </div>:null
+                }
               </div>
             </div>
           </div>
