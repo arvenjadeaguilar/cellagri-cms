@@ -45,7 +45,7 @@ export const CompanyPostTemplate = ({ title, logo, jobs,location, website,thumbn
             <div className="desc_container">
               <p className="description" >{description}</p>
               <div className="socialMedia">
-                <a href={website} className="media inline">
+                <a href={"//"+website} className="media inline">
                   <FaGlobe /> Website
                 </a>
                 {mediaJSX}

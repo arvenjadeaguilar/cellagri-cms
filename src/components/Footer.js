@@ -1,6 +1,8 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import FaTwitter from 'react-icons/lib/fa/twitter';
+import FaFacebook from 'react-icons/lib/fa/facebook-square';
+import FaMedium from 'react-icons/lib/fa/medium';
 
 const Footer = () => (
     <section className="section footer">
@@ -21,14 +23,18 @@ const Footer = () => (
           <div className="navbar-footer">
           <div className="navbar-brand">
             <div className="nav">
-              <a href="https://medium.com/cellagri" className="navbar-item">
+              <Link to="/articles" className="navbar-item">
                 ARTICLES
-              </a>
-              <a href="/companies"  className="navbar-item">COMPANIES</a> 
-              <a href="/jobs "  className="navbar-item">JOBS</a> 
-              <a href="/contact" target="_top" className="navbar-item">
+              </Link>
+              <Link to="/companies" className="navbar-item">
+                COMPANIES
+              </Link>
+              <Link to="/jobs" className="navbar-item">
+                JOBS
+              </Link>
+              <Link to="/contact" className="navbar-item">
                 CONTACT
-              </a>
+              </Link>
             </div>
 
           </div>
@@ -42,8 +48,16 @@ const Footer = () => (
           <p className="copywrite">
             Copyright 2017 CellAgri
           </p>
-          <p>
-            <FaTwitter/>
+          <p className="socialIcons">
+            <a href="https://twitter.com/cellagritech/" className="icon">
+              <FaTwitter/>
+            </a>
+            <a href="https://www.facebook.com/cellagri/" className="icon">
+              <FaFacebook/>
+            </a>
+            <a href="https://medium.com/cellagri" className="icon">
+              <FaMedium/>
+            </a>
           </p>
         </div>  
             

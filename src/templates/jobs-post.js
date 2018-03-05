@@ -76,7 +76,7 @@ export const JobsPostTemplate = ({accepted,rejected,loading, title,handleSubmit,
                 {company.node.frontmatter.title}
               </div>
               <div className="companymedia">
-                <a href={website} className="media inline">
+                <a href={"//"+website} className="media inline">
                   <FaGlobe /> Website
                 </a>
                 {mediaJSX}
