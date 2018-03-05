@@ -1,6 +1,6 @@
 ---
 title: Materials Summer Intern 2018 at Modern Meadow
-position: Materials Summer Intern 2018
+position: Materials Summer Intern
 templateKey: jobs-post
 path: /jobs/modernmeadow/materials-summer-intern-2018
 date: 2018-03-05T05:50:09.217Z
