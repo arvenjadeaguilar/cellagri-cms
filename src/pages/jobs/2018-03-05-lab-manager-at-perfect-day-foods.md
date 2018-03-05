@@ -1,6 +1,6 @@
 ---
 title: Lab Manager at Perfect Day Foods
-position: Lab Manager
+position: Lab Manager/Facilities Manager
 templateKey: jobs-post
 path: /jobs/perfectday/lab-manager
 date: 2018-03-05T06:23:32.006Z
