@@ -6,9 +6,9 @@ path: /jobs/gfi/associate-general-counsel-international
 date: 2018-03-05T00:41:01.851Z
 companyRelated: /gfi
 ---
-GFI’s Associate General Counsel -- International will provide legal, fiscal, and regulatory guidance and training for GFI’s international operations.  
+GFI’s **Associate General Counsel - International** will provide legal, fiscal, and regulatory guidance and training for GFI’s international operations.  
 
-How You Will Make a Difference
+**How You Will Make a Difference**
 
 You will identify, resolve, and manage legal compliance issues for GFI’s international operations; assist the General Counsel and Director of Finance to ensure compliance with tax and financial requirements arising from such operations, and support GFI’s other departments in international legal matters by:
 
@@ -22,11 +22,11 @@ You will identify, resolve, and manage legal compliance issues for GFI’s inter
 
 \- Managing GFI’s FCPA compliance, including policy updates and periodic training for GFI staff, independent contractors, and affiliated organizations.
 
-Who We’re Looking For
+**Who We’re Looking For**
 
 We are seeking smart, thoughtful, and creative self-starters who want to push back against climate change, transform industrial animal agriculture, and develop healthy and humane foods that are accessible to everyone. GFI staff enjoy high levels of autonomy and must be self-motivated, work well both independently and in concert with a larger group, and be comfortable working with a rapidly evolving and growing team.
 
-The Associate General Counsel -- International must also have:
+The Associate General Counsel - International must also have:
 
 \- Exceptional organizational and interpersonal skills.
 
