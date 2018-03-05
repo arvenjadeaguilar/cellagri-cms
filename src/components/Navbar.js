@@ -117,16 +117,16 @@ class Navbar extends React.Component {
               <div className="closeIcon" onClick={()=>this.closeModal()}>
                 <FaClose/>
               </div>
-              <Link to="/articles" className="navItem">
+              <Link to="/articles" className="navItem" onClick={()=>this.enableScroll()}>
                 ARTICLES
               </Link>
-              <Link to="/companies" className="navItem">
+              <Link to="/companies" className="navItem"  onClick={()=>this.enableScroll()}>
                 COMPANIES
               </Link>
-              <Link to="/jobs" className="navItem">
+              <Link to="/jobs" className="navItem"  onClick={()=>this.enableScroll()}>
                 JOBS
               </Link>
-              <Link to="/contact" className="navItem">
+              <Link to="/contact" className="navItem"  onClick={()=>this.enableScroll()}>
                 CONTACT
               </Link>
             </div>
