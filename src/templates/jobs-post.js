@@ -76,7 +76,7 @@ export const JobsPostTemplate = ({accepted,rejected,loading, title,handleSubmit,
                 {company.node.frontmatter.title}
               </div>
               <div className="companymedia">
-                <a href={"//"+website} className="media inline">
+                <a href={"//"+company.node.frontmatter.website} className="media inline">
                   <FaGlobe /> Website
                 </a>
                 {mediaJSX}
@@ -317,7 +317,7 @@ export default class JobsPost extends React.Component {
     let company = find(companies.edges,(item)=>{
       return item.node.frontmatter.path == post.frontmatter.companyRelated;
     });
-
+    console.log(company);
     return (<JobsPostTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.position}
@@ -380,6 +380,7 @@ export const jobsPostQuery = graphql`
             location
             thumbnail
             description
+            website
             socialMedia {
               media
               url

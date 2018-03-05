@@ -42,7 +42,7 @@ const Footer = () => (
         </div>
         <div className="dropUsALine">
           <p>
-            Interested in learning more about CellAgri? <a href="">Drop us a line!</a>
+            Interested in learning more about CellAgri? <Link to="/contact">Drop us a line!</Link>
           </p>
           
           <p className="copywrite">
@@ -60,9 +60,7 @@ const Footer = () => (
             </a>
           </p>
         </div>  
-            
       </div>
-      
     </section>
 );
 
