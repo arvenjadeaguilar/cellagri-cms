@@ -1,6 +1,6 @@
 ---
 title: >-
-  Research Associate (Biochemistry/Molecular Biology/Bioengineering) at Finless
+  Research Associate Biochemistry/Molecular Biology/Bioengineering at Finless
   Foods
 position: Research Associate (Biochemistry/Molecular Biology/Bioengineering)
 templateKey: jobs-post
