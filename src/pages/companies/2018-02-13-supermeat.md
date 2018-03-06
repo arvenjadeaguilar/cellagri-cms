@@ -3,7 +3,7 @@ templateKey: company-post
 path: /supermeat
 date: 2018-02-15T16:00:00.000Z
 title: SuperMeat
-location: Berkely California
+location: 'Tel Aviv, Israel'
 website: supermeat.com
 socialMedia:
   - media: Twitter
