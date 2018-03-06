@@ -57,7 +57,7 @@ export const CompanyPostTemplate = ({ title, logo, jobs,location, website,thumbn
         <div className="section container-fluid">
           <div className="job-containers">
             <div className="jobs">
-              <h2>Jobs at {title && title.toLowerCase()}</h2> 
+              <h2>Jobs at {title}</h2> 
               <div className="job-list">
                 {jobs ? jobs.map(job => (
                   <div className="item">
