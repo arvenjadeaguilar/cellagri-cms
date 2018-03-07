@@ -3,7 +3,7 @@ templateKey: company-post
 path: /memphismeats
 date: 2018-02-14T16:00:00.000Z
 title: Memphis Meats
-location: Berkely California
+location: 'Berkely, California'
 website: memphismeats.com
 socialMedia:
   - media: Twitter
