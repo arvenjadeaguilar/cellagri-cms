@@ -3,7 +3,7 @@ templateKey: company-post
 path: /clarafoods
 date: 2018-02-14T16:00:00.000Z
 title: Clara Foods
-location: Berkely California
+location: 'South San Francisco, California'
 website: clarafoods.com
 socialMedia:
   - media: Twitter
