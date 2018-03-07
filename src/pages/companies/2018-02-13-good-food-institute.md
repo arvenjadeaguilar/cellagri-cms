@@ -3,7 +3,7 @@ templateKey: company-post
 path: /gfi
 date: 2018-02-14T16:00:00.000Z
 title: Good Food Institute
-location: Washington D.C
+location: Washington D.C.
 website: gfi.org
 socialMedia:
   - media: Twitter
