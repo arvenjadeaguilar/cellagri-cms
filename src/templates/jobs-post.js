@@ -233,7 +233,7 @@ export const JobsPostTemplate = ({accepted,rejected,loading, title,handleSubmit,
                 }
               </button>
               { !accepted?
-                <div className="note">*Please uppload your csv</div>:null
+                <div className="note">*Please upload your csv</div>:null
               }
             </div>
           </form>
