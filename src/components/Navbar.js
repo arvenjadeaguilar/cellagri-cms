@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
+
 import Link from 'gatsby-link';
 
-import github from '../img/github-icon.svg';
 import logo from '../img/logo@1x.png';
 import Bars from 'react-icons/lib/fa/bars';
 import Modal from 'react-modal';
@@ -20,8 +20,7 @@ const customStyles = {
 
 const keys = {37: 1, 38: 1, 39: 1, 40: 1};
 
-
-class Navbar extends React.Component {
+class Navbar extends Component  {
   constructor() {
     super();
 
@@ -32,7 +31,6 @@ class Navbar extends React.Component {
     this.openModal = this.openModal.bind(this);
     this.closeModal = this.closeModal.bind(this);
   }
-
   openModal() {
     this.disableScroll();
     this.setState({modalIsOpen: true});
@@ -56,7 +54,6 @@ class Navbar extends React.Component {
       return false;
     }
   }
-  
   disableScroll() {
     if (window.addEventListener) 
       window.addEventListener('DOMMouseScroll', this.preventDefault, false);
@@ -75,7 +72,6 @@ class Navbar extends React.Component {
     document.onkeydown = null;  
   
   }
-
   render() {
     return (
       <div className="navbar is-transparent">
@@ -137,7 +133,7 @@ class Navbar extends React.Component {
         </div>
       </div>
     );
-  }
+  };
 }
 
 export default Navbar;

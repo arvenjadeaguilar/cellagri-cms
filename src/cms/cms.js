@@ -9,5 +9,5 @@ import CompanyPostPreview from './preview-templates/CompanyPostPreview';
 CMS.registerPreviewStyle('/styles.css');
 CMS.registerPreviewTemplate('about', AboutPagePreview);
 CMS.registerPreviewTemplate('products', ProductPagePreview);
-CMS.registerPreviewTemplate('blog', BlogPostPreview);
-CMS.registerPreviewTemplate('company', CompanyPostPreview);
+// CMS.registerPreviewTemplate('blog', BlogPostPreview);
+// CMS.registerPreviewTemplate('company', CompanyPostPreview);
