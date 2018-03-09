@@ -9,7 +9,7 @@ description: >-
   month of February. From new investments to USCA's petition to redefine meat,
   February has continued cellular agriculture's great start to the year.
 ---
-![](/img/perfectday milk.jpg)
+![Perfect Day milk bottle](/img/perfectday milk.jpg)
 
 Following all the exciting news in January, February has continued cellular agriculture’s great start to the year. Cellular agriculture (‘cell ag’) refers to the field of growing animal products from cells instead of raising animals for them, and it has been in the media this month for quite contrasting reasons. From new investments to the first response by the cattle industry, this article will highlight some of the key events in cellular agriculture during the month of February.
 
