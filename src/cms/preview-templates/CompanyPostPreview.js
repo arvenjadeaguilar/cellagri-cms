@@ -12,6 +12,10 @@ const CompanyPostPreview = ({ entry, getAsset }) => {
         jobs={jobs}
         logo={entry.getIn(['data', 'logo'])} 
         thumbnail={entry.getIn(['data', 'thumbnail'])} 
+        location={entry.getIn(['data', 'location'])}
+        website={entry.getIn(['data', 'webiste'])}
+        socialMedia={entry.getIn(['data', 'socialMedia'])}
+        thumbnail={entry.getIn(['data', 'thumbnail'])}
       />
     );
   };
