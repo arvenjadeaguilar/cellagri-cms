@@ -3,7 +3,7 @@ templateKey: company-post
 path: /perfectday
 date: 2018-02-15T16:00:00.000Z
 title: Perfect Day Foods
-location: Berkely California
+location: 'Berkely, California'
 website: perfectdayfoods.com
 socialMedia:
   - media: Twitter

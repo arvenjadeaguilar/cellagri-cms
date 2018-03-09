@@ -3,7 +3,7 @@ templateKey: company-post
 path: /modernmeadow
 date: 2018-02-14T16:00:00.000Z
 title: Modern Meadow
-location: Berkely California
+location: 'Nutley, New Jersey'
 website: modernmeadow.com
 socialMedia:
   - media: Twitter
