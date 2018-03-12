@@ -10,21 +10,17 @@ description: >-
 ---
 More than 3 billion people rely on fish for at least 20% of their animal protein \[1]. In the last 50 years, annual fish consumption has doubled to be above 20kg per person \[2, 3]. While practices like aquaculture have led to an increased supply of farmed fish, about one-third of commercial fishing is done at biologically unsustainable levels \[3, 4]. Overfishing, coupled with destructive practices like bottom trawling, occurs at unsustainable levels that deplete global fish populations faster than can be replenished. Approximately 60% of commercial fish stocks are deemed fully fished with an additional 30% of fish stocks classified as overfished \[2]. Overfishing has depleted large fish populations by 90% \[1]. If overfishing and the other unsustainable practices continue, it is predicted that millions of people in coastal countries will not be able to afford fish by 2050 \[5].
 
-![](/img/market fish.jpeg)
+![](/img/marketfish.jpeg)
 
 Unsustainable fishing practices are clearly a problem, and cellular agriculture offers a solution. Cellular agriculture (‘cell ag’) is the process of growing animal products, like fish meat, from cell cultures and eliminates the need to use animals like fish to get fish meat. Finless Foods is the first cell ag company focusing on growing fish meat from fish cells, and their work offers a sustainable solution to meet global fish demand without further depleting global fish populations.
-
-
 
 ## Cellular Agriculture and Sustainability
 
 Finless Foods is the first company to use cellular agriculture to grow fish meat from cell cultures \[6]. Other companies in the field have used cell ag to grow other meats, like beef and poultry \[7]. To grow the fish meat, muscle cells are taken from the fish of interest and grown in a cell culture media to become fish meat. The cell culture media and the way the cells are grown are important in this process, because they help the fish cells develop into the same meat that comes directly from fish \[8, 9]. Without requiring fish from fishing. This reduces the burden of commercial fishing on wild fish stocks while still producing enough fish meat to sustainably supply the global demand.
 
-![](/img/market-fish-fish-market-food.jpg)
+![null](/img/market-fish-fish-market-food.jpg)
 
 One of the most evident benefits of cultured fish meat via cellular agriculture is offering a sustainable way to get fish without overfishing and destructive fishing practices like bottom trawling. In bottom trawling, large nets are dragged along the ocean floor and catch everything in its path. This destroys marine environments like coral reefs that many marine animals rely on for shelter and food. Bottom trawling is also responsible for up to half of the discarded fish and marine life worldwide. Many large fish, turtles, and marine mammals are captured in the trawling nets and later discarded as bycatch. Many do not survive, further reducing fish populations that are already under pressure from overfishing \[10].
-
-
 
 ## Finless Foods and Bluefin Tuna
 
@@ -36,7 +32,7 @@ Finless Foods is presently working on producing cultured Bluefin tuna meat. By f
 
 Beyond sustainably producing fish, there are other benefits to cultured fish meat. In regard to health implications, cultured fish would be free of mercury and plastics that global fish populations are vulnerable to \[6]. They would also be free of antibiotics, fungicides, pesticides, and other chemicals used to treat and prevent illnesses in farmed fishing aquacultures \[4, 6]. Aquacultures in Scotland have also recently been under fire for using inhumane methods to detach parasites like sea lice from their farmed fish \[4, 6].
 
-![](/img/tuna sashimi.jpg)
+![](/img/tunasashimi.jpg)
 
 ## Conclusion
 
@@ -45,51 +41,15 @@ In an interview, the CEO and co-founder of Finless Foods, Mike Selden, said that
 ## Sources:
 
 1. The Economist. A shameful failure to tackle overfishing. 2017.
-
-
-
 2. World Wildlife Fund. Facts & Figures: The Cold Hard Facts about Overfishing. 2017 \[cited 2018 January 10]; Available from: http://www.fishforward.eu/en/topics/facts-figures/.
-
-
-
 3. Food and Agriculture Organization. Global per capita fish consumption rises above 20 kilograms a year. 2016.
-
-
-
 4. Vidal, J. Salmon farming in crisis: ‘We are seeing a chemical arms race in the seas’. 2017.
-
-
-
 5. World Wildlife Fund. Will there be enough fish to feed the world in 2050? 2017.
-
-
-
 6. Fleming, A. Could lab-grown fish and meat feed the world — without killing a single animal? 2017.
-
-
-
 7. Kowitt, B. Silicon Valley and the Search for Meatless Meat. 2017.
-
-
-
 8. Caldwell, N. Finless Foods Pioneers Innovation To Grow Fish From Stem Cells. 2017.
-
-
-
 9. Watson, E. Cultured fish co Finless Foods aims to achieve price parity with Bluefin tuna by the end of 2019. 2017.
-
-
-
 10. Stiles, M.L., et al., Impacts of Bottom Trawling on Fisheries, Tourism, and the Marine Environment. 2010, Oceana.
-
-
-
 11. Brehaut, L. Sushi restaurant pays more than $400,000 for 890-pound bluefin tuna. 2018.
-
-
-
 12. Leber, J. Is Bluefin Tuna Grown in a Lab the Next Wave of Sustainable Seafood? 2017.
-
-
-
 13. Mattick, C.S., et al., Anticipatory Life Cycle Analysis of In Vitro Biomass Cultivation for Cultured Meat Production in the United States. Environmental Science & Technology, 2015. 49(19): p. 11941–11949.
