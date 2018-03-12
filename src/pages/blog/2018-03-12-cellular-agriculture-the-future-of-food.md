@@ -9,9 +9,7 @@ description: |2
 ---
 In 2013, food critic and writer Hanni Ruetzler took a taste out of a dish costing more than $300,000 and remarked how it was "close" to tasting like real beef \[1]. The dish in question was not a plant-based meat alternative; it was in fact real beef - beef that was made in a lab! This taste test was the first lab-grown beef dish, and it was created by Dr. Mark Post and his cellular agriculture research team in the Netherlands. Cellular agriculture encompasses the fascinating field of growing agricultural products, like meat and milk, from cell cultures in a laboratory setting. This innovative process eliminates the need to use livestock to obtain the same products and, consequently, cellular agriculture is being explored as an alternative to the present livestock agricultural system. 
 
-![](/img/cultured-meat.jpg)
-
-
+![null](/img/cultured-meat.jpg)
 
 ## What exactly is Cellular Agriculture?
 
@@ -19,7 +17,7 @@ As previously mentioned, cellular agriculture is the field of growing agricultur
 
 Cellular agriculture can be broken up into two categories: cellular and acellular agriculture \[2]. In this context, cellular agriculture refers to growing agriculture products that are based on living or once-living cells, such as meat or leather \[3]. To put it simply, growing meat is the process of taking cells that make muscle cells from the animal of interest and growing these cells in a cell culture media to become meat \[2]. The cell culture media and how the cells are grown are important aspects in this process, because they help the cells develop into the same meat found in meat that comes directly from animals \[2]. While this basic explanation shows how meat is grown using cellular agriculture, it is important to note that making milk and egg white via acellular agriculture is a different process altogether. 
 
-![](/img/picture-plant-cell-culture.jpg)
+![null](/img/picture-plant-cell-culture.jpg)
 
 Acellular agriculture involves growing and harvesting a product that the cell cultures make, and this is used in making products such as milk and egg white \[3]. Just like egg white, milk consists of a mixture of different proteins and fats, and these different components can be grown without using animals, but, by using microbes, like yeast, instead. For example, to grow casein, which is a key protein in milk, a copy of the casein gene from a cow is inserted into yeast \[2]. The yeast will then make many copies of the protein of interest from the animal of interest (casein and cow, respectively) that can be used to formulate dairy milk that is identical to the milk made from a cow, except, it is done without requiring a cow! When casein and the other proteins and components of milk are put together, this process forms cow's milk made without a cow! The process of using yeast to grow a protein of interest is not novel to cellular agriculture; this process has in fact been used since 1978 to make insulin for diabetes treatment \[3]. It is also used to make rennet (an important ingredient to make cheese) and vanillin \[2]. 
 
@@ -33,7 +31,7 @@ The large amount of resources consumed by livestock agriculture is reflective of
 
 In comparison to conventional livestock agriculture, cellular agriculture provides an alternative that is more environmentally friendly and, as a result, more sustainable. Meat produced via cellular agriculture would use approximately less than a tenth of the land and less than a tenth of the water as well as less than half of the energy use \[8]. This meat would also produce significantly less greenhouse gas emissions \[6]. Prior to cellular agriculture, there had not been a more environmentally friendly and sustainable alternative to the livestock agriculture system for people who eat meat \[3]. The growing global demand for meat and animal products illustrate that most people are not prepared to change their eating habits and lifestyle from eating meat to plant-based alternatives and, consequently, instead of urging people to eat more plant-based diets, the next best option is to find a better way to produce meat, and that is exactly what cellular agriculture offers. By providing the alternative, cellular agriculture has the potential of helping reduce global greenhouse gas emissions as well as promote more responsible uses of natural resources. 
 
-![](/img/cows-dairy-cows-milk-food-162801.jpeg)
+![null](/img/cows-dairy-cows-milk-food-162801.jpeg)
 
 Beyond the environmental impact, it is also important to note that, by avoiding the use of actual livestock to make products, cellular agriculture would also impact animal welfare. By producing meat and dairy without requiring livestock, no animals would have to be used, and this (obviously) reduces the number of animals used in the food production process \[9]. Furthermore, as the global demand for meat increases, large factory farms would be put under more pressure to produce more animal products, and, consequently, it is likely that animal welfare conditions would worsen from their current state, including increased confinement and imperfect slaughter conditions, to meet the demand \[2]. By providing another method to meet the global demand without worsening livestock conditions, cellular agriculture provides an opportunity to possibly improve livestock welfare. 
 
@@ -41,17 +39,15 @@ In terms of human health implications, cellular agriculture meat would not be fe
 
 Overall, there are many benefits that cellular agriculture provides in comparison to conventional livestock agriculture. While the energy required to produce meat via cell cultures is greater than conventional poultry \[6], cellular agriculture is still a sustainable alternative to conventional livestock farming when comparing land and water use and greenhouse emissions. Along with the reduction of health risks in terms of meat contamination, it is no surprise that lab-grown meat has also been termed "clean meat" \[10].
 
-
-
 ## Which companies are in the field?
+
+![](/img/memphismeat-meatball.jpg)
 
 Considering how many resources producing meat requires, it is not surprising that many cellular agriculture companies are focusing on growing meat in a more sustainable fashion. As mentioned earlier, the first lab-grown burger was made by Dr. Post, and he founded [Mosa Meat](mosameat.eu) to further develop cell cultured beef. [Memphis Meats](MEMPHISMEATS.COM) is also a cellular agriculture company that made the first lab-grown meatball. They are also the first company to make lab-grown poultry, specifically chicken and duck \[11]. Another company that is also entering the cellular agricultural space is [Just](justforall.com) (formerly known as Hampton Creek), and their goal is to have the first consumer-ready meat product ready by 2018 \[12]. Another company in cellular agricultural meats is [Finless Foods](FINLESSFOODS.COM), and they are the only company that is working to produce the first lab-grown fish products \[13].
 
 Beyond growing meat, several companies are using cellular agriculture to make products that are usually associated with livestock. [Clara Foods](CLARAFOODS.COM) focuses on producing the first animal-free egg white product, and [Perfect Day Foods](PERFECTDAYFOODS.COM) (formerly called Muufri) revolves around producing animal-free milk and milk-derived dairy products. Another company in this field is [Modern Meadow](MODERNMEADOW.COM), and they strive to grow and make animal leather products via cell cultures.
 
 In 2017, there has been some incredible investments in cellular agriculture in order to help scale the work to commercially viable levels. Memphis Meats successfully raised $17 million dollars while Modern Meadow received funding of an outstanding $40 million \[14, 15]. On top of that, China concluded a $300 million trade deal with Israel to "allow Chinese firms to partner with Israeli clean-tech companies, including several in the lab grown meat sector" \[16]. The biggest winners of this deal are the Israeli cellular agriculture companies SuperMeat, Meat the Future, and Future Meat Technologies, as this deal would "allow them to break into the potentially lucrative Chinese market" \[16].
-
-
 
 ## Conclusion
 
@@ -60,8 +56,6 @@ The first lab-grown beef burger cost $330,000 to produce in 2013; as of 2017, th
 There are still many obstacles to overcome before cellular agricultural products become commercial, such as issues relating to scaling the production process and overcoming any regulatory hurdles \[12, 18]. One of the most difficult obstacles to overcome, however, may be challenging any negative public perception of food that come from cell cultures in a laboratory instead of from animals. To overcome this, it will be important to inform the public on what cellular agriculture is and how this field provides a solution to an unsustainable livestock agricultural system. On top of that, it will be very important for all actors in this field to be transparent and clear about all of their scientific findings as well as all aspects of the manufacturing processes.
 
 With new research constantly coming out that helps build this field, it is exciting to see what the new year brings for cellular agriculture!
-
-
 
 ## Sources:
 
@@ -73,7 +67,7 @@ With new research constantly coming out that helps build this field, it is excit
 
 4	Röös, E. et al. Greedy or needy? Land use and climate impacts of food in 2050 under different livestock futures. Global Environ. Change 47, 1-12, doi:https://doi.org/10.1016/j.gloenvcha.2017.09.001 (2017).
 
-5	TEDxTalks. Rethinking Meat: Isha Datar at TEDxToronto 2013. 
+5	TEDxTalks. Rethinking Meat: Isha Datar at TEDxToronto 2013.
 
 6	Tuomisto, H. L. & Teixeira de Mattos, M. J. Environmental Impacts of Cultured Meat Production. Environ. Sci. Technol. 45, 6117-6123, doi:10.1021/es200130u (2011).
 
