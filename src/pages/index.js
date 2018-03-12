@@ -37,7 +37,7 @@ export default class IndexPage extends React.Component {
       return node.frontmatter.templateKey == 'blog-post'
     }).map((blog)=>{
       return blog.node.frontmatter;
-    });
+    }).slice(0,3);
 
     let blogJSX = blogList.map((blog)=>{
       return (
