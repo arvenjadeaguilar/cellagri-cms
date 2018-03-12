@@ -34,7 +34,7 @@ Leather tannery in Fez, Morocco
 
 Andras Forgacs is the founder and CEO of Modern Meadow. He initially worked with his father at their startup Organovo, which created human tissues and organs for testing pharmaceutical products (and the long-term goal of producing replacement organs) \[1, 2]. Forgacs wondered if there could be any other application of their technology beyond healthcare, like growing leather without animals \[2]. After raising $40 million in funding for Modern Meadow in June 2016, he was definitely not the only one who believed that \[6]. So far, Modern Meadow has raised a total of $53.5 million in funding \[1].
 
-![](/img/zoa-home-swatches resized.jpg)
+![](/img/zoa-home-swatches-resized.jpg)
 
 Forgacs believes that Modern Meadow’s advantage lies in the adaptability of their ‘bioleather’. Unlike conventional animal leather, Modern Meadow produces collagen in liquid form (essentially, a liquid leather) that can be molded into different shapes and sizes \[5]. Other leather properties can be modified too, including the texture, thickness, and durability of the material \[1, 5]. The adaptable nature of bioleather means that Modern Meadow can customize and provide designers the specific qualities they would like without having to worry about the traditional leather supply chain \[1]. Not only would this be ideal for designers, customizable leather would result in less leather being wasted in producing and designing products like handbags and wallets \[5].
 
