@@ -9,7 +9,7 @@ description: >-
   month of February. From new investments to USCA's petition to redefine meat,
   February has continued cellular agriculture's great start to the year.
 ---
-![Perfect Day milk bottle](/img/perfectday milk.jpg)
+![Perfect Day milk bottle](/img/perfectdaymilk.jpg)
 
 Following all the exciting news in January, February has continued cellular agriculture’s great start to the year. Cellular agriculture (‘cell ag’) refers to the field of growing animal products from cells instead of raising animals for them, and it has been in the media this month for quite contrasting reasons. From new investments to the first response by the cattle industry, this article will highlight some of the key events in cellular agriculture during the month of February.
 
@@ -23,7 +23,7 @@ In addition to Perfect Day’s funding, Israeli cultured meat startup SuperMeat,
 
 This month, the US Cattlemen’s Association (USCA) filed a petition with the US Department of Agriculture (USDA) to narrow the definition of ‘meat’. In the petition, the USCA requests that meat and beef be defined as coming from the flesh of an animal that has been raised, slaughtered and harvested in the ‘traditional’ manner \[4]. This petition is clearly a reaction to the emergence of cultured meat via cell ag and plant-based meat alternatives.
 
-![](/img/memphis meat meatball.jpg)
+![](/img/memphismeat-meatball.jpg)
 
 Cultured Meatball by Memphis Meats
 
@@ -37,13 +37,15 @@ While the USCA’s petition represents opposition in the meat industry to altern
 
 Bolt Threads, a clothing startup that uses cell ag to grow spider silk for clothing, was named as one of Fast Company’s Most Innovative Companies in 2018 in the category of style for their sustainable approach to fashion. From sustainable spider silk neck-ties to toques, Bolt Threads’ achievement reflects the growing need for a sustainable source of animal products and materials \[9].
 
-![](/img/bolt threads silk tie.jpg)
+![](/img/boltthreadssilktie.jpg)
 
 Spider silk neck-tie by Bolt Threads
 
 ## 1.35 Billion Chicken Wings
 
 Approximately 1.35 billion chicken wings were eaten during the NFL SuperBowl weekend at the start of February, and that is enough chicken wings go around the world thrice \[10]. On top of that, Americans are predicted to consume more chicken nuggets and other boneless chicken meats than ever before this year \[11]. It is not surprising that the FAIRR Investor Coalition, which has assets worth over $4 trillion, is urging the world’s large food companies to seek alternative and more sustainable protein sources to conventional animal agriculture in order to seek out an investment from their portfolio \[12].
+
+![](/img/chicken-wings.jpeg)
 
 With more investments and publicity and media attention via the USCA’s petition, February has continued to be a great start of the year for cellular agriculture. While there are still many obstacles ahead, such as scalability, it is exciting to see what the rest of 2018 may bring!
 
