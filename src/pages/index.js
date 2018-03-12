@@ -4,11 +4,11 @@ import Script from "react-load-script";
 import graphql from "graphql";
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import flatten from 'lodash/flatten'
-import slice from 'lodash/slice'
-import find from 'lodash/find'
-import orderBy from 'lodash/orderBy'
-import { navigateTo } from "gatsby-link"
+import flatten from 'lodash/flatten';
+import slice from 'lodash/slice';
+import find from 'lodash/find';
+import orderBy from 'lodash/orderBy';
+import { navigateTo } from "gatsby-link";
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -42,8 +42,7 @@ export default class IndexPage extends React.Component {
     let blogJSX = blogList.map((blog)=>{
       return (
         <a key={blog.path} href={blog.path} className="feature">
-          <div className="feature_image_container">
-            <img src={blog.image} />
+          <div className="feature_image_container" style={{backgroundImage:'url(' + blog.image + ')'}}>
           </div>
           <h3 className="feature_headLine">
             {blog.title}
