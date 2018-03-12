@@ -18,8 +18,7 @@ export default class ArticlesPage extends React.Component {
     let articlesJSX = posts && posts.map(article => {
       return (
         <Link key={article.node.id} to={article.node.frontmatter.path} className="feature">
-          <div className="feature_image_container">
-            <img src={article.node.frontmatter.image} />
+          <div className="feature_image_container" style={{backgroundImage:'url(' + article.node.frontmatter.image + ')'}}>
           </div>
           <div className="feature_date">
             {article.node.frontmatter.date}
