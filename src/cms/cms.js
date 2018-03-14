@@ -17,7 +17,8 @@ CMS.registerEditorComponent({
       label: 'Video-URL',
       widget: 'string'
     }],
-    pattern: /^<video src="(.*)" controls>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="(.*)">download it<\/a> and watch it with your favorite video player!<\/video>/,
+    pattern: /^<iframe width="420" height="345" src="(.*)"><\/iframe>/,
+    
     fromBlock: function(match) {
       return {
         video_url: match[1],
@@ -25,12 +26,12 @@ CMS.registerEditorComponent({
     },
     toBlock: function(obj) {
       return (
-        '<video src="' + obj.video_url + '" controls>Sorry, your browser doesn\'t support embedded videos, but don\'t worry, you can <a href="' + obj.video_url + '">download it</a> and watch it with your favorite video player!</video>'
+        '<iframe width="420" height="345" src="' + obj.video_url + '"></iframe>'
       );
     },
     toPreview: function(obj) {
       return (
-        '<video src="' + obj.video_url + '" controls>Sorry, your browser doesn\'t support embedded videos, but don\'t worry, you can <a href="' + obj.video_url + '">download it</a> and watch it with your favorite video player!</video>'
+        '<iframe width="420" height="345" src="' + obj.video_url + '"></iframe>'
       );
     },
   });
