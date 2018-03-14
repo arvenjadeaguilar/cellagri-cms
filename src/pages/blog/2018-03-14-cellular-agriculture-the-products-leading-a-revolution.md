@@ -22,7 +22,7 @@ _Would you wear a tie made from Bolt Threads’ spider silk?_
 
 Not everyone is waiting until 2021 to release cultured meat. In 2017, Josh Tetrick of [Just](//www.justforall.com) (formerly Hampton Creek) announced that Just will release their first cultured meat product by the end of 2018! From being the last company to join the field, Just ambitiously wants to be the first one to have their product on the market. Just plans to initially release a cultured chicken product by the end of the year \[5]. Let’s see what they can deliver!
 
-<video src="https://www.youtube.com/watch?v=_GgP6jo5DTM" controls>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="https://www.youtube.com/watch?v=_GgP6jo5DTM">download it</a> and watch it with your favorite video player!</video>
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=_GgP6jo5DTM"></iframe>
 
 _Promotional video by Just about cultured chicken_
 
