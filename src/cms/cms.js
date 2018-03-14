@@ -36,12 +36,12 @@ CMS.registerEditorComponent({
     },
     toBlock: function(obj) {
       return (
-        '<iframe width="' + obj.width + '" height="' + obj.height + '" src="' + obj.video_url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
+        '<iframe width="' + obj.width + '" height="' + obj.height + '" src="' + obj.video_url + '" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>'
       );
     },
     toPreview: function(obj) {
       return (
-        '<iframe width="' + obj.width + '" height="' + obj.height + '" src="' + obj.video_url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
+        '<iframe width="' + obj.width + '" height="' + obj.height + '" src="' + obj.video_url + '" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>'
       );
     },
   });
