@@ -2,23 +2,23 @@
 templateKey: blog-post
 path: /cell-ag-obstacles-ahead
 title: 'Cellular Agriculture: The Obstacles Ahead'
-date: '2018-03-12T00:49:00-04:00'
+date: '2018-01-25T00:49:00-05:00'
 image: /img/memphismeats-southernfriedchicken.jpg
 description: >-
   Learn about what obstacles cellular agriculture will face as cell ag gets
   closer to entering the market
 ---
-From the first $300,000 burger in 2013, a lot has changed in cellular agriculture (‘cell ag’). Since that taste test of the first cultured meat burger, cell ag companies have gotten traction and have gone beyond their own taste tests \[1]. Memphis Meats became the first company to produce cultured poultry meat, such as chicken and duck. Finless Foods has plans to release a limited amount of its cultured fish meat by the end of 2019 \[2].
+From the first $300,000 burger in 2013, a lot has changed in cellular agriculture (‘cell ag’). Since that taste test of the first cultured meat burger, cell ag companies have gotten traction and have gone beyond their own taste tests \[1]. [Memphis Meats](//www.memphismeats.com) became the first company to produce cultured poultry meat, such as chicken and duck. [Finless Foods](www.finlessfoods.com) has plans to release a limited amount of its [cultured fish meat](//www.cell.ag/cell-ag-goes-fishing) by the end of 2019 \[2].
 
 ![null](/img/memphismeats-southernfriedchicken.jpg)
 
 _Cultured chicken meat by Memphis Meats_
 
-Beyond cultured meat, cellular agriculture has gained momentum elsewhere too. Modern Meadow has exhibited a proof-of-concept shirt designed with their cell ag bioleather at the Museum of Modern Art in New York City \[3]. Perfect Day Foods and Clara Foods are fielding interest from other companies to use their animal-free dairy milk and egg white, respectively \[4, 5].
+Beyond cultured meat, cellular agriculture has gained momentum elsewhere too. [Modern Meadow](//www.modernmeadow.com) has exhibited a proof-of-concept shirt designed with their cell ag bioleather at the Museum of Modern Art in New York City \[3]. [Perfect Day Foods](www.perfectdayfoods.com) and [Clara Foods](www.clarafoods.com) are fielding interest from other companies to use their animal-free dairy milk and egg white, respectively \[4, 5].
 
 **Clearly, cell ag has made progress.**
 
-One of the most recent players in cellular agriculture, Hampton Creek, plans to launch their first cultured meat product by the end of 2018 \[1]. This is a lot sooner than other companies have planned (Memphis Meats and Mosa Meat both are aiming for a 2021 launch) \[6]. Besides the challenge of scaling production to get from lab to market, there are many obstacles ahead for cellular agriculture. This article will explore some of the hurdles ahead in cell ag as companies prepare to enter the market.
+One of the most recent players in cellular agriculture, [Just](//www.justforall.com) (formerly Hampton Creek), plans to launch their first cultured meat product by the end of 2018 \[1]. This is a lot sooner than other companies have planned (Memphis Meats and Mosa Meat both are aiming for a 2021 launch) \[6]. Besides the challenge of scaling production to get from [lab to market](//www.cell.ag/cell-ag-from-lab-to-market), there are many obstacles ahead for cellular agriculture. This article will explore some of the hurdles ahead in cell ag as companies prepare to enter the market.
 
 ## Regulatory Aspects: Who’s in control?
 
@@ -36,7 +36,7 @@ Yet this begs the question: should these companies still voluntarily go through 
 
 No matter how safe or sustainable cellular agriculture may make animal products, or how many regulations are put to ensure the product’s safety, it ultimately comes down to consumers and the public to accept cellular agriculture. As with most novel technologies, time will tell to see how the public perceives and accepts this new category of sustainable goods
 
-A lot of actors in the field are trying to promote cellular agriculture by being as transparent as possible about the science, the manufacturing process, and the positive environmental implications \[2, 9, 10]. Research has shown that when taught about the sustainability aspect of cell ag in comparison to conventional animal products, people view it more positively and are more interested in trying it \[11]. Using quantitative labels on animal products would also help show the large environmental impact of conventional animal products in comparison to cellular agriculture ones \[12]. This would be more effective than qualitative labels, which requires prior knowledge of those labels to understand them \[13].
+A lot of actors in the field are trying to promote cellular agriculture by being as transparent as possible about the science, the manufacturing process, and the positive environmental implications \[2, 9, 10]. Research has shown that when taught about the sustainability aspect of cell ag in comparison to conventional animal products, people view it more positively and are more interested in trying it \[11]. [Using quantitative labels](//www.cell.ag/future-without-livestock/) on animal products would also help show the large environmental impact of conventional animal products in comparison to cellular agriculture ones \[12]. This would be more effective than qualitative labels, which requires prior knowledge of those labels to understand them \[13].
 
 ![null](/img/memphismeat-meatball.jpg)
 
@@ -54,9 +54,9 @@ One group that may feel threatened by a rise in cellular agriculture would be th
 
 ## Conclusion:
 
-It is not surprising that many actors in cellular agriculture are trying to be as transparent and open as possible about their technology and resulting food to gain public acceptance. Isha Datar, the Executive Director of New Harvest, the non-profit that funds primary research in cellular agriculture, was invited to a meeting hosted by the National Academics of Sciences at the request of government organizations like the USDA and FDA to help shape new regulation for biotechnology products \[19]. This is significant, because addressing any misconceptions now may prevent them from getting incorporated into regulatory policies that may impact the future of cellular agriculture \[20].
+It is not surprising that many actors in cellular agriculture are trying to be as transparent and open as possible about their technology and resulting food to gain public acceptance. Isha Datar, the Executive Director of [New Harvest](//www.new-harvest.org/), the non-profit that funds primary research in cellular agriculture, was invited to a meeting hosted by the National Academics of Sciences at the request of government organizations like the USDA and FDA to help shape new regulation for biotechnology products \[19]. This is significant, because addressing any misconceptions now may prevent them from getting incorporated into regulatory policies that may impact the future of cellular agriculture \[20].
 
-Overall, there are clearly many obstacles for cellular agriculture to overcome. It is important to note that not all of them have to be passed before cell ag hits the market. Some challenges are more long-term obstacles that cell ag will eventually have to face. Considering that Perfect Day Foods and Clara Foods will likely find it easier to enter the market, they may be among the first to enter and would set the precedent for how the market will respond to cell ag products. If Hampton Creek is success in launching at the end of 2018, they will also play a role in how the public views the field as more companies enter the market at a later date.
+Overall, there are clearly many obstacles for cellular agriculture to overcome. It is important to note that not all of them have to be passed before cell ag hits the market. Some challenges are more long-term obstacles that cell ag will eventually have to face. Considering that Perfect Day Foods and Clara Foods will likely find it easier to enter the market, they may be among the first to enter and would set the precedent for how the market will respond to cell ag products. If Just is successful in launching at the end of 2018, they will also play a role in how the public views the field as more companies enter the market at a later date.
 
 ## Sources:
 
