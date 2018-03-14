@@ -16,8 +16,18 @@ CMS.registerEditorComponent({
       name: 'video_url',
       label: 'Video-URL',
       widget: 'string'
+    },
+    {
+      name: 'height',
+      label: 'Height',
+      widget: 'string'
+    },
+    {
+      name: 'width',
+      label: 'Width',
+      widget: 'string'
     }],
-    pattern: /^<iframe width="420" height="345" src="(.*)"><\/iframe>/,
+    pattern: /^<iframe width="(.*)" height="(.*)" src="(.*)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen><\/iframe>/,
     
     fromBlock: function(match) {
       return {
@@ -26,12 +36,12 @@ CMS.registerEditorComponent({
     },
     toBlock: function(obj) {
       return (
-        '<iframe width="420" height="345" src="' + obj.video_url + '"></iframe>'
+        '<iframe width="' + obj.width + '" height="' + obj.height + '" src="' + obj.video_url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
       );
     },
     toPreview: function(obj) {
       return (
-        '<iframe width="420" height="345" src="' + obj.video_url + '"></iframe>'
+        '<iframe width="' + obj.width + '" height="' + obj.height + '" src="' + obj.video_url + '" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
       );
     },
   });
