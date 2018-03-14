@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /lab-grown-clothing
 title: Lab Grown Clothing
-date: '2018-03-12T00:41:13-04:00'
+date: '2018-01-18T00:41:13-05:00'
 image: /img/leather-jackets-resized.jpg
 description: >-
   Would you wear clothing made from sustainable leather? Learn about what Modern
@@ -12,7 +12,7 @@ Leather was first made over 5,000 years ago around 3500 BCE \[1]. Today, it is a
 
 ![null](/img/leather-jackets-resized.jpg)
 
-There has been little innovation to change how leather is made. Leather alternatives try to be a more sustainable option, but they just don’t provide the same texture or smell that conventional leather does \[4]. Cellular agriculture provides a solution. Cellular agriculture (‘cell ag’) is the process of growing animal products, like animal skin, from cell cultures and eliminates the need to use animals like cows to get the animal product. Modern Meadow is a cell ag company focusing on growing animal leather, and their work offers a sustainable solution to fill the demand of animal leather products without requiring animals.
+There has been little innovation to change how leather is made. Leather alternatives try to be a more sustainable option, but they just don’t provide the same texture or smell that conventional leather does \[4]. Cellular agriculture provides a solution. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food/) (‘cell ag’) is the process of growing animal products, like animal skin, from cell cultures and eliminates the need to use animals like cows to get the animal product. [Modern Meadow](//www.modernmeadow.com) is a cell ag company focusing on growing animal leather, and their work offers a sustainable solution to fill the demand of animal leather products without requiring animals.
 
 ## Cellular Agriculture and Leather
 
@@ -28,17 +28,21 @@ Beyond raising livestock, cell ag leather provides a sustainable alternative to 
 
 ![null](/img/leather-tannery-fez.jpg)
 
-Leather tannery in Fez, Morocco
+_Leather tannery in Fez, Morocco_
 
 ## Modern Meadow and Bioleather
 
 Andras Forgacs is the founder and CEO of Modern Meadow. He initially worked with his father at their startup Organovo, which created human tissues and organs for testing pharmaceutical products (and the long-term goal of producing replacement organs) \[1, 2]. Forgacs wondered if there could be any other application of their technology beyond healthcare, like growing leather without animals \[2]. After raising $40 million in funding for Modern Meadow in June 2016, he was definitely not the only one who believed that \[6]. So far, Modern Meadow has raised a total of $53.5 million in funding \[1].
 
-![](/img/zoa-home-swatches-resized.jpg)
+![null](/img/zoa-home-swatches-resized.jpg)
+
+_Modern Meadow’s bioleather. Photo taken from Modern Meadow’s website._
+
+
 
 Forgacs believes that Modern Meadow’s advantage lies in the adaptability of their ‘bioleather’. Unlike conventional animal leather, Modern Meadow produces collagen in liquid form (essentially, a liquid leather) that can be molded into different shapes and sizes \[5]. Other leather properties can be modified too, including the texture, thickness, and durability of the material \[1, 5]. The adaptable nature of bioleather means that Modern Meadow can customize and provide designers the specific qualities they would like without having to worry about the traditional leather supply chain \[1]. Not only would this be ideal for designers, customizable leather would result in less leather being wasted in producing and designing products like handbags and wallets \[5].
 
-![null](/img/zoa-tshirt.jpg)
+<video src="https://www.youtube.com/watch?v=VxsOHyJqoiM" controls>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="https://www.youtube.com/watch?v=VxsOHyJqoiM">download it</a> and watch it with your favorite video player!</video>
 
 Modern Meadow has also created their own consumer-facing brand called Zoa. As a proof-of-concept for bioleather, Modern Meadow created a prototype t-shirt for Zoa displayed at the Museum of Modern Art in New York City \[2]. The t-shirt was designed as a patchwork of mesh and cotton that was joined together by their liquid bioleather \[5]. While Modern Meadow’s main focus will be to initially sell leather to other businesses to design, it will be interesting to see what they come up with while developing their own brand for bioleather \[1].
 
