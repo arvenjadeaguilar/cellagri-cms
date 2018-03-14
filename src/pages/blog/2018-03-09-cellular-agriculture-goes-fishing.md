@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /cell-ag-goes-fishing
 title: Cellular Agriculture Goes Fishing
-date: '2018-03-09T10:21:19-05:00'
+date: '2018-01-11T10:21:19-05:00'
 image: /img/bluefin_tuna__mediterranean_sea_credit_oceana__keith_ellenbogen_2.jpg
 description: >-
   Can cellular agriculture provide a sustainable source of fish? Learn about
@@ -10,9 +10,9 @@ description: >-
 ---
 More than 3 billion people rely on fish for at least 20% of their animal protein \[1]. In the last 50 years, annual fish consumption has doubled to be above 20kg per person \[2, 3]. While practices like aquaculture have led to an increased supply of farmed fish, about one-third of commercial fishing is done at biologically unsustainable levels \[3, 4]. Overfishing, coupled with destructive practices like bottom trawling, occurs at unsustainable levels that deplete global fish populations faster than can be replenished. Approximately 60% of commercial fish stocks are deemed fully fished with an additional 30% of fish stocks classified as overfished \[2]. Overfishing has depleted large fish populations by 90% \[1]. If overfishing and the other unsustainable practices continue, it is predicted that millions of people in coastal countries will not be able to afford fish by 2050 \[5].
 
-![](/img/marketfish.jpeg)
+![null](/img/marketfish.jpeg)
 
-Unsustainable fishing practices are clearly a problem, and cellular agriculture offers a solution. Cellular agriculture (‘cell ag’) is the process of growing animal products, like fish meat, from cell cultures and eliminates the need to use animals like fish to get fish meat. Finless Foods is the first cell ag company focusing on growing fish meat from fish cells, and their work offers a sustainable solution to meet global fish demand without further depleting global fish populations.
+Unsustainable fishing practices are clearly a problem, and cellular agriculture offers a solution. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food/) (‘cell ag’) is the process of growing animal products, like fish meat, from cell cultures and eliminates the need to use animals like fish to get fish meat. [Finless Foods](//www.finlessfoods.com) is the first cell ag company focusing on growing fish meat from fish cells, and their work offers a sustainable solution to meet global fish demand without further depleting global fish populations.
 
 ## Cellular Agriculture and Sustainability
 
@@ -28,11 +28,15 @@ A fish that has been overfished is Bluefin tuna. Bluefin tuna is at historic low
 
 ![Bluefin Tuna](/img/bluefin_tuna__mediterranean_sea_credit_oceana__keith_ellenbogen_2.jpg)
 
+_Bluefin Tuna_
+
+
+
 Finless Foods is presently working on producing cultured Bluefin tuna meat. By focusing on Bluefin tuna, it shows that Finless Foods is interested in making sustainable seafood that helps promote conservation of wild fish populations. There are several advantages Finless Foods has in growing cultured fish via cellular agriculture over growing meats like beef or poultry. Fish cells, used to the colder temperatures of the ocean, can grow well at room temperature, whereas the other meats require higher body temperatures to grow \[12, 13]. This leads to higher production costs. In addition, in order to be competitive with conventional livestock meat, cultured beef and poultry need to scale production and cut costs to make their products the same price (or cheaper) than conventional livestock meat. By initially working on Bluefin tuna, which is already very expensive, Finless Foods does not necessarily need to cut costs down as much as other cell ag companies would need to do before entering the market \[9].
 
 Beyond sustainably producing fish, there are other benefits to cultured fish meat. In regard to health implications, cultured fish would be free of mercury and plastics that global fish populations are vulnerable to \[6]. They would also be free of antibiotics, fungicides, pesticides, and other chemicals used to treat and prevent illnesses in farmed fishing aquacultures \[4, 6]. Aquacultures in Scotland have also recently been under fire for using inhumane methods to detach parasites like sea lice from their farmed fish \[4, 6].
 
-![](/img/tunasashimi.jpg)
+![null](/img/tunasashimi.jpg)
 
 ## Conclusion
 
