@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /cellular-agriculture-future-of-food
 title: 'Cellular Agriculture: The Future of Food'
-date: '2018-03-11T23:46:54-04:00'
+date: '2017-12-21T23:46:54-05:00'
 image: /img/cultured-meat.jpg
 description: |2
    Learn about the Future of Food. Things are going to be changing dramatically over the next decade with cellular agriculture.
