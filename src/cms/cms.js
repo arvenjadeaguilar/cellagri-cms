@@ -45,3 +45,35 @@ CMS.registerEditorComponent({
       );
     },
   });
+  CMS.registerEditorComponent({
+    id: "image",
+    label: "Image",
+    fields: [{
+      name: 'image',
+      label: 'Image',
+      widget: 'image'
+    },
+    {
+      label: 'Type', 
+      name: 'size', 
+      widget: 'select', 
+      options: [{ label: "Small", value: "250px" }, { label: "Medium", value: "500px" }, { label: "Large", value: "720px" }, { label: "Full Width", value: "100%" }]
+    }],
+    pattern: /^<img src="(.*)" width="48"\/>/,
+    
+    fromBlock: function(match) {
+      return {
+        video_url: match[1],
+      };
+    },
+    toBlock: function(obj) {
+      return (
+        '<img src="'+ obj.image +'" width="'+ obj.size +'"/>'
+      );
+    },
+    toPreview: function(obj) {
+      return (
+        '<img src="'+ obj.image +'" width="'+ obj.size +'"/>'
+      );
+    },
+  });
