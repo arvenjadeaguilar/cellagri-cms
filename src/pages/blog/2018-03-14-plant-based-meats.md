@@ -11,7 +11,7 @@ description: >-
 ---
 Meat consumption is reaching new heights around the world. With the demand for animal products rising from 60 billion animals in 2016 to 100 billion animals by 2050, the environmental and health impacts of eating meat will only increase. Livestock agriculture already uses about 30% of all fresh water resources and contributes to at least 14.5% of all greenhouse gas emissions (global transportation contributes to 12% of all emissions). On top of that, the large amounts of antibiotics given to animals in conventional livestock agriculture has led to an increase in antimicrobial resistant bacteria, a major public health concern \[1].
 
-![null](/img/jause-eat-delicious-food-56007.jpeg)
+![](/img/jause-eat-delicious-food-56007.jpeg =100x20)
 
 While meat consumption in the US has reached a new high of 222.2 pounds (or 100.8 kg) of meat or poultry per person annually, there has also been an increase in eating meat alternatives \[2]. While we have mainly focused on cellular agriculture as an alternative way to get the same animal products, plant-based meat alternatives look to plants and their components to create products that mimic the taste of meat. In the past, many of these veggie burger attempts have not been successful in attracting the conventional meat consumer. They just don’t have the same taste or texture as conventional meat.
 
