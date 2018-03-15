@@ -38,11 +38,9 @@ Andras Forgacs is the founder and CEO of Modern Meadow. He initially worked with
 
 _Modern Meadow’s bioleather. Photo taken from Modern Meadow’s website._
 
-
-
 Forgacs believes that Modern Meadow’s advantage lies in the adaptability of their ‘bioleather’. Unlike conventional animal leather, Modern Meadow produces collagen in liquid form (essentially, a liquid leather) that can be molded into different shapes and sizes \[5]. Other leather properties can be modified too, including the texture, thickness, and durability of the material \[1, 5]. The adaptable nature of bioleather means that Modern Meadow can customize and provide designers the specific qualities they would like without having to worry about the traditional leather supply chain \[1]. Not only would this be ideal for designers, customizable leather would result in less leather being wasted in producing and designing products like handbags and wallets \[5].
 
-<video src="//https://www.youtube.com/watch?v=VxsOHyJqoiM" controls>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="//https://www.youtube.com/watch?v=VxsOHyJqoiM">download it</a> and watch it with your favorite video player!</video>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/VxsOHyJqoiM" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Modern Meadow has also created their own consumer-facing brand called Zoa. As a proof-of-concept for bioleather, Modern Meadow created a prototype t-shirt for Zoa displayed at the Museum of Modern Art in New York City \[2]. The t-shirt was designed as a patchwork of mesh and cotton that was joined together by their liquid bioleather \[5]. While Modern Meadow’s main focus will be to initially sell leather to other businesses to design, it will be interesting to see what they come up with while developing their own brand for bioleather \[1].
 
