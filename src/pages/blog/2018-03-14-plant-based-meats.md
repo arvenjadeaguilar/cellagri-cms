@@ -35,7 +35,7 @@ In 2017, Impossible Foods began to make their burgers at a food manufacturing fa
 
 Originally in the energy sector, Ethan Brown (no relation to Pat Brown, in case you were wondering) founded Beyond Meat in 2009 \[6]. He learned about the large role that animal products contribute to climate change. To get started, Brown licensed technology from researchers at the University of Missouri that alters plant proteins to the take on the muscular shape of meat \[6]. This means that Brown could take pea protein and, through a process of pressure, heating, and cooling, change the shape and texture of pea protein into meat-like fibres \[7]. This process, along with research into the molecular composition of meat, has helped Beyond Meat produce several plant-based meat products, including chicken-free strips and the Beyond Burger \[8]. When Bill Gates (an investor in both Beyond Meat and Impossible Foods) tried Beyond Meat’s chicken-free strips, he commented that he could not tell the difference between the actual chicken strip and the chicken-free strip \[6].
 
-<video src="//https://www.youtube.com/watch?v=-bShxMpGDi4" controls>Sorry, your browser doesn't support embedded videos, but don't worry, you can <a href="//https://www.youtube.com/watch?v=-bShxMpGDi4">download it</a> and watch it with your favorite video player!</video>
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/-bShxMpGDi4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 _The Good Food Institute visits the Beyond Meat facility and talks to Ethan Brown_
 
