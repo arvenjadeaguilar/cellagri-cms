@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /tasting-the-future-impossible-burger
 title: 'Tasting the Future: the Impossible Burger'
-date: '2018-03-15T20:53:42-04:00'
+date: '2018-03-15T12:00:42-04:00'
 image: /img/impossibleburger2.jpeg
 description: >-
   I tasted the Impossible. My thoughts on the Impossible Burger and the future
