@@ -11,7 +11,7 @@ description: >-
 ---
 Meat consumption is reaching new heights around the world. With the demand for animal products rising from 60 billion animals in 2016 to 100 billion animals by 2050, the environmental and health impacts of eating meat will only increase. Livestock agriculture already uses about 30% of all fresh water resources and contributes to at least 14.5% of all greenhouse gas emissions (global transportation contributes to 12% of all emissions). On top of that, the large amounts of antibiotics given to animals in conventional livestock agriculture has led to an increase in antimicrobial resistant bacteria, a major public health concern \[1].
 
-![](/img/jause-eat-delicious-food-56007.jpeg =100x20)
+<img src="/img/jause-eat-delicious-food-56007.jpeg" width="720px"/>
 
 While meat consumption in the US has reached a new high of 222.2 pounds (or 100.8 kg) of meat or poultry per person annually, there has also been an increase in eating meat alternatives \[2]. While we have mainly focused on cellular agriculture as an alternative way to get the same animal products, plant-based meat alternatives look to plants and their components to create products that mimic the taste of meat. In the past, many of these veggie burger attempts have not been successful in attracting the conventional meat consumer. They just don’t have the same taste or texture as conventional meat.
 
@@ -25,7 +25,7 @@ When Pat Brown realized how devastating and unsustainable the current livestock 
 
 The Impossible Burger is a plant-based meat burger that is like meat in every way. Even how it bleeds. The key protein that contributes to the bloody flavour and aroma of meat is heme, and, according to Pat Brown, “you can’t make meat without heme” \[3, 4]. Impossible Foods identified a protein found in the roots of soybean plants that has the same properties as heme called soy leghemoglobin. Similar to how Perfect Day Foods and Clara Foods use yeast to grow proteins for their cellular agriculture products, Impossible Foods began to use yeast to grow the soy leghemoglobin protein. Not only is yeast more efficient, it is more environmentally friendly than regularly digging up soybean roots to extract the protein \[5]. Besides their ‘secret ingredient’ of plant-based heme, the Impossible Burger also uses wheat and potato proteins as well as coconut oil to mimic the taste of meat \[5].
 
-![null](/img/bloomberg_half_impossible_burger.jpg)
+!\[null](/img/bloomberg_half_impossible_burger.jpg)
 
 _The Impossible Burger_
 
