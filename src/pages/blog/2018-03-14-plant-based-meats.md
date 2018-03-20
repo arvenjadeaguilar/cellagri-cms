@@ -25,7 +25,7 @@ When Pat Brown realized how devastating and unsustainable the current livestock 
 
 The Impossible Burger is a plant-based meat burger that is like meat in every way. Even how it bleeds. The key protein that contributes to the bloody flavour and aroma of meat is heme, and, according to Pat Brown, “you can’t make meat without heme” \[3, 4]. Impossible Foods identified a protein found in the roots of soybean plants that has the same properties as heme called soy leghemoglobin. Similar to how Perfect Day Foods and Clara Foods use yeast to grow proteins for their cellular agriculture products, Impossible Foods began to use yeast to grow the soy leghemoglobin protein. Not only is yeast more efficient, it is more environmentally friendly than regularly digging up soybean roots to extract the protein \[5]. Besides their ‘secret ingredient’ of plant-based heme, the Impossible Burger also uses wheat and potato proteins as well as coconut oil to mimic the taste of meat \[5].
 
-!\[null](/img/bloomberg_half_impossible_burger.jpg)
+<img src="/img/bloomberg_half_impossible_burger.jpg" width="720px"/>
 
 _The Impossible Burger_
 
