@@ -17,7 +17,7 @@ description: >-
   skin protein collagen from yeast via fermentation. Collagen is the main
   material that makes up leather after every other component of the animal hide
   is discarded. By focussing on producing collagen directly, Modern Meadow
-  offers a move sustainable way to produce leather that avoids the waste
+  offers a more sustainable way to produce leather that avoids the waste
   conventional leather production is associated with.
 ---
 
