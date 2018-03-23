@@ -1,5 +1,5 @@
 ---
-title: Strain Engineering Internship Spring 2018 at Clara Foods
+title: Strain Engineering Internship Summer 2018 at Clara Foods
 position: Strain Engineering Internship - Summer 2018
 templateKey: jobs-post
 path: /jobs/clarafoods/strain-engineering-internship-summer-2018
