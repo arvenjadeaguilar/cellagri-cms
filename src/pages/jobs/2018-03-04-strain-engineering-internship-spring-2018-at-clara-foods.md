@@ -1,18 +1,16 @@
 ---
 title: Strain Engineering Internship Spring 2018 at Clara Foods
-position: Strain Engineering Internship - Spring 2018
+position: Strain Engineering Internship - Summer 2018
 templateKey: jobs-post
-path: /jobs/clarafoods/strain-engineering-internship-spring-2018
-date: 2018-03-05T00:27:14.458Z
+path: /jobs/clarafoods/strain-engineering-internship-summer-2018
+date: '2018-03-23T19:27:14-04:00'
 companyRelated: /clarafoods
 ---
-We are looking for an enthusiastic intern to join our strain engineering team for a three- to six-month internship program, starting in early January 2018. The candidate will be working on strain engineering tasks including molecular cloning, high throughput screening, microbe culturing and other processes.
+Have you learned enough engineering principles from your textbooks and classes, but wonder how they are applied in the food and biotech industries? Do you want to leverage technology to feed the world with protein that promotes human health, safeguards our environment, and alleviates animal suffering?
 
-
+We are looking for an **enthusiastic intern to join our strain engineering team for a three- to six-month internship program, starting in summer 2018**. The candidate will be working on strain engineering tasks including molecular cloning, high throughput screening, microbe culturing and other processes.
 
 We are looking for:
-
-
 
 \- Preferably a junior or senior in a BS or MS Program in biology, bioengineering, genetics or other related majors
 
@@ -24,11 +22,7 @@ We are looking for:
 
 \- Ability to lift up to 30 pounds
 
-
-
 Duties include:
-
-
 
 \- Adherence to safety regulations (e.g. constant use of protective gears)
 
@@ -40,11 +34,7 @@ Duties include:
 
 \- Other duties as assigned
 
-
-
 We can offer:
-
-
 
 \- Ample opportunities to apply biotechnology skills in the food industry
 
