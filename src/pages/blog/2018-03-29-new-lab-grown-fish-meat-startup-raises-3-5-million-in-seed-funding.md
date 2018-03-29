@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /new-lab-grown-fish-meat-startup-raises-millions-seed-funding
-title: New Lab-Grown Fish Meat Startup Raises $3.5 million in seed funding
+title: New Lab-Grown Fish Meat Startup Raises $3.5 million in Seed Funding
 date: '2018-03-29T11:04:10-04:00'
 image: /img/salmon-fillet.jpeg
 description: >-
