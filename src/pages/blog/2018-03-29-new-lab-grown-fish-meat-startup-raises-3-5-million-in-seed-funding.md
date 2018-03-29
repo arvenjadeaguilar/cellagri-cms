@@ -14,7 +14,7 @@ Wild Type was founded by Justin Kolbeck and Aryé Elfenbien. Kolbeck worked in t
 
 <img src="/img/salmon-fillet.jpeg" width="720px"/>
 
-Wild Type plans to use cellular agriculture (‘cell ag’) to grow fish meat from cell cultures. Cellular agriculture is the field of growing animal products, like fish meat, from cells. Without requiring animals. Specifically, Wild Type wants to make cultured salmon meat, like for a salmon sushi roll.
+Wild Type plans to use [cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food/) to grow fish meat from cell cultures. Cellular agriculture is the field of growing animal products, like fish meat, from cells. Without requiring animals. Specifically, Wild Type wants to make cultured salmon meat, like for a salmon sushi roll.
 
 To grow fish meat, muscle cells are taken from the of interest (in this case, salmon) and these cells are grown in a cell culture media to become fish meat. The cell culture media and the way the cells are grown are important in this process, because they help the fish cells develop into the same meat that comes directly from fish.
 
