@@ -8,7 +8,7 @@ website: gfi.org
 socialMedia:
   - media: Twitter
     url: 'https://twitter.com/GoodFoodInst'
-logo: /img/gfi logo.png
+logo: /img/gfi thumbnail.jpg
 thumbnail: /img/gfi thumbnail.jpg
 description: >-
   The Good Food Institute is an institute that promotes the growth of
