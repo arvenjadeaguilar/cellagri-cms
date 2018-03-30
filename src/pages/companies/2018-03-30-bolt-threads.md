@@ -1,6 +1,6 @@
 ---
 templateKey: company-post
-path: /boltthread
+path: /boltthreads
 date: '2018-03-30T10:43:15-04:00'
 title: Bolt Threads
 location: 'Emeryville, California'
@@ -8,7 +8,7 @@ website: www.boltthreads.com
 socialMedia:
   - media: Twitter
     url: 'https://twitter.com/boltthreads'
-logo: /img/bolt thread logo.jpg
+logo: /img/bolt thread thumbnail.jpg
 thumbnail: /img/bolt thread thumbnail.jpg
 description: >-
   Bolt Threads is a clothing company that uses cellular agriculture to make
