@@ -26,7 +26,7 @@ This prompted several of us to stop focusing on the demand side. If you can’t 
 
 In short, let’s change the supply. We started talking about this in 2015, and The Good Food Institute was officially launched on February 1, 2016.
 
-> ## "_Our ultimate goal is to put ourselves out of business"_
+> > _"Our ultimate goal is to put ourselves out of business"_
 
 **Ahmed**: How would you define plant-based proteins and cellular agriculture, and how are these different from conventional animal protein products?
 
@@ -64,9 +64,7 @@ Our ultimate goal is to put ourselves out of business – to have helped transfo
 
 <img src="/img/chicken-with-egg.jpeg" width="720px"/>
 
-> ## "A_ well-marketed, cost-competitive plant-based chicken nugget could have a huge impact"_
-
-
+> > _"A well-marketed, cost-competitive plant-based chicken nugget could have a huge impact"_
 
 **Ahmed**: 2018 has been off to a great start for cellular agriculture with all of the new investments in the field... What are some of the main obstacles that you see ahead before cellular agriculture (and some plant-based proteins) enter the market?
 
@@ -84,7 +82,7 @@ For [clean meat to get to market](http://www.gfi.org/clean-meats-path-to-commerc
 
 <img src="/img/cows_graizing.jpeg" width="undefined"/>
 
-> _"We will get to a point where almost no one will look at a cow or a bird and think, “Yeah, that’s my dinner.”"_
+> > _"We will get to a point where almost no one will look at a cow or a bird and think, “Yeah, that’s my dinner.”"_
 
 Ahmed: How can people who are just learning about cellular agriculture and/or plant-based meat/protein alternatives get involved? What would you recommend they do? 
 
