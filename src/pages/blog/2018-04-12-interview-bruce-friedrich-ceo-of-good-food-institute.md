@@ -84,6 +84,6 @@ For [clean meat to get to market](http://www.gfi.org/clean-meats-path-to-commerc
 
 > > _"We will get to a point where almost no one will look at a cow or a bird and think, “Yeah, that’s my dinner.”"_
 
-Ahmed: How can people who are just learning about cellular agriculture and/or plant-based meat/protein alternatives get involved? What would you recommend they do? 
+**Ahmed**: How can people who are just learning about cellular agriculture and/or plant-based meat/protein alternatives get involved? What would you recommend they do? 
 
 **Bruce**: The first thing they should do it sign up for the GFI email list (at the bottom of [our homepage](//www.gfi.org/))! The second is to review [our list of resources](//www.gfi.org/resources). Once you have a better idea of your interests and how you would like to get involved, please [contact us](//www.gfi.org/contact-us) and we’ll connect you to the appropriate department for more information.
