@@ -15,7 +15,7 @@ The USCA doesn’t want it to be considered meat. The NCBA says it does count as
 
 Some call it _clean meat_, others ‘lab-grown meat’. **But what is it really?**
 
-Cultured meat is meat grown from cell cultures in a process known as [cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food). Cellular agriculture (‘cell ag’) is the field of growing animal agricultural products (like meat, leather, and milk) directly form cell cultures instead of using animals. Instead of raising a cow from birth for milk and meat, for example, cellular agriculture presents an alternative way to get the same product. **Without requiring the animal.**
+Cultured meat is meat grown from cell cultures in a process known as [cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food). Cellular agriculture (‘cell ag’) is the field of growing animal agricultural products (like meat, leather, and milk) directly from cell cultures instead of using animals. Instead of raising a cow from birth for milk and meat, for example, cellular agriculture presents an alternative way to get the same product. **Without requiring the animal.**
 
 <img src="/img/cultured-beef-and-post.jpg" width="100%"/>
 
@@ -57,7 +57,7 @@ By cutting out livestock in cell ag, there will be _no E. coli or salmonella_ (o
 
 ## Misconception #3: Is Cultured Meat a GMO?
 
-**GMO stands for genetically modified organisms**, and it involves the science of inserting the DNA of a gene of interest into the DNA sequence of another organism to produce a specific outcome. The outcome can be adding a new characteristic (like making a plant resistant to a specific disease) or harvesting a protein from the modified organism (like insulin from microorganisms).
+_GMO stands for genetically modified organisms_, and it involves the science of inserting the DNA of a gene of interest into the DNA sequence of another organism to produce a specific outcome. The outcome can be adding a new characteristic (like making a plant resistant to a specific disease) or harvesting a protein from the modified organism (like insulin from microorganisms).
 
 Since cultured meat comes from unmodified animal cells, **cultured meat is not a genetically modified food.**
 
