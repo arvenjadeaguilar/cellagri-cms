@@ -73,7 +73,7 @@ There is still a lot of public mistrust over GMOs. And this goes back to [their 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/QcSitSoCU50" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
-_Video by Wall Street Journal about Memphis Meat highlights their efforts to be transparent about their cultured chicken meat_
+> _Video by Wall Street Journal about Memphis Meat highlights their efforts to be transparent about their cultured chicken meat_
 
 ## Conclusion
 
