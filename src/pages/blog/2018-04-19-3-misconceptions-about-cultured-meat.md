@@ -71,7 +71,7 @@ There is still a lot of public mistrust over GMOs. And this goes back to [their 
 
 **The cellular agriculture space is learning from those lessons**. All the major players in cell ag are making an effort to be as transparent as possible by showing their technology and the processes involved in making animal products via cell ag, including cultured meat. With this so-called “[radical transparency](//www.forbes.com/sites/eveturowpaul/2017/02/23/will-you-eat-this-yeast-made-cheese/1#58a09e0a702d)”, cell ag will not be vulnerable to the same downfalls of GMOs – other actors with other vested interest filling in the large gaps in public information.
 
-<iframe width="100%" height="720" src="https://www.youtube.com/embed/QcSitSoCU50" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QcSitSoCU50" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 _Video by Wall Street Journal about Memphis Meat highlights the transparency about their cultured chicken meat_
 
