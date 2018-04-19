@@ -4,10 +4,11 @@ import Script from "react-load-script";
 import graphql from "graphql";
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import flatten from 'lodash/flatten'
-import slice from 'lodash/slice'
-import find from 'lodash/find'
-import orderBy from 'lodash/orderBy'
+import flatten from 'lodash/flatten';
+import slice from 'lodash/slice';
+import find from 'lodash/find';
+import orderBy from 'lodash/orderBy';
+
 export default class ArticlesPage extends React.Component {
   
   render() {
@@ -32,6 +33,7 @@ export default class ArticlesPage extends React.Component {
     });
     return (
       <section className="section company">
+      
       <Navbar color="#2B3D54"/>
       <div className="">
         <div className="section">

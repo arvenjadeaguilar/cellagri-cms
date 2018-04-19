@@ -4,6 +4,7 @@ import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { navigateTo } from "gatsby-link"
+import Helmet from 'react-helmet';
 
 export const BlogPostTemplate = ({
   content, contentComponent, description, title,
@@ -24,6 +25,8 @@ export const BlogPostTemplate = ({
     //   </div>
     // </section>
     <section className="section">
+      <Helmet title={title}>
+      </Helmet>
       <Navbar color="#2B3D54"/>
       <div className="">
         <div className="section">
