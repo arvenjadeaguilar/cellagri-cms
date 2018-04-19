@@ -9,7 +9,7 @@ description: >-
   gets closer to market, it’s important to address any misconceptions about
   cultured meat to make sure the correct information is out there.
 ---
-\    **Cultured Meat.**
+**Cultured Meat.**
 
 The USCA doesn’t want it to be considered meat. The NCBA says it does count as meat _but_ should be as strictly regulated as slaughterhouses.
 
@@ -23,9 +23,7 @@ Cultured meat is meat grown from cell cultures in a process known as [cellular a
 
 There is quite some time before cultured meat gets to market, but there are already quite a few misconceptions about it. This article will address three of the main misconceptions surrounding cultured meat.
 
- 
-
-## Misconception #1: Cultured Meat. Is it Meat?
+# Misconception #1: Cultured Meat. Is it Meat?
 
 According to the [Oxford Dictionary](//en.oxforddictionaries.com/definition/meat), meat is defined as “the flesh of an animal, typically a mammal or bird, as food”. The US Cattlemen’s Association (USCA) support this definition and have [petitioned](//qz.com/1205165/the-us-department-of-agriculture-is-being-asked-to-differentiate-beef-from-clean-meat/) the US Department of Agriculture (USDA) to redefine meat as the flesh of an animal that has been raised, slaughtered, and harvested in the ‘traditional’ manner. 
 
@@ -43,25 +41,19 @@ While the USCA doesn’t believe cultured meat qualifies as meat, others in the 
 
 While the meat industry will continue to debate what qualifies as meat, the support of large meat corporations investing in cultured meat shows that cultured meat via cell ag can be a way to produce meat in the future.
 
- 
-
 ## Misconception #2: Who’s Regulating Cultured Meat? Is it even safe?
 
 One of the first questions many people have about cellular agriculture and cultured meat is [who is in charge of marking sure it’s safe](//www.cell.ag/cell-ag-obstacles-ahead)? In Europe, new regulation has put the European Commission in charge of approve and regulating novel foods, including cultured meat. In the United States, where most cell ag companies are based, **the answer is still unclear**. As the NCBA and USCA have noted, the USDA traditionally regulates and overseas animal products like meat, milk and eggs. But what if those animal products are coming from cell cultures, a field that the Food and Drug Agency (FDA) would have oversight over?
 
 <img src="/img/jause-eat-delicious-food-56007.jpeg" width="720px"/>
 
-
-
 Since there is no precedent for cultured meat, it seems likely that the FDA will be in charge of regulating cultured meat. In spite the of the USCA and NCBA’s interests, the FDA recently released a [statement](//www.cnn.com/2018/03/01/health/clean-in-vitro-meat-food/) “that cultured meat, if manufactured in accordance with appropriate safety standards and all relevant regulations, could be consumed safely”. While not a complete approval, it is a positive sign that even before regulatory reviews are underway, the FDA believes that cell ag products _can_ be safe if specific protocols are carried out.
 
-In regard to safety, one of the names that cultured meat has been branded as is [clean meat](//www.gfi.org/the-naming-of-clean-meat), and that name is meant to reflect the _health_ and _environmental benefits _of cultured meat. In addition to the _environmental benefits_ (animal agriculture emits 14% of all greenhouse gas emission in comparison to global transportation’s 12%), cultured meat will be ‘_cleaner_’ and therefore safer than conventional meat.
+In regard to safety, one of the names that cultured meat has been branded as is [clean meat](//www.gfi.org/the-naming-of-clean-meat), and that name is meant to reflect the _health_ and _environmental_ _benefits_ of cultured meat. In addition to the environmental benefits (animal agriculture emits 14% of all greenhouse gas emission in comparison to global transportation’s 12%), cultured meat will be ‘_cleaner_’ and therefore safer than conventional meat.
 
 <img src="/img/cows.jpeg" width="720px"/>
 
 By cutting out livestock in cell ag, there will be _no E. coli or salmonella_ (or other bacterial contaminations) from livestock that could contaminate the meat if produced in a sterile environment. In addition, cultured meat would not be fed the [large amounts of antibiotics](//www.nytimes.com/2018/03/23/business/cattle-antiobiotics.html) that are given to animals in conventional livestock agriculture (approximately 80% of antibiotics sold are fed to livestock).
-
-
 
 ## Misconception #3: Is Cultured Meat a GMO?
 
@@ -78,8 +70,6 @@ Having said that, there are [some valuable lessons](//www.cell.ag/cell-ag-monsan
 There is still a lot of public mistrust over GMOs. And this goes back to [their roots](//modernfarmer.com/2014/03/monsantos-good-bad-pr-problem/). When genetically modified foods first came onto the market, there was little public education or information about the new technology. Why was it needed? Are GM foods safe and healthy to eat? And what will happen if I eat them? With little public information about the new technology (and associated food), other actors filled the gaps in information – and not to promote a new technology that they didn’t know much about. What emerged was a public that mistrusted and feared a new technology in their food. 
 
 **The cellular agriculture space is learning from those lessons**. All the major players in cell ag are making an effort to be as transparent as possible by showing their technology and the processes involved in making animal products via cell ag, including cultured meat. With this so-called “[radical transparency](//www.forbes.com/sites/eveturowpaul/2017/02/23/will-you-eat-this-yeast-made-cheese/1#58a09e0a702d)”, cell ag will not be vulnerable to the same downfalls of GMOs – other actors with other vested interest filling in the large gaps in public information.
-
- 
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/QcSitSoCU50" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
