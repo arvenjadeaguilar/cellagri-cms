@@ -23,7 +23,7 @@ Cultured meat is meat grown from cell cultures in a process known as [cellular a
 
 There is quite some time before cultured meat gets to market, but there are already quite a few misconceptions about it. This article will address three of the main misconceptions surrounding cultured meat.
 
-# Misconception #1: Cultured Meat. Is it Meat?
+## Misconception #1: Cultured Meat. Is it Meat?
 
 According to the [Oxford Dictionary](//en.oxforddictionaries.com/definition/meat), meat is defined as “the flesh of an animal, typically a mammal or bird, as food”. The US Cattlemen’s Association (USCA) support this definition and have [petitioned](//qz.com/1205165/the-us-department-of-agriculture-is-being-asked-to-differentiate-beef-from-clean-meat/) the US Department of Agriculture (USDA) to redefine meat as the flesh of an animal that has been raised, slaughtered, and harvested in the ‘traditional’ manner. 
 
