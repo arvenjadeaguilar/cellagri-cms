@@ -4,7 +4,7 @@ import Content, { HTMLContent } from '../components/Content';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import find from 'lodash/find';
-
+import moment from 'moment'
 export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
@@ -22,7 +22,7 @@ export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
               <h2>Cellular Agriculture Jobs</h2> 
               <div className="job-list">
                 {jobs ? jobs.map(job => (
-                  <div className="item">
+                  <div key={job.position} className="item">
                     <img className="item-logo" src={job.thumbnail} alt={"logo"}/>
                     <h3 className="title"><a href={job.path}>{job.position && job.position.toUpperCase()}</a></h3>
                     <div className="inline">
@@ -30,7 +30,7 @@ export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
                       <span className="location">{job.location}</span>
                     </div>
                     <div className="item-date">
-                      {job.date}
+                      {moment(job.date).format('MM DD')}
                     </div>
                   </div>
                 )):null}
@@ -104,7 +104,7 @@ export const jobsPageQuery = graphql`
           frontmatter {
             path
             templateKey
-            date(formatString: "MMM DD")
+            date
             title
             logo
             thumbnail

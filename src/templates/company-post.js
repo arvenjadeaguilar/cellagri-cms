@@ -28,7 +28,7 @@ export const CompanyPostTemplate = ({ title, logo, jobs,location, website,thumbn
 
   let mediaJSX = socialMedia && socialMedia.map(media=>{
     return (
-      <a href={media.url} className="media inline">
+      <a href={media.url} key={media.media} className="media inline">
         {getIcon(media.media)} {media.media}
       </a>
     );
@@ -60,7 +60,7 @@ export const CompanyPostTemplate = ({ title, logo, jobs,location, website,thumbn
               <h2>Jobs at {title}</h2> 
               <div className="job-list">
                 {jobs ? jobs.map(job => (
-                  <div className="item">
+                  <div key={job.position} className="item">
                     <img className="item-logo" src={thumbnail} alt={"logo"}/>
                     <h3 className="title"><a href={job.node.frontmatter.path}>{job.node.frontmatter.position && job.node.frontmatter.position.toUpperCase()}</a></h3>
                     <div className="inline">
@@ -123,7 +123,7 @@ export const companyPostQuery = graphql`
         thumbnail
       }
     }
-    allMarkdownRemark(filter: {frontmatter: {companyRelated:{eq:$path}}}) {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] },filter: {frontmatter: {companyRelated:{eq:$path}}}) {
       edges {
         node {
           excerpt(pruneLength: 400)

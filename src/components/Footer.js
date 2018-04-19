@@ -46,7 +46,7 @@ const Footer = () => (
           </p>
           
           <p className="copywrite">
-            Copyright 2017 CellAgri
+            Copyright 2018 CellAgri
           </p>
           <p className="socialIcons">
             <a href="https://twitter.com/cellagritech/" className="icon">

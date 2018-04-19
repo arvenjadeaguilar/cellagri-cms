@@ -42,7 +42,7 @@ export default class IndexPage extends React.Component {
     let blogJSX = blogList.map((blog)=>{
       return (
         <a key={blog.path} href={blog.path} className="feature">
-          <div className="feature_image_container" style={{backgroundImage:'url(' + blog.image + ')'}}>
+          <div className="feature_image_container" style={{backgroundImage:'url("' + blog.image + '")'}}>
           </div>
           <h3 className="feature_headLine">
             {blog.title}
@@ -85,7 +85,7 @@ export default class IndexPage extends React.Component {
                 Your #1 source for latest news, trends and jobs in cellular agriculture.
               </p>
               <form action="https://cell.us17.list-manage.com/subscribe/post?u=1eb30a522df43dfeeb91f54d2&amp;id=96fa9a2b9c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
-                <input type="email" className="input" placeholder="Your Email" name="EMAIL" id="mce-EMAIL" required />
+                <input type="email" className="input hero-input" placeholder="Your Email" name="EMAIL" id="mce-EMAIL" required />
                 <button type="submit" className="btn btn-success">SUBSCRIBE</button>
               </form>
               <p>
@@ -117,7 +117,7 @@ export default class IndexPage extends React.Component {
                     <h2>Latest Jobs</h2> 
                     <div className="job-list">
                       {jobs ? jobs.map(job => (
-                        <div className="item">
+                        <div key={job.position} className="item">
                           <img className="item-logo" src={job.thumbnail} alt={"logo"}/>
                           <h3 className="title"><Link to={job.path}>{job.position}</Link></h3>
                           <div className="inline">
