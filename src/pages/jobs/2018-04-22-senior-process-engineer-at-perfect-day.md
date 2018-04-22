@@ -14,7 +14,7 @@ companyRelated: /perfectday
 
 **Description:**
 
-Perfect Day is working to commercialize its first animal-free dairy protein products. We are seeking a highly skilled and experienced Senior Process Engineer capable of managing a broad range of project activities to successfully scale the production process from the laboratory through pilot plant into commercial facilities. The ideal candidate will be driven and will do what it takes to contribute to a small team in a fast paced, collaborative start-up environment.
+Perfect Day is working to commercialize its first animal-free dairy protein products. We are seeking a highly skilled and experienced **Senior Process Engineer** capable of managing a broad range of project activities to successfully scale the production process from the laboratory through pilot plant into commercial facilities. The ideal candidate will be driven and will do what it takes to contribute to a small team in a fast paced, collaborative start-up environment.
 
 **Role and Responsibilities:**
 
