@@ -12,15 +12,11 @@ companyRelated: /perfectday
 
 **AREA(S) OF EXPERTISE DESIRED:** Fermentation and downstream purification technology; direct experience with process equipment scale-up and process design, characterization, implementation and optimization.    
 
- 
-
 **Description:**
 
 Perfect Day is working to commercialize its first animal-free dairy protein products. We are seeking a highly skilled and experienced Senior Process Engineer capable of managing a broad range of project activities to successfully scale the production process from the laboratory through pilot plant into commercial facilities. The ideal candidate will be driven and will do what it takes to contribute to a small team in a fast paced, collaborative start-up environment.
 
-
-
-**Role and Responsibility:**
+**Role and Responsibilities:**
 
 \- Work closely with the Process Development staff, Commercialization team and contract manufacturing partners to deliver an efficient, cost effective technology package for scale up through to product commercialization. Support manufacturing technology transfer to guarantee accuracy, conformity and competitiveness of the process and techniques utilized in a microbial fermentation-based process.
 
@@ -29,8 +25,6 @@ Perfect Day is working to commercialize its first animal-free dairy protein prod
 \- Deliver the process technology transfer package and evaluate compatibility of contract manufacturing facilities with the process requirements. This will include the development of the process design basis, including the sizing, selection and/or retrofit of equipment, mass balance and instrument control.
 
 \- Partner with contract manufacturers to ensure industrial implementation of process design, including review of design documents and participation in pilot testing. In addition, the position will provide technical assistance to Process Development and Manufacturing Operations for process troubleshooting to achieve target metrics in fermentation and downstream purification for food grade products.
-
-
 
 **Requirements:**
 
@@ -49,8 +43,6 @@ Perfect Day is working to commercialize its first animal-free dairy protein prod
 \- Ability to stand or sit for prolonged periods, climb, kneel, bend, and lift up to 50 lbs.
 
 \- Significant travel will be required.
-
-
 
 **Work Environment:**
 
