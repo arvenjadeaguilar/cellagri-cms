@@ -8,8 +8,6 @@ companyRelated: /just
 ---
 The **Product Manager** manages the product development pipeline from concept to commercialization. He/She develops product positioning, analyzes market opportunities and works with a cross functional team to bring products through a complete launch cycle including measuring performance post launch. The Product Manager works with sales, marketing communications and PR teams to develop the product launch plan and product messaging. The role incorporates strategic planning, project management, product and packaging requirements creation, consumer research, contractor management, vendor relations, business analysis and consumer marketing.
 
-
-
 **You Will:**
 
 _Product Management:_
@@ -37,8 +35,6 @@ _ New Product Development:_
 ·Partner with cross-functional team on design and development of new product and packaging formats
 
 ·Lead product management of projects from concept through launch
-
- 
 
 **You Have:**
 
