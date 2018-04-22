@@ -1,6 +1,6 @@
 ---
-title: Freelance Designer at Just
-position: Freelance Designer
+title: Senior Designer at Just
+position: Senior Designer
 templateKey: jobs-post
 path: /jobs/just/freelance-designer
 date: 2018-03-05T04:16:32.977Z
