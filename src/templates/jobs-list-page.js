@@ -30,7 +30,7 @@ export const JobsPageTemplate = ({ title, jobs, contentComponent }) => {
                       <span className="location">{job.location}</span>
                     </div>
                     <div className="item-date">
-                      {moment(job.date).format('MM DD')}
+                      {moment(job.date).format('MMM DD')}
                     </div>
                   </div>
                 )):null}
