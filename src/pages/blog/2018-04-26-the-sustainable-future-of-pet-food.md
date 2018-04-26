@@ -12,11 +12,9 @@ Americans own **184 million dogs and cats**. And who can blame them – pets are
 
 <img src="/img/catanddog.jpg" width="720px"/>
 
-Pet food is one of the largest consumers of meat in the world. America’s dogs and cats consume about [25% of _all meat sold in the country_](//www.inc.com/jeff-bercovici/wild-earth-meatless-pet-food.html). A recent study investigating the environmental impact of pet food found that **American pets consume enough meat that they alone would be the fifth most meat-consuming nation in the world**. All meat carries a heavy environmental burden. Livestock agriculture is a resource intensive process, and it takes about [1,799 gallons of water](//www.cnbc.com/2018/03/23/bill-gates-and-richard-branson-bet-on-lab-grown-meat-startup.html) and 38 pounds of feed to produce _one pound_ of beef. Specifically, meat consumption by pets is responsible for **64 million tons of greenhouse gases annually.** 
+Pet food is one of the largest consumers of meat in the world. America’s dogs and cats consume about [25% of _all meat sold in the country_](//www.inc.com/jeff-bercovici/wild-earth-meatless-pet-food.html). A recent [study](//journals.plos.org/plosone/article?id=10.1371/journal.pone.0181301) investigating the environmental impact of pet food found that **American pets consume enough meat that they alone would be the fifth most meat-consuming nation in the world**. All meat carries a heavy environmental burden. Livestock agriculture is a resource intensive process, and it takes about [1,799 gallons of water](//www.cnbc.com/2018/03/23/bill-gates-and-richard-branson-bet-on-lab-grown-meat-startup.html) and 38 pounds of feed to produce _one pound_ of beef. Specifically, meat consumption by pets is responsible for **64 million tons of greenhouse gases annually.** 
 
 There clearly needs to be a more responsible way to feed all our pets the healthy diet they need as well as be environmentally responsible. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food/) offers a solution. Cellular agriculture (‘cell ag’) is the process of growing animal products, like meat, from cell cultures and eliminates the need to use animals to get the product. [Wild Earth](//www.wildearthpets.com/) is the first startup to use cell ag technology to focus on producing cultured pet food, and their work offers a sustainable solution to sustainably produce healthy pet food. Without requiring animals.
-
- 
 
 ## Cellular Agriculture and Pet Food
 
@@ -26,11 +24,9 @@ Wild Earth is the first startup to use cellular agriculture to produced cultured
 
 Earlier in 2018, food manufacturer J.M. Smucker Company Inc. [recalled](//www.foodsafetynews.com/2018/03/smucker-confirms-euthinasia-drug-in-popular-dog-food-brands/#.WuAITdPwa34) **107 million cans of dog foods** (including popular brands like Gravy Train and Kibbles ‘n’ Bits) because they used ingredients containing **toxic euthanasia drugs**. Since livestock animals are rarely euthanized (especially when used for food), the presence of euthanasia drugs in the dog food suggests that the meat could have been from _horses or even other dogs and cats_ from animal shelters. Since this isn’t the first time (and unlikely the last) that pet food has been recalled, using cultured protein offers a safer way to produce protein for pets.
 
- 
+## Wild Earth and Cultured Protein
 
-## Wild Earth and Cultured Protein 
-
-Enter Ryan Bethancourt and Ron Shigeta. These two were the leaders behind [Berkley Biolabs](//www.berkeleybiolabs.com/) and, most recently, [IndieBio](//indiebio.co/). A life sciences accelerator that brought forth cellular agriculture startups [**Memphis Meats**](//www.memphismeats.com/)**, **[**Finless Foods**](//www.finlessfoods.com)**, **[**Clara Foods**](//www.clarafoods.com/)** and **[**Geltor**](//www.geltor.com/). Having assisted these cellular agriculture startups develop sustainable animal products, Bethancourt and Shigeta saw a solution to the environmental burden of pet food: _cultured protein_! They weren’t the only ones who believe that. After co-founding Wild Earth with Kristin Wurhman and Abril Estrada, Wild Earth recently announced that they raised **$4 million** in seed funding in March 2018.
+Enter Ryan Bethancourt and Ron Shigeta. These two were the leaders behind [Berkley Biolabs](//www.berkeleybiolabs.com/) and, most recently, [IndieBio](//indiebio.co/). A life sciences accelerator that brought forth cellular agriculture startups [Memphis Meats](//www.memphismeats.com/), [Finless Foods](//www.finlessfoods.com), [Clara Foods](//www.clarafoods.com/) and [Geltor](//www.geltor.com/). Having assisted these cellular agriculture startups develop sustainable animal products, Bethancourt and Shigeta saw a solution to the environmental burden of pet food: _cultured protein_! They weren’t the only ones who believe that. After co-founding Wild Earth with Kristin Wurhman and Abril Estrada, Wild Earth recently announced that they raised **$4 million** in seed funding in March 2018.
 
 <img src="/img/wildearthpetfood.jpg" width="720px"/>
 
@@ -41,8 +37,6 @@ Wild Earth’s first product on the market is likely to be a dog food treat made
 On the other hand, cats are more particular about their diets. Alternative proteins (like koji-based cultured protein) will not work for them. They require animal protein in their diet. Cellular agriculture provides a sustainable way to produce that. Wild Earths is working to develop cat food using **cultured meat** **from mice** (what other meat would a cat prefer?). Mice are the most studied animals in biology labs, so there is plenty of previous research and data on using mice stem cells to grow animal tissues (except, this time, for _meat_).
 
 <img src="/img/cateating.jpg" width="720px"/>
-
- 
 
 ## Conclusion
 
