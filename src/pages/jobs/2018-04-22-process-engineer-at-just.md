@@ -1,6 +1,6 @@
 ---
 title: Process Engineer at Just
-position: Process Engineer at Just
+position: Process Engineer
 templateKey: jobs-post
 path: /just/process-engineer
 date: '2018-04-22T11:19:45-04:00'
