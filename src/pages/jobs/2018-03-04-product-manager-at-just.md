@@ -1,8 +1,8 @@
 ---
-title: Product Manager at Just
-position: Product Manager
+title: Product Marketing Manager at Just
+position: Product Marketing Manager
 templateKey: jobs-post
-path: /jobs/just/product-manager
+path: /jobs/just/product-marketing-manager
 date: 2018-03-05T04:26:48.445Z
 companyRelated: /just
 ---
@@ -38,7 +38,7 @@ _ New Product Development:_
 
 **You Have:**
 
-The ideal candidate will have the following:
+_The ideal candidate will have the following:_
 
 · Strong ability to analyze and synthesize data to uncover insights
 
@@ -54,7 +54,7 @@ The ideal candidate will have the following:
 
 · Passionate about food
 
-Bachelor's degree required, MBA highly preferred, with a marketing emphasis
+· Bachelor's degree required, MBA highly preferred, with a marketing emphasis
 
 · 3 – 5 years' brand or product management experience, preferably in a food products environment.
 
