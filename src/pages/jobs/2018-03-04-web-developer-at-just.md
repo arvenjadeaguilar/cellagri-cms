@@ -1,14 +1,12 @@
 ---
-title: Web Developer at Just
-position: Web Developer
+title: Frontend Developer at Just
+position: Frontend Developer
 templateKey: jobs-post
-path: /jobs/just/web-developer
+path: /jobs/just/frontend-developer
 date: 2018-03-05T04:17:52.648Z
 companyRelated: /just
 ---
-Are you a local Web Developer who is deeply passionate about the web and loves to make user experiences innovative and dynamic? Just, Inc. is a fun, hard-working, experienced design team looking for a versatile and passionate Developer to join us and help drive front end web development and component implementation. The ideal candidate will embrace a highly collaborative, autonomous, creative team-dynamic that rewards quality performance, effective communication and compelling projects that will take Just to the next level.
-
-
+Are you a local **Frontend Developer** who is deeply passionate about the web and loves to make user experiences innovative and dynamic? Just, Inc. is a fun, hard-working, experienced design team looking for a versatile and passionate Developer to join us and help drive front end web development and component implementation. The ideal candidate will embrace a highly collaborative, autonomous, creative team-dynamic that rewards quality performance, effective communication and compelling projects that will take Just to the next level.
 
 **You Will:**
 
@@ -29,8 +27,6 @@ Are you a local Web Developer who is deeply passionate about the web and loves t
 \- Ability to communicate implementation decisions, implications, and requirements with technical and nontechnical team members.
 
 \- Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen 
-
- 
 
 **You Have:**
 
