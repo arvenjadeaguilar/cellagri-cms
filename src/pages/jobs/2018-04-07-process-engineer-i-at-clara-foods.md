@@ -1,9 +1,9 @@
 ---
-title: Process Engineer I at Clara Foods
-position: Process Engineer I
+title: Fermentation Engineer I at Clara Foods
+position: Fermentation Engineer I
 templateKey: jobs-post
-path: /jobs/clarafoods/process-engineer
-date: '2018-04-07T16:42:49-04:00'
+path: /jobs/clarafoods/fermentation-engineer
+date: '2018-05-04T16:42:49-04:00'
 companyRelated: /clarafoods
 ---
 **Role and Responsibilities:**
