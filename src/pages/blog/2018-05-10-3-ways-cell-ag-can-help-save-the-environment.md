@@ -34,7 +34,7 @@ By using cells to directly grow animal products, cellular agriculture provides a
 
 ## 2) Greenhouse gas emissions
 
-[**14.5% of all greenhouse gas emissions**](//www.earthisland.org/journal/index.php/eij/article/whats_the_beef/)** are contributable to animal agriculture.** In comparison, global transportation (ALL the cars, trains, ships and planes in the world) contribute to about 12% of global emissions. It is therefore not surprising that the majority of greenhouse gas emissions related to animal products like [leather production](//www.sciencedirect.com/science/article/pii/S1876610214028537) is associated with raising cows for raw materials. 
+[**14.5% of all greenhouse gas emissions**](//www.earthisland.org/journal/index.php/eij/article/whats_the_beef/) **are contributable to animal agriculture**. In comparison, global transportation (ALL the cars, trains, ships and planes in the world) contribute to about 12% of global emissions. It is therefore not surprising that the majority of greenhouse gas emissions related to animal products like [leather production](//www.sciencedirect.com/science/article/pii/S1876610214028537) is associated with raising cows for raw materials. 
 
 <img src="/img/cows.jpeg" width="720px"/>
 
