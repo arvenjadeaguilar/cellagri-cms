@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /3-ways-cell-ag-can-help-save-the-environment
-title: '3 ways Cell Ag can help save the environment  '
+title: '3 Ways Cell Ag Can Help Save The Environment  '
 date: '2018-05-10T06:30:45-04:00'
 image: /img/agriculture-blue-sky-bright-787647.jpg
 description: >-
