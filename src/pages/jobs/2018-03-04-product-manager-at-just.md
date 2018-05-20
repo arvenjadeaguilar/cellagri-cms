@@ -1,12 +1,12 @@
 ---
-title: Product Marketing Manager at Just
-position: Product Marketing Manager
+title: Brand Marketing Manager at Just
+position: Brand Marketing Manager
 templateKey: jobs-post
-path: /jobs/just/product-marketing-manager
-date: 2018-03-05T04:26:48.445Z
+path: /jobs/just/brand-marketing-manager
+date: '2018-05-20T23:26:48-04:00'
 companyRelated: /just
 ---
-The **Product Manager** manages the product development pipeline from concept to commercialization. He/She develops product positioning, analyzes market opportunities and works with a cross functional team to bring products through a complete launch cycle including measuring performance post launch. The Product Manager works with sales, marketing communications and PR teams to develop the product launch plan and product messaging. The role incorporates strategic planning, project management, product and packaging requirements creation, consumer research, contractor management, vendor relations, business analysis and consumer marketing.
+The **Brand Marketing Manager** manages the product development pipeline from concept to commercialization. He/She develops product positioning, analyzes market opportunities and works with a cross functional team to bring products through a complete launch cycle including measuring performance post launch. The Product Manager works with sales, marketing communications and PR teams to develop the product launch plan and product messaging. The role incorporates strategic planning, project management, product and packaging requirements creation, consumer research, contractor management, vendor relations, business analysis and consumer marketing.
 
 **You Will:**
 
