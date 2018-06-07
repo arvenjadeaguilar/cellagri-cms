@@ -20,15 +20,11 @@ Future Meat Technologies is an Israeli startup working to produce cultured meat.
 
 In addition, [Integriculture](//integriculture.jp/?lang=en) announced at the end of May that they received [**JPY 300M ($2.7M)**](//medium.com/cellagri/integriculture-completes-seed-funding-to-bring-cultured-meat-to-japan-bc3b2ab8fb25) in seed funding. Based in Tokyo, Integriculture is a Japanese startup that uses cellular agriculture to grow cultured meat. All without requiring animals. Integriculture’s seed round of financing was led by Real Tech Fund and featured many notable investors, including a **Japanese government investment fund** and Dr. Hiroaki Kitano, the CEO of Sony Computer Science Laboratories. The investment by the Japanese government is a significant development as it represents their support for the innovative field. Founded by Yuki Hanyu, Integriculture plans to use the funding to build its pilot plant as well as its first commercial cultured meat plant featuring their patented “Culnet System”, a general-purpose large-scale cell culture system, that will manage all the cell cultures at scale. Integriculture plan to have the pilot plant running this year and the first commercial plant running by 2020.
 
- 
-
 ## Innovating Cosmetics: Award and Recognition
 
 This month, [Geltor](//www.geltor.com) won the CEW's [Award for Innovation](//www.cew.org/eweb/DynamicPage.aspx?Reg_evt_key=ce751437-7f91-482d-a648-98d041348973&webcode=cewbaviewbook&category=C672BBD0-07FD-4C87-B2C2-17B29C5EDD57&status=Winner&keyword=) for 2018! The CEW Awards is one of the beauty industry’s top awards, and Geltor won theirs for their first cosmetic product: _N-Collage_, a collagen product for skincare applications. Geltor uses cellular agriculture to grow the protein collagen and this can be used to make many different products, like animal-free gelatin or (the first) _animal-free leather book_. Collagen is also a key protein in cosmetic products, and it is great to see that Geltor’s innovative work for a sustainable source of collagen has earned them this award.
 
 <img src="/img/geltorcollagen.png" width="250px"/>
-
- 
 
 ## Impossible Foods is Kosher!
 
@@ -36,23 +32,17 @@ This month, [Geltor](//www.geltor.com) won the CEW's [Award for Innovation](//ww
 
 <img src="/img/bloomberg_half_impossible_burger.jpg" width="100%"/>
 
- 
-
-
-
 ## The Cattle Industry Strikes Back
 
 At the beginning of May, a congressional subcommittee passed an agricultural spending bill that included [regulatory details](//medium.com/cellagri/government-regulation-of-cultured-meat-is-coming-c34656e06c3f) for cultured meat. According to the bill, the US Department of Agriculture (USDA) “Secretary shall regulate products made from cells of amenable species of livestock…grown under controlled conditions for use as human food”. This is the _first_ time that [cultured meat](//www.cell.ag/3-misconceptions-about-cultured-meat/) (or any cell ag product) has been mentioned in US legislation.
 
 In addition to the congressional legislation, the [Missouri Senate](//newfoodeconomy.org/missouri-house-bill-meat-labeling-restrictions-hcb-16/) officially passed a bill that will ban plant-based products and cultured meat from using the word ‘meat’. According to the bill, meat can only come from the flesh of a slaughtered livestock animal and will come into effect in August 2018. It will be interesting to see whether other states in the US will follow Missouri and also pass their own regulations regarding the [definition of meat](//www.cell.ag/fight-for-word-meat/). 
 
+<img src="/img/steak-raw.jpeg" width="100%"/>
+
 It will be interesting to see what these legislative actions will mean in the development of cultured meat. It has been unclear which agency in the US would be [in charge of regulating cultured meat](//www.cell.ag/cell-ag-obstacles-ahead). Prior to the congressional bill, it seemed likely that the Food and Drug Administration (FDA) would be in charge of regulating all cellular agriculture products, as the FDA has oversight over cell cultured products. This may not be the case anymore. 
 
 According to the [Good Food Institute](//www.gfi.org) (GFI), _none_ of the American cultured meat companies were consulted prior to the congressional decision. GFI also notes how it is _odd_ that a regulatory paragraph was included in an agricultural spending bill. GFI plans to work with members of Congress to have this regulatory paragraph removed from the bill before it gets passed in Congress.
-
- 
-
-
 
 ## Conclusion
 
