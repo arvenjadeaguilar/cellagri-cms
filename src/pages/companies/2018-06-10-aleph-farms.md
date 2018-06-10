@@ -4,7 +4,7 @@ path: /alephfarms
 date: '2018-06-10T16:40:43-04:00'
 title: Aleph Farms
 location: 'Ashdod, Israel'
-website: 'https://www.aleph-farms.com/'
+website: www.aleph-farms.com/
 logo: /img/alephfarmslogo.png
 thumbnail: /img/alephfarmsthumbnail.png
 description: >-
