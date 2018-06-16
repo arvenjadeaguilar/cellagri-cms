@@ -1,8 +1,8 @@
 ---
-title: Brand Marketing Manager at Just
-position: Brand Marketing Manager
+title: Brand Manager at Just
+position: Brand Manager
 templateKey: jobs-post
-path: /jobs/just/brand-marketing-manager
+path: /jobs/just/brand-manager
 date: '2018-05-20T23:26:48-04:00'
 companyRelated: /just
 ---
