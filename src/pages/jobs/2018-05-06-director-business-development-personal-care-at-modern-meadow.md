@@ -1,12 +1,12 @@
 ---
-title: 'Director, Business Development, Personal Care at Modern Meadow'
-position: 'Director, Business Development, Personal Care'
+title: 'Director, Business Development at Modern Meadow'
+position: 'Director, Business Development'
 templateKey: jobs-post
-path: /jobs/modernmeadow/director-business-development-personal-care
-date: '2018-05-04T18:07:11-04:00'
+path: /jobs/modernmeadow/director-business-development
+date: '2018-06-16T18:07:11-04:00'
 companyRelated: /modernmeadow
 ---
-As we continue to grow we are seeking a **Business Development Director **to focus on **personal care.**
+As we continue to grow we are seeking a **Business Development Director.**
 
 **Responsibilities:**
 
@@ -27,8 +27,6 @@ As we continue to grow we are seeking a **Business Development Director **to foc
 \- Establish a network of collaboration with business and technical contacts to accelerate new product introductions
 
 \- Work closely with technical team to understand product opportunities and value statement
-
-
 
 **Qualifications:**
 
