@@ -1,8 +1,8 @@
 ---
-title: Organic Chemist at Modern Meadow
-position: Organic Chemist
+title: Synthetic Organic Chemist at Modern Meadow
+position: Synthetic Organic Chemist
 templateKey: jobs-post
-path: /modernmeadow/organic-chemist
+path: /modernmeadow/synthetic-organic-chemist
 date: '2018-04-22T11:41:04-04:00'
 companyRelated: /modernmeadow
 ---
