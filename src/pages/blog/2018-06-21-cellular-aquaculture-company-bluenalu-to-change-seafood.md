@@ -12,11 +12,11 @@ Last week, [BlueNalu](//bluenalu.com/) announced that they completed their [seed
 
 Founded by Lou Cooperhouse, Chris Dammann, and Chris Somogyi, BlueNalu dubs itself as the first **cellular aquaculture** company because they focus on creating a sustainable source of seafood from cell cultures. Without requiring animals. BlueNalu hasn’t announced what their initial cultured seafood product will be, but they are currently exploring finned fish, crustaceans, and mollusk. [To grow the seafood from cells](//www.cell.ag/cell-ag-from-lab-to-market), muscle cells are taken from the sea animal (like tuna or crab) and are grown in a cell culture media to become seafood. The [cell culture media](//www.cell.ag/six-terms-changing-food-forever) and the ways the cells are grown are important in this process, because they help the cells develop into the same meat that comes directly from seafood.
 
-<img src="/img/sushicolourful.jpg" width="500px"/>
+<img src="/img/sushitray.jpg" width="100%"/>
 
 By focusing on growing seafood from cell cultures, BlueNalu offers a sustainable way to meet the global demand for seafood without further depleting our oceans. For example, more than 3 billion people rely on fish for at least 20% of their animal protein. However, [overfishing](//www.fishforward.eu/en/topics/facts-figures/), coupled with destructive fishing practices like bottom trawling, occur at unsustainable levels that destroy marine environments and fish populations. Approximately 60% of commercial fish stocks are deemed fully fished with an additional 30% of fish stocks classified as overfished. If overfishing and the unsustainable practices continue, it is predicted that millions of people in coastal countries will not be able to afford fish [by 2050](//www.worldwildlife.org/stories/will-there-be-enough-fish-to-feed-the-world-in-2050).
 
-<img src="/img/market-fish-fish-market-food.jpg" width="100%"/>
+<img src="/img/seafooddish.jpg" width="100%"/>
 
 In regard to health implications, cultured seafood meat would be free of mercury and plastics that pollute the oceans. It would also be free of antibiotics, fungicides, pesticides and other chemicals used to treat and prevent illnesses in farmed fishing aquacultures. 
 
