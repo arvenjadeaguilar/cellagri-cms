@@ -22,8 +22,6 @@ This individual will join a cross-functional team developing efficient and econo
 
 \- Harvest, treatment and processing of broth for downstream process development
 
-
-
 **REQUIREMENTS:**
 
 \- B.S. in Biochemical Engineering, Microbiology, or related discipline with 2+ years of fermentation-related experience in an entrepreneurial setting.
@@ -33,8 +31,6 @@ This individual will join a cross-functional team developing efficient and econo
 \- Candidate must be flexible, adaptable, available to work on weekends or after normal business hours as needed.
 
 \- Familiarity with Eppendorf (New Brunswick and DasGip) fermentation equipment and control systems is a plus.
-
-
 
 **Physical Demands:**
 
