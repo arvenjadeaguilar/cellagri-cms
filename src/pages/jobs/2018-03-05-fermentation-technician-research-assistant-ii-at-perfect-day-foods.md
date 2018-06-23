@@ -1,8 +1,8 @@
 ---
-title: Fermentation Technician/Research Assistant II at Perfect Day Foods
-position: Fermentation Technician/Research Assistant II
+title: Fermentation Technologist/Research Assistant II at Perfect Day Foods
+position: Fermentation Technologist/Research Assistant II
 templateKey: jobs-post
-path: /jobs/perfectday/fermentation-technician-research-assistant-2
+path: /jobs/perfectday/fermentation-technologist-research-assistant-2
 date: 2018-03-05T06:56:24.843Z
 companyRelated: /perfectday
 ---
