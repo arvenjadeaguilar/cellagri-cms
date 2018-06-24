@@ -4,7 +4,7 @@ path: /kiranmeats
 date: '2018-06-24T13:51:02-04:00'
 title: Kiran Meats
 location: 'San Francisco, California'
-website: 'https://www.kiranmeats.com/'
+website: www.kiranmeats.com/
 logo: /img/kiranthumb.png
 thumbnail: /img/kiranthumb.png
 description: >-
