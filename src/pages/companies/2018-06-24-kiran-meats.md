@@ -11,6 +11,6 @@ description: >-
   Kiran Meats is a new startup that is using cellular agriculture to change meat
   as we know it. Founded by Robert Yaman and Amir Shahein, Kiran Meats is
   exploring how cellular agriculture can make different types of meat products
-  that could not be made before using conventional meat.
+  that could not be made using conventional meat.
 ---
 
