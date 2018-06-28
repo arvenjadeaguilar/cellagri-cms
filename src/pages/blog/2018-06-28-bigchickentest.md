@@ -44,7 +44,7 @@ As a fascinating (and terrifying) story of antibiotics and chicken, there are a 
 
 ## 1. “Antibiotics have been so difficult to root out of modern meat because, in a crucial way, they created it”
 
-One of the first realizations I had while reading this book was how antibiotics created the modern animal agricultural system. Following the success of antibiotics with chicken, the practice soon passed over to other animal farming practices (like pig and cattle). This lead to widespread antibiotic usage. 
+One of the first realizations I had while reading this book was how antibiotics _created_ the modern animal agricultural system. Following the success of antibiotics with chicken, the practice soon passed over to other animal farming practices (like pig and cattle). This lead to widespread antibiotic usage. 
 
 <img src="/img/chicken-wings.jpeg" width="100%"/>
 
@@ -70,7 +70,7 @@ Something that was meant to protect and preserve their food source made it riski
 
 A trust was _broken_ and what emerged was a public that distrusted the food production system and the integration of the food system with the latest scientific breakthroughs.
 
-That same distrust of using the latest scientific technology still persists today. When genetically modified foods first entered the market, there was a huge public outcry against the technology (and _a lot_ more against the company behind the technology). Today, we continue to live in an anti-GMO era. With new startups and companies working on being as open and transparent about their new food technologies, it will be interesting to see if the distrust in the food system that began with antibiotics remain.
+That same distrust of using the latest scientific technology still persists today. When genetically modified foods first entered the market, there was a huge public outcry against the technology (and _a lot_ more against the company behind the technology). Today, we continue to live in an [anti-GMO era](//www.cell.ag/cell-ag-monsanto-lesson). With new startups and companies working on being as open and transparent about their new food technologies, it will be interesting to see if the distrust in the food system that began with antibiotics remain.
 
 ## 3. The Biggest Advantage of Alternatives to Conventional Meat
 
@@ -83,6 +83,10 @@ I used to think that the biggest advantage of meat alternatives like [cellular a
 Big Chicken shows that antibiotic resistance is on the rise and, if not careful, is only going to escalate further than today’s level. Diseases caused by antibiotic resistant bacteria is responsible for at least 700,000 deaths around the world annually (63,000 of those deaths are from babies in India alone). 
 
 **By 2050, antibiotic resistance will cause 10 million deaths annually and cost the world $100 trillion.**
+
+<img src="/img/memphismeats-southernfriedchicken.jpg" width="100%"/>
+
+> _Cultured chicken meat by Memphis Meats_
 
 Considering that cultured meat (or any other cellular agriculture product) would not be fed the large amounts of antibiotics given to animals, cellular agriculture would have significant health implications. By cutting out livestock, there will be no E. coli or salmonella (or other bacterial contaminations) from raising livestock that could contaminate the meat or other animal products if produced in a sterile environment. Plant-based meat alternatives would also not require all the antibiotics fed to animals.
 
