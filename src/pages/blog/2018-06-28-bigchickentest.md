@@ -10,8 +10,6 @@ description: >-
   McKenna’s Big Chicken and the dangers of antibiotics in our agricultural
   system.
 ---
-<img src="/img/bigchickencover.png" width="500px"/>
-
 Chicken is the centrepiece of many of our meals. But it wasn’t always this way. 
 
 In 1909, 154 million chickens were sold for meat in the US. Today, that number is over _9 billion chickens_ (think about that - there are more chickens bred _each year_ than there are humans alive). 
@@ -20,13 +18,15 @@ What happened to chicken? Something must have changed.
 
 In her latest book [Big Chicken](//marynmckenna.com/books/big-chicken/), Maryn McKenna explores how “chickens went from a scarce and expensive Sunday treat to the meat that Americans eat more often than any other and that is growing fastest in consumption around the world”. **McKenna tells the story about the evolution of animal agriculture through the single scientific advancements that made chicken the cheap meat we enjoy today: antibiotics.**
 
-<img src="/img/chickenfeeding.jpg" width="100%"/>
+<img src="/img/bigchickencover.png" width="250px"/>
 
 Antibiotics are medication that are used as treatment against bacterial infections. Prior to antibiotics, McKenna highlights how “minor infections were a death sentence”. 3 out of 10 people used to die from pneumonia prior to antibiotics as did 9 out of every 1000 women giving birth in the _cleanest_ of hospitals. 
 
 **Life as we know it wouldn’t be possible without antibiotics.** And that’s the most terrifying and unsettling part of reading Big Chicken.
 
-Through her book, McKenna shares the joint history about the emergence and rise of the chicken industry through using antibiotics in chicken feed as a growth promoter (to get the birds to grow bigger in a shorter amount of time). Soon enough, antibiotics also began to be used as preventative medicine to ensure that the birds did not get sick. As McKenna notes in the subtitle of her book, _The Incredible Story of How Antibiotics Created Modern Agriculture and Changed the Way the World Eats_, **antibiotics created the modern agricultural system. **
+Through her book, McKenna shares the joint history about the emergence and rise of the chicken industry through using antibiotics in chicken feed as a growth promoter (to get the birds to grow bigger in a shorter amount of time). Soon enough, antibiotics also began to be used as preventative medicine to ensure that the birds did not get sick. As McKenna notes in the subtitle of her book, _The Incredible Story of How Antibiotics Created Modern Agriculture and Changed the Way the World Eats,_ **antibiotics created the modern agricultural system.**
+
+<img src="/img/chickenfeeding.jpg" width="100%"/>
 
 Now the very same agricultural system might lead to the end of antibiotics.
 
@@ -58,13 +58,13 @@ Ironically, the antibiotics meant to treat animals led to even further animal we
 
  Antibiotics were one of the first ways in which the latest scientific breakthroughs were integrated into our agriculture and food system. 
 
-**This also led to the emergence of consumer distrust in our food system. **
+**This also led to the emergence of consumer distrust in our food system.**
 
 The clearest example of this from Big Chicken is the practice of _acronization_ from the 1950s (mainly because of how ridiculous the concept sounds today). Once a chicken was ready to go to market, the chicken was dipped into a _pool_ of an antibiotic solution. Now covered in a thin film of antibiotic residue, the chicken was ready to go and would last longer on the shelf without going bad. No surprise to us today, acronization led to one of the first public outbreaks of antibiotic-resistant bacteria. In the Seattle area, for example, poultry processors who practiced acronization were getting sick from a staph infection _that wasn’t responding to antibiotics_. This outbreak went on to infect 1,300 women and 4,000 newborns, killing 24 mothers and children. The USDA later confirmed that the infection of antibiotic-resistant staph emerged from acronization.
 
 <img src="/img/chicken-with-egg.jpeg" width="100%"/>
 
-**Naturally, the public was outraged. **
+**Naturally, the public was outraged.**
 
 Something that was meant to protect and preserve their food source made it riskier. How could the poultry industry do practices that could be dangerous and harmful for the public? What mattered more: the consumer’s sense of safety in their food, or the poultry industry’s ability to mass-produce chicken for their profit? 
 
