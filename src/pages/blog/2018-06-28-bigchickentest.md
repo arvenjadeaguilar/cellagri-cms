@@ -14,7 +14,7 @@ Chicken is the centrepiece of many of our meals. But it wasn’t always this way
 
 In 1909, 154 million chickens were sold for meat in the US. Today, that number is over _9 billion chickens_ (think about that - there are more chickens bred _each year_ than there are humans alive). 
 
-What happened to chicken? Something must have changed. 
+What happened to chicken? Something must have changed. This is a story about how the quest for profits has brought our agriculture system to its knees.
 
 In her latest book [Big Chicken](//marynmckenna.com/books/big-chicken/), Maryn McKenna explores how “chickens went from a scarce and expensive Sunday treat to the meat that Americans eat more often than any other and that is growing fastest in consumption around the world”. **McKenna tells the story about the evolution of animal agriculture through the single scientific advancements that made chicken the cheap meat we enjoy today: antibiotics.**
 
