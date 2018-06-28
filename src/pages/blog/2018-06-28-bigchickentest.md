@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-path: /big-chicken-test
-title: BigChickenTest
+path: /big-chicken-book-review-how-antibiotics-destroyed-agricultural-system
+title: 'Big Chicken: How Antibiotics Destroyed the Agricultural System'
 date: '2018-06-28T01:34:14-04:00'
-image: /img/bigchickencover.png
+image: /img/chickenfeeding.jpg
 description: >-
   Our modern agricultural system was shaped by antibiotics. Now the very same
   agricultural system might lead to the end of antibiotics. Our review of Maryn
