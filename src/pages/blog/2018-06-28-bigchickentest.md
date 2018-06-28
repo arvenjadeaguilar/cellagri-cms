@@ -20,13 +20,13 @@ What happened to chicken? Something must have changed.
 
 In her latest book [Big Chicken](//marynmckenna.com/books/big-chicken/), Maryn McKenna explores how “chickens went from a scarce and expensive Sunday treat to the meat that Americans eat more often than any other and that is growing fastest in consumption around the world”. **McKenna tells the story about the evolution of animal agriculture through the single scientific advancements that made chicken the cheap meat we enjoy today: antibiotics.**
 
+<img src="/img/chickenfeeding.jpg" width="100%"/>
+
 Antibiotics are medication that are used as treatment against bacterial infections. Prior to antibiotics, McKenna highlights how “minor infections were a death sentence”. 3 out of 10 people used to die from pneumonia prior to antibiotics as did 9 out of every 1000 women giving birth in the _cleanest_ of hospitals. 
 
 **Life as we know it wouldn’t be possible without antibiotics.** And that’s the most terrifying and unsettling part of reading Big Chicken.
 
 Through her book, McKenna shares the joint history about the emergence and rise of the chicken industry through using antibiotics in chicken feed as a growth promoter (to get the birds to grow bigger in a shorter amount of time). Soon enough, antibiotics also began to be used as preventative medicine to ensure that the birds did not get sick. As McKenna notes in the subtitle of her book, _The Incredible Story of How Antibiotics Created Modern Agriculture and Changed the Way the World Eats_, **antibiotics created the modern agricultural system. **
-
-<img src="/img/chickenfeeding.jpg" width="100%"/>
 
 Now the very same agricultural system might lead to the end of antibiotics.
 
