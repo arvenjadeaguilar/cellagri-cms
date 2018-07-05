@@ -9,6 +9,8 @@ description: >-
   selection as a Tech Pioneer 2018, check out what happened this month in
   cellular agriculture
 ---
+<img src="/img/tunaraw.jpg" width="100%"/>
+
 Following all the developments in [April](//www.cell.ag/april-2018-month-in-review/) and [May](//www.cell.ag/may-2018-month-in-review/), June marked a strong end to the second quarter for cellular agriculture. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food/) (‘cell ag’) is the field of growing animal products (like meat, egg white, and leather) from cell cultures instead of raising animals for them and offers a [sustainable](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment/) alternative to conventional animal agriculture. From new investments in cell ag startups to big changes in the food space, this article will take a look at some of the key events during the month of June.
 
 ## New Investments
