@@ -19,7 +19,7 @@ Following all the developments in [April](//www.cell.ag/april-2018-month-in-revi
 
 <img src="/img/sushiboard.jpg" width="100%"/>
 
-In addition, new startup [BlueNalu](//bluenalu.com/) announced that they [completed their seed round of funding](//www.cell.ag/cellular-aquaculture-company-bluenalu-to-change-seafood/). Led by New Crop Capital for an undisclosed amount, BlueNalu also uses cellular agriculture to grow cultured meat. Lou Cooperhouse, Chris Dammann, and Chris Somogyi, BlueNalu dubs itself as the first **cellular aquaculture company**, because they focus on creating a sustainable source of seafood from cell cultures and a proprietary process for product commercialization. BlueNalu hasn’t announced what their initial cultured seafood product will be, but they are currently exploring and developing protocols for finned fish, crustaceans, and mollusks.
+In addition, new startup [BlueNalu](//bluenalu.com/) announced that they [completed their seed round of funding](//www.cell.ag/cellular-aquaculture-company-bluenalu-to-change-seafood/). Led by New Crop Capital for an undisclosed amount, BlueNalu also uses cellular agriculture to grow cultured meat. Founded by Lou Cooperhouse, Chris Dammann, and Chris Somogyi, BlueNalu dubs itself as the first **cellular aquaculture company**, because they focus on creating a sustainable source of seafood from cell cultures and a proprietary process for product commercialization. BlueNalu hasn’t announced what their initial cultured seafood product will be, but they are currently exploring and developing protocols for finned fish, crustaceans, and mollusks.
 
 ## Modern Meadow Selected as Tech Pioneer 2018
 
