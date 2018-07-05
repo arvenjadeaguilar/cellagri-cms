@@ -9,15 +9,15 @@ description: >-
   selection as a Tech Pioneer 2018, check out what happened this month in
   cellular agriculture
 ---
-<img src="/img/tunaraw.jpg" width="100%"/>
-
 Following all the developments in [April](//www.cell.ag/april-2018-month-in-review/) and [May](//www.cell.ag/may-2018-month-in-review/), June marked a strong end to the second quarter for cellular agriculture. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food/) (‘cell ag’) is the field of growing animal products (like meat, egg white, and leather) from cell cultures instead of raising animals for them and offers a [sustainable](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment/) alternative to conventional animal agriculture. From new investments in cell ag startups to big changes in the food space, this article will take a look at some of the key events during the month of June.
+
+<img src="/img/sushiboard.jpg" width="100%"/>
 
 ## New Investments
 
 [Finless Foods](//www.finlessfoods.com/) announced that they [**raised $3.5 million**](//medium.com/cellagri/finless-foods-raises-3-5-million-in-seed-funding-to-grow-cultured-fish-9c27c27d1585) in seed funding. The round of funding was led by Draper Associates and featured many notable investors, including Softmatter VC, Blue Horizon, and Babel Ventures. Finless Foods is the first cell ag startup focusing on growing fish meat from cells, and their work offers a sustainable solution to meet global fish demand without further depleting global fish populations. Finless Foods plans to use the seed funding to take them to the end of their initial research and development phase. This means that they expect to move _into production of cultured fish meat_ when they close their Series A funding! Finless Foods is initially focusing on producing [cultured Bluefin tuna](//www.cell.ag/cell-ag-goes-fishing/) meat and plans to release a limited amount of it by the end of 2019. 
 
-<img src="/img/sushiboard.jpg" width="100%"/>
+<img src="/img/tunaraw.jpg" width="100%"/>
 
 In addition, new startup [BlueNalu](//bluenalu.com/) announced that they [completed their seed round of funding](//www.cell.ag/cellular-aquaculture-company-bluenalu-to-change-seafood/). Led by New Crop Capital for an undisclosed amount, BlueNalu also uses cellular agriculture to grow cultured meat. Founded by Lou Cooperhouse, Chris Dammann, and Chris Somogyi, BlueNalu dubs itself as the first **cellular aquaculture company**, because they focus on creating a sustainable source of seafood from cell cultures and a proprietary process for product commercialization. BlueNalu hasn’t announced what their initial cultured seafood product will be, but they are currently exploring and developing protocols for finned fish, crustaceans, and mollusks.
 
