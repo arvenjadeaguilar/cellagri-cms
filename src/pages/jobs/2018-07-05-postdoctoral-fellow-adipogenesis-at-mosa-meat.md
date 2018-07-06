@@ -3,7 +3,7 @@ title: ' Postdoctoral Fellow - Adipogenesis at Mosa Meat'
 position: ' Postdoctoral Fellow - Adipogenesis '
 templateKey: jobs-post
 path: /jobs/mosameat/postdoctoral-fellow-adipogenesis
-date: '2018-07-02T21:14:07-04:00'
+date: '2018-07-02T09:14:07-04:00'
 companyRelated: /mosameat
 ---
 We are looking to expand the team with a **postdoctoral fellow** versed in **adipogenesis** from stem cells or adipose tissue engineering (initially for a one-year project). The objective of the project is to create fat tissue of sufficient maturity to serve as substrate for consumable meat.
