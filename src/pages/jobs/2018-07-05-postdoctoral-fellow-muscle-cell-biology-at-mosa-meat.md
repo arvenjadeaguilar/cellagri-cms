@@ -3,7 +3,7 @@ title: ' Postdoctoral Fellow - Muscle Cell Biology at Mosa Meat'
 position: ' Postdoctoral Fellow - Muscle Cell Biology'
 templateKey: jobs-post
 path: /jobs/mosameat/postdoctoral-fellow-muscle-cell-biology
-date: '2018-07-02T17:10:17-04:00'
+date: '2018-07-02T12:10:17-04:00'
 companyRelated: /mosameat
 ---
 We're looking to expand the team with a **postdoctoral fellow** versed in **skeletal muscle cell biology** (initially for a one-year project). The objective of the project is to create muscle organoids of sufficient maturity to serve as substrate for consumable meat.
