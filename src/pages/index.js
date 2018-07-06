@@ -67,7 +67,7 @@ export default class IndexPage extends React.Component {
       }
       return {...job.node.frontmatter,...jobObject};
     });
-    let jobs = orderBy(slice(jobsList,0,5),['date'],['desc']);
+    let jobs = slice(jobsList,0,5);
     return (
       <div className="over-all-container">
         <Script
