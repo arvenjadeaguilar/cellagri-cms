@@ -6,7 +6,7 @@ path: /jobs/perfectday/fermentation-technologist-research-assistant-2
 date: 2018-03-05T06:56:24.843Z
 companyRelated: /perfectday
 ---
-Perfect Day is close to commercializing its first animal-free dairy protein products and we are seeking an intelligent, motivated, enthusiastic **Research Associate II **to join our Fermentation Process Development team. The ideal candidate will be driven and will do what it takes to make a contribution to a small team in a fast paced, startup environment.
+Perfect Day is close to commercializing its first animal-free dairy protein products and we are seeking an intelligent, motivated, enthusiastic **Research Associate II ** to join our Fermentation Process Development team. The ideal candidate will be driven and will do what it takes to make a contribution to a small team in a fast paced, startup environment.
 
 **Role and Responsibilities:**
 
