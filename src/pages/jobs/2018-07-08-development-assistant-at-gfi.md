@@ -8,8 +8,6 @@ companyRelated: /gfi
 ---
 The **Development Assistant** will provide vital support to the development team, helping build strong, stable, and diverse philanthropic revenue streams and maintaining long-term donor relationships. 
 
-
-
 **The Development Assistant will be responsible for:**
 
 \- Supporting the Director of Development and Development team.
@@ -34,13 +32,9 @@ The **Development Assistant** will provide vital support to the development team
 
 \- Manage all general inquiries to the Development department.
 
-
-
 _Who We’re Looking For_
 
 **The Development Assistant must have:**
-
-
 
 \- A bachelor’s degree.
 
@@ -74,4 +68,4 @@ We want the best people and we don’t want biases holding us back. We strongly 
 
 \- Benefits: Working from home (we can also work with you on co-working space options, if you prefer), full medical coverage, optional dental and vision packages, a 401(k) retirement plan, flexible holiday and vacation plans, respectful managers, and supportive colleagues.
 
-# Application Deadline: Monday, August 13
+## Application Deadline: Monday, August 13
