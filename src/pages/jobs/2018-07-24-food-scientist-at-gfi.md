@@ -50,7 +50,7 @@ We want the best people and we don’t want biases holding us back. We strongly 
 
 <br>
 
-**The Fine Print **
+**The Fine Print**
 
 \- Terms of employment: Full-time, exempt
 
