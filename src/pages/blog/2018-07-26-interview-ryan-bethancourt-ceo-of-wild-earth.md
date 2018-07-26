@@ -119,11 +119,11 @@ Ron, one of my co-founders, over the years, he was always driving me _crazy_ wit
 
 I was wrapping my brain around how we get to a competitive price point with cell ag out of a clean protein source and, for some reason, it just connected in my mind. **My God, the answer was staring at me in the face the whole time.** We need to use fungi because we can grow fungi and can do it at a competitive price point in the near future. I’m not talking about 5 years or 10 years, I’m talking about 2 years. That’s what really inspired it.
 
-> > _"I eat our dog food. I will eat it in front of you because I knwo what it is. It's super clean"_
+> > _"I eat our dog food. I will eat it in front of you because I know what it is. It's super clean."_
 
 The more I looked into it, the more I was shocked. Animals eat so much meat! **1/3 of the meat we eat in the US is actually pet eating that meat.** It’s crazy! It’s not just all animal waste. It’s animals that are grown and killed for pet food.
 
-It’s something no one is talking about. **As countries get richer, they eat more meat and guess what else they do? They get more pets.** No one is doing the populations. Like China, for example. What if China comes anywhere near the pet ownership that the US has (the US has a 65% pet ownership)? China currently has 2-3% pet ownership. If they get to 50% pet ownership, we’re talking about another 500 million dogs and cats. That would be over 2X the number of dogs and cats in the US. _That would be like creating an entirely new US._ There are a few hundred million people in the US, 180 million dogs and cats. That’s about the population that we would be adding in terms of meat consumption. Just for pets \[in China]. And pets eat more meat than the average American because they eat meat twice a day.
+It’s something no one is talking about. **As countries get richer, they eat more meat and guess what else they do? They get more pets.** No one is doing the populations. Like China, for example. What if China comes anywhere near the pet ownership that the US has (the US has a 65% pet ownership)? China currently has 2-3% pet ownership. If they get to 50% pet ownership, we’re talking about another 500 million dogs and cats. That would be over 2X the number of dogs and cats in the US. **That would be like creating an entirely new US**_._ There are a few hundred million people in the US, 180 million dogs and cats. That’s about the population that we would be adding in terms of meat consumption. Just for pets \[in China]. And pets eat more meat than the average American because they eat meat twice a day.
 
 <img src="/img/pug.jpg" width="100%"/>
 
