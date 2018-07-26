@@ -31,6 +31,8 @@ Eventually, what we ended up finding out was that when we started Berkekly BioLa
 
 One of the challenges during the Berkeley Biolabs times was that we needed money. **I had this idea: Could we actually raise a small venture fund on top of the incubator and actually fund these early stage entrepreneurs?** Because they still had day jobs. They would come evenings and weekends and work on their science when they had the time. They couldn’t focus full-time on it. So the science would move very slowly.
 
+> > _"Everything we do has be very real and very science-based"_
+
 That was my initial vision and I pitched to lots of venture firms until I finally came across a small venture firm called SOS Ventures. I pitched them the idea of a biotech incubator and a venture fund on top. They made see it was possible to do an accelerator model off of it, because they had previously run other accelerators.
 
 <img src="/img/blur-bottle-chemistry-248152.jpg" width="500px"/>
@@ -51,6 +53,8 @@ Before IndieBio, I was really interested in lab-grown meat from science fiction.
 
 So I thought ‘That sucks.’ There are millions of animals that die every single day and [it’s messing up our planet](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment). This is an emergency here. I’m a believer in capitalism. I think that startups and entrepreneurship can do a lot of good. It’s done a lot of bad in the past in some ways, but I think it’s a tool. I believe it can do a lot of good.
 
+> > _"You don't have to have industrial animal agriculture anymore. In the next ten years that will be obsolete"_
+
 I met Isha Datar from [New Harvest](//www.new-harvest.org) for another startup. Isha basically said, “Hey, I heard of these two guys, one scientist and one new grad named Arturo (Art for short). They would like to make an egg white company.” I thought that was cool and said I’ll talk to them.
 
 She connected me, and I asked them what they want to do. They said that they’re not sure. Art said something like if I don’t do a startup I’m going to go get a job at a bank or something. And I said, “Yeah don’t do that.”
@@ -66,6 +70,8 @@ At the time, people thought “You are absolutely insane. _Who the hell_ is goin
 I found a couple of other ethical vegans who were ready to put their money where their mouth was, and that’s how we began to raise money for Clara Foods. The first investor in Clara was a vegan guy investing in tech companies. He said “Look, I believe in its mission. I’m going to back Clara with $50,000.” So we went from $50,000 from IndieBio to $100,000. Then we started get momentum.
 
 All of a sudden, the ethical investors that backed Clara gave way for tech investors who were excited about the technology. And they started to invest with bigger checks. We were able to raise a little under _$1.5 million_ for Clara by Demo Day at IndieBio. We went on stage and said “Hey, this is Clara.” Everyone thought this is crazy. One, they made an egg white. Two, they raised _all_ the money they need for their seed round. That blew everyone away.
+
+> > _"The one lesson I've learned with entrepreneurship is that you have to give yourself permission. No one else is going to."_
 
 That’s how we started to build this momentum behind what become the cell ag movement for startups. That was definitely not guaranteed. Isha did the same thing. A couple of months later, she said, “Hey, there’s this professor that I know in Minnesota that apparently is trying to grow meat. Can you talk to him?” I picked up the phone and called Uma. Uma Valeti from [Memphis Meats](//www.memphismeats.com).
 
@@ -91,6 +97,8 @@ It started to gain momentum. People would start to hit me up and say “Hey, you
 
 **Ryan:** I think so. I gave myself permission. The same way people thought it was crazy to leave IndieBio. They were saying, “It’s so successful, you’re going to be able to keep funding all these incredible companies.”
 
+<img src="/img/art-blueprint-brainstorming-8704.jpg" width="500px"/>
+
 At IndieBio, I learned how to build companies that really resonated with investors and were feasible and practical. Where I was struggling was how I could now help these companies after their seed rounds? **When they start scaling, when they start producing commercial products, how do I help these companies? I didn’t have a good answer because I believe to help someone, you always need to be a practitioner.** I could help companies all day in the early stages of ‘I have an idea’ to ‘I have a prototype’. But I couldn’t help them with the scaleup process because I haven’t done it yet myself.
 
 Alongside my co-founder Ron and other team and co-founders, Florian, who is a serial entrepreneur, and Abril, who is very interested in this type of company, I was kind of inspired to figure it out myself and learn and continue to help build companies. I was lucky enough to get an offer from Babel Ventures to continue to help invest in companies in the growth stages while I build my company, [Wild Earth](//wildearthpets.com).
@@ -109,7 +117,9 @@ We are trying to improve the quality of food in the human food space, which I’
 
 Ron, one of my co-founders, over the years, he was always driving me _crazy_ with growing **koji**. He is a third-generation Japanese-American and he makes his own sauces and marinades out of koji. Koji is used to make miso soup, soy sauce, and saki. It’s an ancient fermentation technique in ancient fungi. And he was _driving me nuts_ because he always had plates of koji in the refrigerator. Koji grows really quickly, and it can overwhelm bacterial plates and animal cell plates. If it gets onto one \[plate], it’ll just take up the whole plate and you won’t have bacterial cells or animal cells.
 
-I was wrapping my brain around how we get to a competitive price point with cell ag out of a clean protein source and, for some reason, it just connected in my mind.** My God, the answer was staring at me in the face the whole time.** We need to use fungi because we can grow fungi and can do it at a competitive price point in the near future. I’m not talking about 5 years or 10 years, I’m talking about 2 years. That’s what really inspired it.
+I was wrapping my brain around how we get to a competitive price point with cell ag out of a clean protein source and, for some reason, it just connected in my mind. **My God, the answer was staring at me in the face the whole time.** We need to use fungi because we can grow fungi and can do it at a competitive price point in the near future. I’m not talking about 5 years or 10 years, I’m talking about 2 years. That’s what really inspired it.
+
+> > _"I eat our dog food. I will eat it in front of you because I knwo what it is. It's super clean"_
 
 The more I looked into it, the more I was shocked. Animals eat so much meat! **1/3 of the meat we eat in the US is actually pet eating that meat.** It’s crazy! It’s not just all animal waste. It’s animals that are grown and killed for pet food.
 
@@ -144,6 +154,8 @@ With koji, we know we have the 10 essential amino acids that dogs require from t
 I think that people want better products for themselves and for their pets. The fact that we can bring a product to market first, first in the pet space, is pretty transformational. **I think it would get people open to the idea of having alternative proteins for themselves.**
 
 **I eat our dog food. I will eat it in front of you because I know what it is. It’s super clean.** I would never eat dog food. It changes the concept behind dog food. It’s just clean food for pets. In all of our cultures, in the West, we tend to think of pet food as not real food for humans. It’s not clean food. _But we can change that._ I think Wild Earth is going to be one of the first companies to really show that you can make clean protein for pets. Clean enough that I believe it enough to eat it myself. _And I’ve eaten a lot of it._
+
+> > _"We had this vision: to help scientists become entrepreneurs"_
 
 **Ahmed:** What advice would you have for someone trying to do their own startup or get involved in the cellular agriculture space?
 
