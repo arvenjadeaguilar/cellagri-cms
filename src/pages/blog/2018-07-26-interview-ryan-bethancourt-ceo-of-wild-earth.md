@@ -45,7 +45,7 @@ So I pitched the idea of doing it in San Francisco to Sean O’Sullivan, who is 
 
 **Ryan:** Yes, 100%. This was inspired by other things that I’ve done. I actually knew Josh Tetrick from [Just](//justforall.com/en-us) prior \[to IndieBio] and I’m also a vegan. I knew him \[Josh] before he raised any money. I knew him because he was walking around getting people to taste his muffin. And I was like ‘Who is this crazy guy walking around getting people to taste his muffin?’
 
-When he raised the first half million from Khosla Ventures, it opened my eyes. _Wait a minute, VCs will fund alternative protein company?_ That’s really interesting. I knew Josh’s stuff and that was food science, not real biotech. That’s food science innovation. What if we added real biotech? What if, instead of replacing egg protein with plant proteins, what if we replace it with the _identical_ protein made using biotech (like through recombinant yeast or bacteria)? So that became this mission to find people who could do this.
+When he raised the first half million from Khosla Ventures, it opened my eyes. _Wait a minute, VCs will fund alternative protein companies?_ That’s really interesting. I knew Josh’s stuff and that was food science, not real biotech. That’s food science innovation. What if we added real biotech? What if, instead of replacing egg protein with plant proteins, what if we replace it with the _identical_ protein made using biotech (like through recombinant yeast or bacteria)? So that became this mission to find people who could do this.
 
 <img src="/img/cultured-meat.jpg" width="100%"/>
 
@@ -67,7 +67,7 @@ I just started IndieBio and so I offered them a spot at IndieBio to do the egg w
 
 At the time, people thought “You are absolutely insane. _Who the hell_ is going to eat a GMO egg?” This was 4 years ago, and people were really anti-GMO. I was like ‘You know what, technology wins. I’m certain of it.’ There may be resistance, as there always has been with technology, but it will eventually win, and GMOs are an important tool we need for the future. So I’m all in.
 
-I found a couple of other ethical vegans who were ready to put their money where their mouth was, and that’s how we began to raise money for Clara Foods. The first investor in Clara was a vegan guy investing in tech companies. He said “Look, I believe in its mission. I’m going to back Clara with $50,000.” So we went from $50,000 from IndieBio to $100,000. Then we started get momentum.
+I found a couple of other ethical vegans who were ready to put their money where their mouths were, and that’s how we began to raise money for Clara Foods. The first investor in Clara was a vegan guy investing in tech companies. He said “Look, I believe in its mission. I’m going to back Clara with $50,000.” So we went from $50,000 from IndieBio to $100,000. Then we started get momentum.
 
 All of a sudden, the ethical investors that backed Clara gave way for tech investors who were excited about the technology. And they started to invest with bigger checks. We were able to raise a little under _$1.5 million_ for Clara by Demo Day at IndieBio. We went on stage and said “Hey, this is Clara.” Everyone thought this is crazy. One, they made an egg white. Two, they raised _all_ the money they need for their seed round. That blew everyone away.
 
@@ -91,9 +91,9 @@ Mark Post, you know what happened afterwards? Within 3 or 4 months, he started a
 
 Nick Ouzounov and Alex Lorestani are both brilliant guys. They were doing their PhDs at Princeton at the time, and they came back to me and said they want to do gelatin and think we can undercut the price of gelatin. **I said brilliant, funded!**
 
-It started to gain momentum. People would start to hit me up and say “Hey, you’re the guy funding all these crazy things”. 
+It started to gain momentum. People would start to hit me up and say “Hey, you’re the guy funding all these crazy things.” 
 
-**Ahmed:** After spending all that time supporting startups through IndieBio, you’ve now running one! Was this something you always envisioned yourself doing?
+**Ahmed:** After spending all that time supporting startups through IndieBio, you’re now running one! Was this something you always envisioned yourself doing?
 
 **Ryan:** I think so. I gave myself permission. The same way people thought it was crazy to leave IndieBio. They were saying, “It’s so successful, you’re going to be able to keep funding all these incredible companies.”
 
