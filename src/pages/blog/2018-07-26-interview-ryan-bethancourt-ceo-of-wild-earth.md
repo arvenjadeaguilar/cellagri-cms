@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-path: /interview-ryan-bethancourt
-title: 'Interview: Ryan Bethancourt, CEO of Wild Earth'
+path: /interview-ryan-bethencourt
+title: 'Interview: Ryan Bethencourt, CEO of Wild Earth'
 date: '2018-07-26T10:30:18-04:00'
 image: /img/ryandog.jpg
 description: >-
-  "I eat our dog food." Check out CellAgri's interview with Ryan Bethancourt,
+  "I eat our dog food." Check out CellAgri's interview with Ryan Bethencourt,
   CEO and co-founder of Wild Earth, and how he pioneered the field of cellular
   agriculture.
 ---
