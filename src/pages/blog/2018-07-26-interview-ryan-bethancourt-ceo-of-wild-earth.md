@@ -19,7 +19,7 @@ If you are interested in learning about how to start a movement this is one inte
 
 We want to thank Ryan again for taking out the time to give us this deep dive into how this space actually got started!
 
-**Ahmed Khan:** Prior to being one of the co-founders of Wild Earth Pet, you were the co-founder of [IndieBio](//indiebio.co), a SOSV-backed life science accelerator, and [Berkley Biolabs](//www.berkeleybiolabs.com), another biology accelerator. How did you first get passionate and involved in this field and what motivated you to co-found IndieBio and Berkley Biolabs?
+**Ahmed Khan:** Prior to being one of the co-founders of Wild Earth Pet, you were the co-founder of [IndieBio](//indiebio.co), a SOSV-backed life science accelerator, and [Berkley Biolabs](//www.berkeleybiolabs.com). How did you first get passionate and involved in this field and what motivated you to co-found IndieBio and Berkley Biolabs?
 
 **Ryan Bethencourt:** It actually started with a frustration of mine. Prior to co-founding IndieBio, myself and Ron \[Shigeta], my other co-founder, founded Berkley Biolabs, which was a little incubator for science-based startups on the outskirts of Berkley. **It was because of the frustration we had. It was hard to make low-cost science work.** When you look all around you, especially in Silicon Valley, you grow frustrated because there are all these tech startups that are being founded but very few science-based startups. Particularly biotech-based startups.
 
