@@ -39,7 +39,7 @@ That was my initial vision and I pitched to lots of venture firms until I finall
 
 Actually, around the same time I started Berkely Biolabs, a little afterwards, they started what became SynBioAccelerator, which was a biotech version of a hardware accelerator in Ireland. I think, _and this is hard to prove_, but I think it was inspired based on Berkley Biolabs.
 
-So I pitched the idea of doing it in San Francisco to Sean O’Sullivan, who is Managing Director of SOS Ventures, and to Arvin Gupta, who is the San Francisco Partner, and they both liked the idea. That is essentially how IndieBio started. Myself and Ron joined forces with Arvin, who was representative for Sean O’Sullivan in San Francisco, and we started IndieBio.
+So I pitched the idea of doing it in San Francisco to Sean O’Sullivan, who is Managing General Partner of SOS Ventures, and to Arvin Gupta, who is the San Francisco Partner, and they both liked the idea. That is essentially how IndieBio started. Myself and Ron joined forces with Arvin, who was representative for Sean O’Sullivan in San Francisco, and we started IndieBio.
 
 **Ahmed:** Following on from that question, quite a few cellular agriculture startups came up through IndieBio: Memphis Meats, Geltor, Finless Foods, and Clara Foods to name a few. Were you personally passionate about sustainable protein before IndieBio and these startups?
 
