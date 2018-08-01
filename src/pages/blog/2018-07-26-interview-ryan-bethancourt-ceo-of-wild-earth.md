@@ -19,9 +19,9 @@ If you are interested in learning about how to start a movement this is one inte
 
 We want to thank Ryan again for taking out the time to give us this deep dive into how this space actually got started!
 
-**Ahmed Khan:** Prior to being one of the co-founders of Wild Earth Pet, you were the co-founder of [IndieBio](//indiebio.co), a SOSV-backed life science accelerator, and [Berkley Biolabs](//www.berkeleybiolabs.com). How did you first get passionate and involved in this field and what motivated you to co-found IndieBio and Berkley Biolabs?
+**Ahmed Khan:** Prior to being one of the co-founders of Wild Earth Pet, you were a part of the co-founding team of [IndieBio](//indiebio.co), a SOSV-backed life science accelerator, and [Berkley Biolabs](//www.berkeleybiolabs.com). How did you first get passionate and involved in this field?
 
-**Ryan Bethencourt:** It actually started with a frustration of mine. Prior to co-founding IndieBio, myself and Ron \[Shigeta], my other co-founder, founded Berkley Biolabs, which was a little incubator for science-based startups on the outskirts of Berkley. **It was because of the frustration we had. It was hard to make low-cost science work.** When you look all around you, especially in Silicon Valley, you grow frustrated because there are all these tech startups that are being founded but very few science-based startups. Particularly biotech-based startups.
+**Ryan Bethencourt:** It actually started with a frustration of mine. Prior to IndieBio, myself and Ron \[Shigeta], my other co-founder, founded Berkley Biolabs, which was a little incubator for science-based startups on the outskirts of Berkley. **It was because of the frustration we had. It was hard to make low-cost science work.** When you look all around you, especially in Silicon Valley, you grow frustrated because there are all these tech startups that are being founded but very few science-based startups. Particularly biotech-based startups.
 
 We thought we could make a difference by making it possible to have access to low-cost tools to do science outside of large companies or academia. The reason for that is that you couldn’t innovate in either of those two groups. Either the large company or academia would own your intellectual property. **So we had this vision: to help scientists become entrepreneurs.**
 
@@ -31,15 +31,13 @@ Eventually, what we ended up finding out was that when we started Berkekly BioLa
 
 One of the challenges during the Berkeley Biolabs times was that we needed money. **I had this idea: Could we actually raise a small venture fund on top of the incubator and actually fund these early stage entrepreneurs?** Because they still had day jobs. They would come evenings and weekends and work on their science when they had the time. They couldn’t focus full-time on it. So the science would move very slowly.
 
-> > _"Everything we do has be very real and very science-based"_
-
-That was my initial vision and I pitched to lots of venture firms until I finally came across a small venture firm called SOS Ventures. I pitched them the idea of a biotech incubator and a venture fund on top. They made see it was possible to do an accelerator model off of it, because they had previously run other accelerators.
-
 <img src="/img/blur-bottle-chemistry-248152.jpg" width="500px"/>
 
-Actually, around the same time I started Berkely Biolabs, a little afterwards, they started what became SynBioAccelerator, which was a biotech version of a hardware accelerator in Ireland. I think, _and this is hard to prove_, but I think it was inspired based on Berkley Biolabs.
+> > _"Everything we do has be very real and very science-based"_
 
-So I pitched the idea of doing it in San Francisco to Sean O’Sullivan, who is Managing General Partner of SOS Ventures, and to Arvin Gupta, who is the San Francisco Partner, and they both liked the idea. That is essentially how IndieBio started. Myself and Ron joined forces with Arvin, who was representative for Sean O’Sullivan in San Francisco, and we started IndieBio.
+That was my initial vision and I came across a venture firm called SOS Ventures. They made see it was possible to do an accelerator model off of it, because they had previously run other accelerators. 
+
+I spoke about doing it in San Francisco with Sean O'Sullivan, who is the Managing General Partner of SOS Ventures, and Arvind Gupta, who is the San Francisco Partner, and they both liked the idea. That is essentially how IndieBio started. Myself and Ron joined forces with Arvind, who was representative for Sean O’Sullivan in San Francisco, and we were a part of the IndieBio co-founding team.
 
 **Ahmed:** Following on from that question, quite a few cellular agriculture startups came up through IndieBio: Memphis Meats, Geltor, Finless Foods, and Clara Foods to name a few. Were you personally passionate about sustainable protein before IndieBio and these startups?
 
@@ -89,7 +87,7 @@ Mark Post, you know what happened afterwards? Within 3 or 4 months, he started a
 
 [Geltor](//www.geltor.com) was also Batch 2 at IndieBio. They approached us, and they first wanted to do insulin with bacteria. I said that was really _boring_. Why don’t you come back to me tomorrow and come back with a food product? Ideally, a food product that replaces an animal product (cause now I had this vibe that we could replace animals).
 
-Nick Ouzounov and Alex Lorestani are both brilliant guys. They were doing their PhDs at Princeton at the time, and they came back to me and said they want to do gelatin and think we can undercut the price of gelatin. **I said brilliant, funded!**
+Nick Ouzounov and Alex Lorestani are both brilliant guys. They were doing their PhDs at Princeton at the time, and they came back to me and said they want to do gelatin and think we can undercut the price of gelatin. After consulting the team, the decision was unanimous. **We said "Brilliant, funded!"**
 
 It started to gain momentum. People would start to hit me up and say “Hey, you’re the guy funding all these crazy things.” 
 
