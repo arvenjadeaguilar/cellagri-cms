@@ -14,7 +14,7 @@ To develop, optimize, and scale-up our production system, we need passionate, sk
 
 
 
-**Position: **
+**Position:**
 
 ‚óè Full-time, exempt 
 
@@ -22,19 +22,19 @@ To develop, optimize, and scale-up our production system, we need passionate, sk
 
 
 
-**Role: **
+**Role:**
 
 As an **R&D intern** you will assist in experiments to help build Mission Barns‚Äô production infrastructure. 
 
 
 
-**Experience: **
+**Experience:**
 
 \-  B.S. or B.A. with cell culture experience 
 
 
 
-**Responsibilities: **
+**Responsibilities:**
 
 \- Maintaining lab organization and ordering 
 
@@ -46,7 +46,7 @@ As an **R&D intern** you will assist in experiments to help build Mission Barns‚
 
 
 
-**Background: **
+**Background:**
 
 \- Aseptic technique 
 
@@ -56,7 +56,7 @@ As an **R&D intern** you will assist in experiments to help build Mission Barns‚
 
 
 
-**Traits: **
+**Traits:**
 
 \- Works well independently 
 
