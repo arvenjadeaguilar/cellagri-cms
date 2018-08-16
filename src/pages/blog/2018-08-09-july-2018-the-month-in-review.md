@@ -34,7 +34,7 @@ Announced that they received a flash grant from the Shuttleworth Foundation. The
 
 ## [\#NewHarvest2018](//2018.new-harvest.org/) Conference
 
-July marked New Harvest’s 2018 Conference on cellular agriculture! [New Harvest](//new-harvest.org) is the main nonprofit organization in the field that funds primary research in cellular agriculture. Their third annual conference took place in Cambridge, Massachusetts, at the MIT Media Labs. I traveled to attend the conference, and it was an incredible time! From new and exciting startups to fascinating researchers in the field, the conference was a great way for many layers and companies in the field to come together. The presentations also provided detailed insights on a range of topics from regulatory overviews to insights by industry veterans. I am looking forward to sharing my thoughts and reflections of the conference in the coming weeks!
+July marked New Harvest’s 2018 Conference on cellular agriculture! [New Harvest](//new-harvest.org) is the main nonprofit organization in the field that funds primary research in cellular agriculture. Their third annual conference took place in Cambridge, Massachusetts, at the MIT Media Labs. I traveled to attend the conference, and it was an incredible time! From new and exciting startups to fascinating researchers in the field, the conference was a great way for many players and companies in the field to come together. The presentations also provided detailed insights on a range of topics from regulatory overviews to insights by industry veterans. I am looking forward to sharing my thoughts and reflections of the conference in the coming weeks!
 
 <img src="/img/nh18.jpg" width="100%"/>
 
