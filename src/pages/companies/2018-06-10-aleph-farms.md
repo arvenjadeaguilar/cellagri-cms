@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /alephfarms
-date: '2018-06-10T16:40:43-04:00'
+date: '2018-12-25T16:40:43-05:00'
 title: Aleph Farms
 location: 'Ashdod, Israel'
 website: www.aleph-farms.com/
