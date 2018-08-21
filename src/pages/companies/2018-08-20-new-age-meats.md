@@ -7,7 +7,7 @@ location: 'San Francisco, California'
 website: www.newagemeats.com/
 socialMedia:
   - media: Twitter
-    url: www.twitter.com/NewAgeMeats
+    url: 'https://twitter.com/NewAgeMeats'
   - media: Facebook
     url: www.facebook.com/NewAgeMeatsCo/
 logo: /img/namlogo.png
