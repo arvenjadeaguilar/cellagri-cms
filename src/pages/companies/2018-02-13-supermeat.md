@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /supermeat
-date: 2018-02-15T16:00:00.000Z
+date: '2018-03-30T11:00:00-04:00'
 title: SuperMeat
 location: 'Tel Aviv, Israel'
 website: supermeat.com
