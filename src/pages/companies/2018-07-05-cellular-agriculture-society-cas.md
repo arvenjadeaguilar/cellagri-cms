@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /cas
-date: '2018-07-05T23:48:56-04:00'
+date: '2018-10-30T23:48:56-04:00'
 title: Cellular Agriculture Society (CAS)
 location: 'Cambridge, Massachusetts'
 website: www.cellag.org/
