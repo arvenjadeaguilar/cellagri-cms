@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /gfi
-date: 2018-02-14T16:00:00.000Z
+date: '2018-08-25T11:00:00-04:00'
 title: Good Food Institute
 location: Washington D.C.
 website: gfi.org
