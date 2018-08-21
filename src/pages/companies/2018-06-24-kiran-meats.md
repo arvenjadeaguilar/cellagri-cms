@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /kiranmeats
-date: '2018-06-24T13:51:02-04:00'
+date: '2018-08-01T13:51:02-04:00'
 title: Kiran Meats
 location: 'San Francisco, California'
 website: www.kiranmeats.com/
