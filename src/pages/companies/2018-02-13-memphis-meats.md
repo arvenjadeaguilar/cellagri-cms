@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /memphismeats
-date: 2018-02-14T16:00:00.000Z
+date: '2018-07-30T11:00:00-04:00'
 title: Memphis Meats
 location: 'Berkely, California'
 website: memphismeats.com
