@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /missionbarns
-date: '2018-08-14T23:13:06-04:00'
+date: '2018-07-25T23:13:06-04:00'
 title: Mission Barns
 location: 'Berkeley, California'
 website: www.missionbarns.com/
