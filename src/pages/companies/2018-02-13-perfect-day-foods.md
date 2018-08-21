@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /perfectday
-date: 2018-02-15T16:00:00.000Z
+date: '2018-04-30T11:00:00-04:00'
 title: Perfect Day Foods
 location: 'Berkely, California'
 website: perfectdayfoods.com
