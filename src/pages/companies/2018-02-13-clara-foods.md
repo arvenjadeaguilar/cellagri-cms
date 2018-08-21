@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /clarafoods
-date: 2018-02-14T16:00:00.000Z
+date: '2018-10-25T11:00:00-04:00'
 title: Clara Foods
 location: 'South San Francisco, California'
 website: clarafoods.com
