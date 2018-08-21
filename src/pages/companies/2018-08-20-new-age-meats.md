@@ -4,7 +4,7 @@ path: /newagemeats
 date: '2018-08-20T22:13:59-04:00'
 title: New Age Meats
 location: 'San Francisco, California'
-website: www.newagemeats.com/
+website: 'https://newagemeats.com/'
 socialMedia:
   - media: Twitter
     url: 'https://twitter.com/NewAgeMeats'
