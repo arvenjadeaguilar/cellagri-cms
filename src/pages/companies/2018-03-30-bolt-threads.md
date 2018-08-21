@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /boltthreads
-date: '2018-03-30T10:43:15-04:00'
+date: '2018-11-29T10:43:15-05:00'
 title: Bolt Threads
 location: 'Emeryville, California'
 website: www.boltthreads.com
