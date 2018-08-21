@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /modernmeadow
-date: 2018-02-14T16:00:00.000Z
+date: '2018-07-20T11:00:00-04:00'
 title: Modern Meadow
 location: 'Nutley, New Jersey'
 website: modernmeadow.com
