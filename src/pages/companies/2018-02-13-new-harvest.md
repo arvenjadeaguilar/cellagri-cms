@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /newharvest
-date: 2018-02-14T16:00:00.000Z
+date: '2018-06-25T11:00:00-04:00'
 title: New Harvest
 location: 'New York City, New York'
 website: www.new-harvest.org/
