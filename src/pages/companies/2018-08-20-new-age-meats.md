@@ -9,7 +9,7 @@ socialMedia:
   - media: Twitter
     url: 'https://twitter.com/NewAgeMeats'
   - media: Facebook
-    url: www.facebook.com/NewAgeMeatsCo/
+    url: 'https://www.facebook.com/NewAgeMeatsCo/'
 logo: /img/namlogo.png
 thumbnail: /img/namlogo.png
 description: >-
