@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /finlessfoods
-date: 2018-02-14T16:00:00.000Z
+date: '2018-09-30T11:00:00-04:00'
 title: Finless Foods
 location: 'San Francisco, California'
 website: finlessfoods.com
