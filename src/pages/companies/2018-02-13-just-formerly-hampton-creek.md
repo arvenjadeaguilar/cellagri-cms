@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /just
-date: 2018-02-14T16:00:00.000Z
+date: '2018-08-15T11:00:00-04:00'
 title: Just (Formerly Hampton Creek)
 location: 'San Francisco, California'
 website: justforall.com
