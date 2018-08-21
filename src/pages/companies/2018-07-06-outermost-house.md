@@ -1,7 +1,7 @@
 ---
 templateKey: company-post
 path: /outermosthouse
-date: '2018-07-06T00:07:21-04:00'
+date: '2018-05-30T00:07:21-04:00'
 title: Outermost House
 location: 'Berkeley, California'
 website: outermost.house/
