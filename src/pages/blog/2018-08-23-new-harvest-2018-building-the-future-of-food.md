@@ -62,11 +62,11 @@ To avoid the same mistakes as GMOs, all the players in cellular agriculture will
 
 <img src="/img/img_2297.jpg" width="500px"/>
 
-> _Is the future of cellular agriculture you?_
+> _Who is the future of cellular agriculture? You? Me?_
 
  Context is everything, and this novel field will need it. The story and the _why_ matter just as much as the _how_.
 
-It’s important for cultured meat~~.~~ It’s important for the field. It’s important for the environment.
+It’s important for cultured meat. It’s important for the field. It’s important for the environment.
 
 ## Conclusion
 
