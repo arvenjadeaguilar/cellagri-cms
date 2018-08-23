@@ -32,7 +32,7 @@ Not at all.
 
 A common theme throughout the conference was that _we’re all in this together_. Through the different presentations and panel discussions, all the speakers shared the idea that it is more important to be supportive and make sure that everyone helps each other out.
 
-<img src="/img/img_2298.jpg" width="100%"/>
+<img src="/img/img_2298.jpg" width="720px"/>
 
 The speakers also reminded everyone why the field was needed. From [environmental sustainability](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment/) to eliminating [antibiotic usage](//www.cell.ag/big-chicken-book-review-how-antibiotics-destroyed-agricultural-system/) in animal agriculture, everyone in the field right now is here because they believe in the cause and _that’s why they’re doing startups to reflect that_.  
 
