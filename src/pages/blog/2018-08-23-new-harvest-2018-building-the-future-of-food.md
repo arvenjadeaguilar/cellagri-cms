@@ -56,11 +56,13 @@ No one tried to communicate _why_ GMOs mattered or how their success could make 
 
 This was best illustrated by New Harvest speaker Ron Stotish. Stotish is the CEO of [AquaBounty Technologies](//aquabounty.com/), the company behind the first genetically-modified salmon. AquaBounty developed their genetically-modified fish to grow faster and require less resources while producing more food. Besides sharing _how_ they made their genetically modified fish to show its safety, the company did not explain _why_ their product mattered to make eating fish more sustainable. As a result, a gap in public information existed and led to a public outcry against the company. That shaped government policy and regulation and, to this day, AquaBounty cannot sell their fish in the United States.
 
-Stotish summarized the AquaBounty’s struggles for consumer acceptance in one all-important line: “In communicating \[your product] to the greater community, _the science is probably the easiest part._”
+Stotish summarized the AquaBounty’s struggles for consumer acceptance in one all-important line: **“In communicating \[your product] to the greater community, _the science is probably the easiest part._”**
 
 To avoid the same mistakes as GMOs, all the players in cellular agriculture will need to become better at telling the story _why this field is needed_. In a recent [Good Food Institute survey](//www.gfi.org/clean-meat-consumer-survey-public-is-hungry), consumers were asked if they would try _clean meat_ after being told the story _why_ the product is being developed and the benefits of cell-grown meat. **More than half said they were interested in trying it**. It’s unlikely that this survey would have been as successful if the surveyed consumers were not told _why this product and field mattered_.
 
 <img src="/img/img_2297.jpg" width="500px"/>
+
+> _Is the future of cellular agriculture you?_
 
  Context is everything, and this novel field will need it. The story and the _why_ matter just as much as the _how_.
 
@@ -72,7 +74,7 @@ As I was leaving the final presentation, I looked around. It was hard to believe
 
 <img src="/img/img_2503.jpg" width="100%"/>
 
-> > _With Erin Kim and Isha Datar of New Harvest. Thank you to the entire New Harvest team for organizing an incredible conference!_
+> _With Erin Kim and Isha Datar of New Harvest. Thank you to the entire New Harvest team for organizing an incredible conference!_
 
 On the elevator down, I spoke with someone who has been attending the New Harvest Conferences from the very beginning. Compared to the last conference, I was told that the _tone_ of #NewHarvest2018 was different. Instead of being more theoretical and upbeat about the field’s potential, this conference was more realistic. With discussions about the importance (and _struggles_) of regulation and parallels with other industries, there seemed to be a more grounded perspective this year. And that’s one of the most positive signs for the field. 
 
