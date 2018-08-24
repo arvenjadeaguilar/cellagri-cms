@@ -26,7 +26,7 @@ We need more and more startups to emerge with unique specializations to help fur
 
 ## 2. Collaboration over Competition
 
-Cellular agriculture is still a developing field. While there are some cell ag products already on the market, there is still some time before [cultured meat](//www.cell.ag/3-misconceptions-about-cultured-meat/) becomes commercial. With so many new startups racing to develop cultured meat, does that mean they’re all competitors at this early stage?
+Cellular agriculture is still a developing field. While there are some cell ag products already [on the market](//medium.com/cellagri/cellular-agriculture-the-products-leading-a-revolution-53a95ef9c67d), there is still some time before [cultured meat](//www.cell.ag/3-misconceptions-about-cultured-meat/) becomes commercial. With so many new startups racing to develop cultured meat, does that mean they’re all competitors at this early stage?
 
 Not at all.
 
