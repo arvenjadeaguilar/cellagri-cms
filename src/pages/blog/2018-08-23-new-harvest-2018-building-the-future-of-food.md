@@ -44,7 +44,7 @@ Collaboration over competition. It can _literally_ create an entire field.
 
 We live in an [anti-GMO era](//medium.com/cellagri/cellular-agriculture-and-the-monsanto-lesson-a18aa6c29e0).
 
-GMO stands for genetically modified organism, and it involves the science of interesting the DNA of a gene of interest into the DNA sequence of another organism to produce proteins for a specific outcome. When GMOs first came out, it was an incredible technology full of potential. How did a technology that promised to sustainably produce all the food in the world suddenly become a word _everyone_ is trying to avoid?
+GMO stands for genetically modified organism, and it involves the science of inserting the DNA of a gene of interest into the DNA sequence of another organism to produce proteins for a specific outcome. When GMOs first came out, it was an incredible technology full of potential. How did a technology that promised to sustainably produce all the food in the world suddenly become a word _everyone_ is trying to avoid?
 
 The answer goes back to the beginning. When Monsanto released the first GM plants, they didn’t bother to promote or educate the general public about their technology. Part of this had to do with early people in the field being scientists with little interest in marketing and communications. They were more interested in telling the public _how_ they made GMOs.
 
