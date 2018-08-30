@@ -120,39 +120,27 @@ The research that I do aims to utilize cellulose, which is a natural polymer, to
 
 I’d love to stay involved in the cell ag community. One of the reasons why I’m here is to find out the work being done in this space. Whether that is a post-doc position or working in industry.
 
-
-
 ## Marie Gibbons
 
 <img src="/img/mariegibbons.jpeg" width="250px"/>
 
-Marie Gibbons. Photo taken from LinkedIn
+_Marie Gibbons. Photo taken from LinkedIn_
 
 Marie Gibbons is New Harvest Research Fellow and Good Food Institute Research Fellow who recently completed her Masters at the Dr. Paul Mozdziak Lab at North Carolina State University.
-
- 
 
 **1) How did you first learn about cellular agriculture and how did you get involved?**
 
 I first thought about growing meat without animals when I was around 12 years old and had a first-hand experience with the circle of life.  I found out that my dad was feeding my pet snake frozen mice, and didn't know how to handle it!  I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice.  That led to the idea of a robot mouse, complete with mouse-meat and a remote-controlled endoskeleton. But at 12 years old, I didn't have too much experience with mammalian cell culture or digestible robotics, so I decided to pursue veterinary medicine instead.  
 
- 
-
 The decision to grow meat for animals other than snakes (humans, in this case), arose right before going to vet school.  I was working with a travelling farm animal vet who visited organic, family-owned, animal welfare approved farms all around North Carolina.  The animal treatment I witnessed was _horrifying_.  The farm animals we cared for were lucky to be given anaesthetic before undergoing procedures, but most farm animals are castrated, dehorned, and hot-iron branded, all without pain medication-- or even a veterinarian to perform the procedures!  The breaking point came in January of 2016, when we visited a cattle ranch to treat a mother cow with a bad case of pink eye.  She was not worth enough in meat to warrant a trip to the hospital, and it was too risky to anesthetise her in the field.  Our only option was to cut out her eye while she was still conscious.  It took 2 hours.  And because her eye was so infected and inflamed, we had to cut the eye in half in order to fully remove it.  Being responsible for that amount of pain and terror, and knowing that it was all for the taste of a hamburger... it was too much for me to handle.  After that, I decided to switch career paths and wrote a grant proposal to study large-scale muscle cell production.   I've been researching how to make clean meat ever since!
-
- 
 
 **2) Can you briefly summarize your research?**
 
 My research focuses on large-scale production of poultry-- specifically chicken and turkey muscle.  I've explored cell line establishment, co-culturing as a form of serum replacement, plant-based scaffolding, 3D tissue development, suspension-based bioreactor growth, and most recently, genetic editing for low-cost, optimized production.  
 
- 
-
 **3) What is the next step for you and your research?**
 
 After graduate school, I headed to [Memphis Meats](//www.memphismeats.com/) to work on bringing clean meat [products to market](//www.cell.ag/cell-ag-products-leading-revolution/) as a **research scientist**.  I'm currently focusing on _serum-free_ media scale-up in order to bring down costs and put 100% cruelty-free meat on the shelves as soon as possible!
-
-
 
 ## Conclusion
 
