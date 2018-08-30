@@ -22,15 +22,13 @@ During the [New Harvest 2018 Conference](//www.cell.ag/new-harvest-2018-building
 
 <img src="/img/santiagonewharvest.jpeg" width="100%"/>
 
-> > _Santiago Campuzano. Photo taken from LinkedIn_
+> > _"What if you could have something in the middle, where you have a composite of plant plus mammalian tissue?" Photo taken from LinkedIn_
 
 Santiago Campuzano is a New Harvest Fellow working on his Masters student at the University of Ottawa at the Dr. Andrew Pelling Lab.
 
 **1. How did you first hear about the field?**
 
 I have a degree in food science from the University of British Columbia, and I started getting concerned with the effects that agriculture had on the environment. I started looking for ways to help alleviate that. At that point, I ran into a [TEDtalk](//www.youtube.com/watch?v=7gXq1ml6B1E) by Andras [Forgacs, Founder and CEO of [Modern Meadow](//www.modernmeadow.com/)] where he discussed the idea of 3D printing tissue and [leather](//www.cell.ag/lab-grown-clothing/) for the first time.
-
-> > _"What if you could have something in the middle, where you have a composite of plant plus mammalian tissue?"_
 
 So that was it! After that, I started looking into ways to incorporate my food science knowledge into this field and how I could use that to get my foot through the door with cell ag. I ran into New Harvest, and that’s how it pretty much all started.
 
@@ -52,7 +50,7 @@ We don’t think about it much because it’s a new food. We’re not used to se
 
 <img src="/img/jesskrieger.jpeg" width="100%"/>
 
-> > _Jessica Krieger. Photo taken from LinkedIn_
+> > _"I was really excited to see \[Mark Post's] work since it meant I wasn't alone in this mission." Photo taken from LinkedIn_
 
 Jess Krieger is a New Harvest Fellow working on her PhD in Cell and Molecular Biology at the Dr. Min-Ho Kim Lab at Kent State University in Ohio.
 
@@ -64,7 +62,6 @@ My journey started eight years ago when I realized how destructive animal agricu
 
 We are working on a pork product and a beef product. We’ve isolated a number of cell types such as skeletal muscle cells, endothelial cells for vasculature, and fat cells for meat marbling. We’re going to combine all of those cell types into a three-dimensional tissue-engineered meat product. We’re working on a bacon product, and we’d also like to do this with beef as well. In order to scale up the size of the meat that we can grow, we have to design bioreactors that we’re working on in collaboration with different groups around the world. We’re hoping to combine our tissue engineered meats with these perfusion bioreactor systems, so we can grow integrated whole muscle organ meat products.
 
-> > _"I was really excited to see \[Mark Post's] work since it meant I wasn't alone in this mission"_
 
 **3. What do you see as the next step for you and your research?**
 
@@ -74,9 +71,9 @@ _Trying the product!_
 
 <img src="/img/natalierubio.jpeg" width="100%"/>
 
-> > _Natalie Rubio. Photo taken from LinkedIn_
+> > _"I think I just typed in the right google combination to make cellular agriculture related things pop up." Photo taken from LinkedIn_
 
-Natalie Rubio is a New Harvest Research Fellow completing her second year as the first PhD in Cellular Agriculture at Dr. David Kaplan’s Lab at Tufts University in Boston.
+Natalie Rubio is a New Harvest Research Fellow completing her second year as the _first_ PhD in Cellular Agriculture at Dr. David Kaplan’s Lab at Tufts University in Boston.
 
 **1. What got you interested in cellular agriculture in the first place?**
 
@@ -94,8 +91,6 @@ David Kaplan’s lab is a biomaterials-focused lab for tissue engineering and re
 
 My team and I are working on food applications of biotechnology. How we could use biomaterials to produce food? I’m working with a dietary fiber called _chitosan_, which can be obtained as a byproduct from the seafood industry, so you can find it on crab exoskeletons and crustaceans, but you can also source it from mushrooms. A lot of people have used crustacean chitosan to make different materials for the medical field. I wanted to use something _free from animal products_, so I’m using mushroom-based chitosan to make similar scaffolds and apply those for the growth of muscle cells.
 
-> > _"I think I just typed in the right google combination to make cellular agriculture related things pop up"_
-
 I take chitosan, which is just a powder, and I make it into different types of films and sponges. Then I grow muscle cells on the scaffolds to try to form a 3D muscle fascicle (so that we could generate a whole cut of meat rather than ground meat) that is using this structure as a basis for guiding growth.
 
 **3. What is the next step in this research?**
@@ -108,7 +103,7 @@ I’m also really interested in _nutrition_. I don’t think there have been man
 
 <img src="/img/jamiecourtney.jpeg" width="100%"/>
 
-> > _Jamie Courtney. Photo taken from LinkedIn_
+> > _"I didn’t know \[my work] could be applied to cell ag until I learned about New Harvest." Photo taken from LinkedIn_
 
 Jamie Courtney is a final year PhD student with the Centre for Sustainble Chemical Technologies at the University of Bath, UK.
 
@@ -126,13 +121,11 @@ The research that I do aims to utilize cellulose, which is a natural polymer, to
 
 I’d love to stay involved in the cell ag community. One of the reasons why I’m here is to find out the work being done in this space. Whether that is a post-doc position or working in industry.
 
-> > _"I didn’t know \[my work] could be applied to cell ag until I learned about New Harvest"_
-
 ## Marie Gibbons
 
 <img src="/img/mariegibbonslab.jpg" width="100%"/>
 
-> _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice." Marie Gibbons' photo taken from Good Food Institute_
+> _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice." Photo taken from Good Food Institute_
 
 Marie Gibbons is New Harvest Research Fellow and Good Food Institute Research Fellow who recently completed her Masters at the Dr. Paul Mozdziak Lab at North Carolina State University.
 
