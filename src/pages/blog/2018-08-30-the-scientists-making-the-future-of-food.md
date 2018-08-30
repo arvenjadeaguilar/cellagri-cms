@@ -64,13 +64,11 @@ My journey started eight years ago when I realized how destructive animal agricu
 
 We are working on a pork product and a beef product. We’ve isolated a number of cell types such as skeletal muscle cells, endothelial cells for vasculature, and fat cells for meat marbling. We’re going to combine all of those cell types into a three-dimensional tissue-engineered meat product. We’re working on a bacon product, and we’d also like to do this with beef as well. In order to scale up the size of the meat that we can grow, we have to design bioreactors that we’re working on in collaboration with different groups around the world. We’re hoping to combine our tissue engineered meats with these perfusion bioreactor systems, so we can grow integrated whole muscle organ meat products.
 
-> > _"I was really excited to see [Mark Post's] work since it meant I wasn't alone in this mission"_
+> > _"I was really excited to see \[Mark Post's] work since it meant I wasn't alone in this mission"_
 
 **3. What do you see as the next step for you and your research?**
 
 _Trying the product!_
-
-
 
 ## Natalie Rubio
 
@@ -128,13 +126,13 @@ The research that I do aims to utilize cellulose, which is a natural polymer, to
 
 I’d love to stay involved in the cell ag community. One of the reasons why I’m here is to find out the work being done in this space. Whether that is a post-doc position or working in industry.
 
-> > _"I didn’t know [my work] could be applied to cell ag until I learned about New Harvest"_
+> > _"I didn’t know \[my work] could be applied to cell ag until I learned about New Harvest"_
 
 ## Marie Gibbons
 
-<img src="/img/mariegibbons.jpeg" width="250px"/>
+<img src="/img/mariegibbonslab.jpg" width="100%"/>
 
-_Marie Gibbons. Photo taken from LinkedIn_
+_Marie Gibbons. Photo taken from Good Food Institute_
 
 Marie Gibbons is New Harvest Research Fellow and Good Food Institute Research Fellow who recently completed her Masters at the Dr. Paul Mozdziak Lab at North Carolina State University.
 
