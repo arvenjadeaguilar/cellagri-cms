@@ -64,11 +64,13 @@ My journey started eight years ago when I realized how destructive animal agricu
 
 We are working on a pork product and a beef product. We’ve isolated a number of cell types such as skeletal muscle cells, endothelial cells for vasculature, and fat cells for meat marbling. We’re going to combine all of those cell types into a three-dimensional tissue-engineered meat product. We’re working on a bacon product, and we’d also like to do this with beef as well. In order to scale up the size of the meat that we can grow, we have to design bioreactors that we’re working on in collaboration with different groups around the world. We’re hoping to combine our tissue engineered meats with these perfusion bioreactor systems, so we can grow integrated whole muscle organ meat products.
 
+> > _"I was really excited to see [Mark Post's] work since it meant I wasn't alone in this mission"_
+
 **3. What do you see as the next step for you and your research?**
 
 _Trying the product!_
 
-> > _"I was really excited to see [Mark Post's] work since it meant I wasn't alone in this mission"_
+
 
 ## Natalie Rubio
 
@@ -146,11 +148,11 @@ The decision to grow meat for animals other than snakes (humans, in this case), 
 
 My research focuses on large-scale production of poultry- specifically chicken and turkey muscle.  I've explored cell line establishment, co-culturing as a form of serum replacement, plant-based scaffolding, 3D tissue development, suspension-based bioreactor growth, and most recently, genetic editing for low-cost, optimized production.  
 
+> > _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice."_
+
 **3) What is the next step for you and your research?**
 
 After graduate school, I headed to [Memphis Meats](//www.memphismeats.com/) to work on bringing clean meat [products to market](//www.cell.ag/cell-ag-products-leading-revolution/) as a **research scientist**.  I'm currently focusing on _serum-free_ media scale-up in order to bring down costs and put 100% cruelty-free meat on the shelves as soon as possible!
-
-> > _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice."_
 
 ## Conclusion
 
