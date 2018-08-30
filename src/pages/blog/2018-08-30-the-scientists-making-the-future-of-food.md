@@ -22,7 +22,7 @@ During the [New Harvest 2018 Conference](//www.cell.ag/new-harvest-2018-building
 
 <img src="/img/santiagonewharvest.jpeg" width="100%"/>
 
-> > _"What if you could have something in the middle, where you have a composite of plant plus mammalian tissue?" Photo taken from LinkedIn_
+> _"What if you could have something in the middle, where you have a composite of plant plus mammalian tissue?" Photo taken from LinkedIn_
 
 Santiago Campuzano is a New Harvest Fellow working on his Masters student at the University of Ottawa at the Dr. Andrew Pelling Lab.
 
@@ -50,7 +50,7 @@ We don’t think about it much because it’s a new food. We’re not used to se
 
 <img src="/img/jesskrieger.jpeg" width="100%"/>
 
-> > _"I was really excited to see \[Mark Post's] work since it meant I wasn't alone in this mission." Photo taken from LinkedIn_
+> _"I was really excited to see \[Mark Post's] work since it meant I wasn't alone in this mission." Photo taken from LinkedIn_
 
 Jess Krieger is a New Harvest Fellow working on her PhD in Cell and Molecular Biology at the Dr. Min-Ho Kim Lab at Kent State University in Ohio.
 
@@ -71,7 +71,7 @@ _Trying the product!_
 
 <img src="/img/natalierubio.jpeg" width="100%"/>
 
-> > _"I think I just typed in the right google combination to make cellular agriculture related things pop up." Photo taken from LinkedIn_
+> _"I think I just typed in the right google combination to make cellular agriculture related things pop up." Photo taken from LinkedIn_
 
 Natalie Rubio is a New Harvest Research Fellow completing her second year as the _first_ PhD in Cellular Agriculture at Dr. David Kaplan’s Lab at Tufts University in Boston.
 
@@ -103,7 +103,7 @@ I’m also really interested in _nutrition_. I don’t think there have been man
 
 <img src="/img/jamiecourtney.jpeg" width="100%"/>
 
-> > _"I didn’t know \[my work] could be applied to cell ag until I learned about New Harvest." Photo taken from LinkedIn_
+> _"I didn’t know \[my work] could be applied to cell ag until I learned about New Harvest." Photo taken from LinkedIn_
 
 Jamie Courtney is a final year PhD student with the Centre for Sustainble Chemical Technologies at the University of Bath, UK.
 
