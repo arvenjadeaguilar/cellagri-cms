@@ -132,7 +132,7 @@ Iâ€™d love to stay involved in the cell ag community. One of the reasons why Iâ€
 
 <img src="/img/mariegibbonslab.jpg" width="100%"/>
 
-_Marie Gibbons. Photo taken from Good Food Institute_
+> _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice." Marie Gibbons' photo taken from Good Food Institute_
 
 Marie Gibbons is New Harvest Research Fellow and Good Food Institute Research Fellow who recently completed her Masters at the Dr. Paul Mozdziak Lab at North Carolina State University.
 
@@ -145,8 +145,6 @@ The decision to grow meat for animals other than snakes (humans, in this case), 
 **2) Can you briefly summarize your research?**
 
 My research focuses on large-scale production of poultry- specifically chicken and turkey muscle.  I've explored cell line establishment, co-culturing as a form of serum replacement, plant-based scaffolding, 3D tissue development, suspension-based bioreactor growth, and most recently, genetic editing for low-cost, optimized production.  
-
-> > _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice."_
 
 **3) What is the next step for you and your research?**
 
