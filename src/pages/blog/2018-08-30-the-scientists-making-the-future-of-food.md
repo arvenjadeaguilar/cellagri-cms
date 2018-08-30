@@ -144,6 +144,8 @@ After graduate school, I headed to [Memphis Meats](//www.memphismeats.com/) to w
 
 ## Conclusion
 
+<img src="/img/art-blueprint-brainstorming-8704.jpg" width="100%"/>
+
 It was quite appropriate to meet all the researchers around the [New Harvest 2018 Conference](//2018.new-harvest.org/). [New Harvest](//new-harvest.org/) is the main nonprofit organization that funds primary research in cellular agriculture. And we’ll need more of that.
 
 For the field to continue to grow, more research and researchers will be needed. From helping scale production to addressing other [obstacles](//www.cell.ag/cell-ag-obstacles-ahead) in the field, research is an important step forward.
