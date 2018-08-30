@@ -32,7 +32,7 @@ I have a degree in food science from the University of British Columbia, and I s
 
 > > _"What if you could have something in the middle, where you have a composite of plant plus mammalian tissue?"_
 
-So that was it! After that, I started looking into ways to incorporate my food science knowledge into this field and how I could use that to get my foo through the door with cell ag. I ran into New Harvest, and that’s how it pretty much all started.
+So that was it! After that, I started looking into ways to incorporate my food science knowledge into this field and how I could use that to get my foot through the door with cell ag. I ran into New Harvest, and that’s how it pretty much all started.
 
 **2. Right now, you are doing your MSc. And research at the University of Ottawa. Can you briefly describe what you do?**
 
