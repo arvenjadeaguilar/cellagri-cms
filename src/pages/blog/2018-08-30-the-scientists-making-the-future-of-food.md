@@ -127,7 +127,7 @@ Iâ€™d love to stay involved in the cell ag community. One of the reasons why Iâ€
 
 > _"I loved both animals equally and wanted to find a way to keep snakes from starving without having to kill any mice." Photo taken from Good Food Institute_
 
-Marie Gibbons is New Harvest Research Fellow and Good Food Institute Research Fellow who recently completed her Masters at the Dr. Paul Mozdziak Lab at North Carolina State University.
+Marie Gibbons is New Harvest Research Fellow and Good Food Institute Research Fellow who recently completed her Masters at North Carolina State University.
 
 **1) How did you first learn about cellular agriculture and how did you get involved?**
 
