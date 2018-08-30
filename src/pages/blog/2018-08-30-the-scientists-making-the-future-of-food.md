@@ -99,7 +99,7 @@ Incorporating different cell types. If we can do muscle really well, we’d like
 
 I’m also really interested in _nutrition_. I don’t think there have been many studies on the _nutrition of cell cultures_. I’m interested in looking at the nutritional value of cell cultures and comparing to the in vivo values. We assume that they can be similar, but we don’t really know! How do we change that by feeding different media compounds? How can the scaffold itself contribute to the nutritional properties?
 
-## Jamie Courtney
+## Jamie Courtenay
 
 <img src="/img/jamiecourtney.jpeg" width="100%"/>
 
