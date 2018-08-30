@@ -105,7 +105,7 @@ I’m also really interested in _nutrition_. I don’t think there have been man
 
 > _"I didn’t know \[my work] could be applied to cell ag until I learned about New Harvest." Photo taken from LinkedIn_
 
-Jamie Courtney is a final year PhD student with the Centre for Sustainble Chemical Technologies at the University of Bath, UK.
+Jamie Courtenay is a final year PhD student with the Centre for Sustainble Chemical Technologies at the University of Bath, UK.
 
 **1. How did you first get involved in this field?**
 
