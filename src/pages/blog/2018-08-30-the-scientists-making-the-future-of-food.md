@@ -128,7 +128,7 @@ The research that I do aims to utilize cellulose, which is a natural polymer, to
 
 I’d love to stay involved in the cell ag community. One of the reasons why I’m here is to find out the work being done in this space. Whether that is a post-doc position or working in industry.
 
-> > _"I didn’t know it could be applied to cell ag until I learned about New Harvest"_
+> > _"I didn’t know [my work] could be applied to cell ag until I learned about New Harvest"_
 
 ## Marie Gibbons
 
@@ -160,4 +160,4 @@ After graduate school, I headed to [Memphis Meats](//www.memphismeats.com/) to w
 
 It was quite appropriate to meet all the researchers around the [New Harvest 2018 Conference](//2018.new-harvest.org/). [New Harvest](//new-harvest.org/) is the main nonprofit organization that funds primary research in cellular agriculture. And we’ll need more of that.
 
-For the field to continue to grow, more research and researchers will be needed. From helping scale production to addressing other [obstacles](//www.cell.ag/cell-ag-obstacles-ahead) in the field, research is an important step forward.
+For the field to continue to grow, more research and researchers will be needed. From helping scale production to addressing other [obstacles](//www.cell.ag/cell-ag-obstacles-ahead) in the field, cellular agriculture research is an important step forward.
