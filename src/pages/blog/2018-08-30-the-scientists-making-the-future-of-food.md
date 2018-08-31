@@ -24,7 +24,7 @@ During the [New Harvest 2018 Conference](//www.cell.ag/new-harvest-2018-building
 
 > _"What if you could have something in the middle, where you have a composite of plant plus mammalian tissue?" Photo taken from LinkedIn_
 
-Santiago Campuzano is a New Harvest Fellow working on his Masters student at the University of Ottawa at the Dr. Andrew Pelling Lab.
+Santiago Campuzano is a New Harvest Fellow working on his Master's degree at the University of Ottawa at the Dr. Andrew Pelling Lab.
 
 **1. How did you first hear about the field?**
 
@@ -36,11 +36,11 @@ So that was it! After that, I started looking into ways to incorporate my food s
 
 To make it brief, we’re trying to see what role does decellularized tissue plays in cellular agriculture. Decellularized _plant_ tissue, to be exact. Previously, the Pelling lab has shown that decellularized apple tissue can be a 3D [scaffold](//www.cell.ag/cell-ag-from-lab-to-market/) for mammalian cell growth. The goal is to see if that can be applied to cellular agriculture as well. 
 
-We’re trying to look into the physical topography, for example, or the physical characteristics of plants that are already present in the plant tissue that can be used to or can have an effect with how cells interact with the matrix, or how they can affect a cell’s phenotype.
+We’re trying to look into the physical topography, for example, or the physical characteristics of plants that are already present in the plant tissue that can be used to or can have an effect on how cells interact with the matrix, or how it can affect a cell's phenotype.
 
 **3. What’s the next step for your research?** 
 
-It’s very important to be conclusive with what we’re doing and go one step at a time. First of all, it’s important to see if cells can grow on different decellularized plant tissue. Maybe look at things like mushrooms, for example. From there on, you can start asking other questions, like how that would compare to real meat? You can \[then] test the mechanical properties of it. 
+It’s very important to be conclusive with what we’re doing and go one step at a time. First of all, it’s important to see if cells can grow on different decellularized plant tissue. Maybe look at things like mushrooms, for example. From there on, you can start asking other questions, like how that would compare to real meat? You can \[then] begin by testing the mechanical properties.
 
 Right now, we have this idea that \[conventional meat alternatives] are either plant-based or from animal cells. In the future, and something I’ve been thinking of, w_hat if you could have something in the middle_, where you have a composite of plant _plus_ mammalian tissue?
 
@@ -61,7 +61,6 @@ My journey started eight years ago when I realized how destructive animal agricu
 **2. Could you please give us a brief summary of what you are researching?**
 
 We are working on a pork product and a beef product. We’ve isolated a number of cell types such as skeletal muscle cells, endothelial cells for vasculature, and fat cells for meat marbling. We’re going to combine all of those cell types into a three-dimensional tissue-engineered meat product. We’re working on a bacon product, and we’d also like to do this with beef as well. In order to scale up the size of the meat that we can grow, we have to design bioreactors that we’re working on in collaboration with different groups around the world. We’re hoping to combine our tissue engineered meats with these perfusion bioreactor systems, so we can grow integrated whole muscle organ meat products.
-
 
 **3. What do you see as the next step for you and your research?**
 
