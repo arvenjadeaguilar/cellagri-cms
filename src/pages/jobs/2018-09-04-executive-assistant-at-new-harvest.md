@@ -28,7 +28,7 @@ The position reports directly to the Executive Director. The role is full-time a
 
 ## General Responsibilities:
 
-**_1) Operations and Logistics:_** Develops and implements organizational strategies and performs administrative duties to advance New Harvest’s work with clarity and accountability.
+_**1) Operations and Logistics:**_ Develops and implements organizational strategies and performs administrative duties to advance New Harvest’s work with clarity and accountability.
 
 • Development and maintenance of manuals for New Harvest’s protocols and processes, including managing inventory and invoices,
 
@@ -48,7 +48,7 @@ The position reports directly to the Executive Director. The role is full-time a
 
 • Multifaceted general office support
 
-**_2) Community Outreach:_** Working with the New Harvest team on executing outreach activities.
+_**2) Community Outreach:**_ Working with the New Harvest team on executing outreach activities.
 
 • Managing the hello@new-harvest.org e-mail account and responding to and/or directing inquiries to the appropriate member of staff.
 
@@ -87,6 +87,8 @@ The position reports directly to the Executive Director. The role is full-time a
 • Exceptional interpersonal skills, with friendly and professional demeanor
 
 • Intrapreneurial attitude and work ethic
+
+<br>
 
 In addition to advancing New Harvest’s mission, New Harvest teammates are committed to openness, community, and honesty.
 
