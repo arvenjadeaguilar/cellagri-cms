@@ -14,7 +14,7 @@ Following all the developments in [June](//www.cell.ag/june-2018-month-in-review
 
 ## Investments
 
-[BlueNalu](//bluenalu.com/) announced the close of their seed round by [raising **_$4.5 million_**](//www.cell.ag/cellular-aquaculture-company-bluenalu-to-change-seafood/) in funding to grow cultured seafood meat. BlueNalu’s seed round was led by New Crop Capital and _featured 25 global investors_. With so many investors, BlueNalu raised the _largest seed round_ announced to date for any cell ag startup. Calling itself the first **cellular aquaculture** company, BlueNalu hasn’t announced what their initial cultured seafood product will be, but they are currently exploring protocols for finned fish, crustaceans, and mollusks.
+[BlueNalu](//bluenalu.com/) announced the close of their seed round by raising [_**$4.5 million**_](//www.cell.ag/cellular-aquaculture-company-bluenalu-to-change-seafood/) in funding to grow cultured seafood meat. BlueNalu’s seed round was led by New Crop Capital and _featured 25 global investors_. With so many investors, BlueNalu raised the _largest seed round_ announced to date for any cell ag startup. BlueNalu dubs itself the first **cellular aquaculture** company, and BlueNalu hasn’t announced what their initial cultured seafood product will be. They are currently exploring protocols for finned fish, crustaceans, and mollusks.
 
 <img src="/img/tunaraw.jpg" width="100%"/>
 
@@ -44,7 +44,7 @@ The joint letter proposes a pathway in which _both_ the US Department of Agricul
 
 ## Suing to _Say_ Meat
 
-[In May](//www.cell.ag/may-2018-month-in-review/), the state of Missouri passed a law that banned plant-based products and cultured meat from using the word ‘_meat_’. According to the bill, mean can only come from the flesh of a slaughtered animal. That law came into effect on August 28, 2018, and so did the [_fight for the word meat_](//www.cell.ag/fight-for-word-meat/). 
+[In May](//www.cell.ag/may-2018-month-in-review/), the state of Missouri passed a law that banned plant-based products and cultured meat from using the word ‘_meat_’. According to the bill, meat can only come from the flesh of a slaughtered animal. That law came into effect on August 28, 2018, and so did the [_fight for the word meat_](//www.cell.ag/fight-for-word-meat/). 
 
 The Good Food Institute (GFI), along with the Animal Legal Defense Fund, American Civil Liberties Union of Missouri, and plant-based company Tofurky, [sued](//www.gfi.org/gfi-goes-to-court-for-first-amendment) the state of Missouri to stop the law. They argue that the law violates the first amendment and the right to free speech by preventing the clear and accurate labeling of plant-based and cell ag meat. They also argue that the law was intended to protect the local (conventional) meat industry from out-of-state competition.
 
@@ -52,7 +52,7 @@ The Good Food Institute (GFI), along with the Animal Legal Defense Fund, America
 
 ## Conclusion
 
-From the FDA public meeting in July to the joint-regulatory proposal by Memphis Meats and NAMI, government regulation continues to be a major theme and [obstacle](//www.cell.ag/cell-ag-obstacles-ahead/) for cell ag. It is still early days into the GFI lawsuit, but that case will have significant implication. The outcome of the case will set the precedence of whether other states will be able to follow Missouri’s lead and also pass legislation over the definition of meat. As the case progresses, we will keep you up to date on all the latest news and updates about the lawsuit.
+From the FDA public meeting in July to the joint-regulatory proposal by Memphis Meats and NAMI, government regulation continues to be a major theme and [obstacle](//www.cell.ag/cell-ag-obstacles-ahead/) for cell ag. It is still early days into the GFI lawsuit against Missouri, but that case will have significant implication. The outcome of the case will set the precedence of whether other states can also pass legislation over the definition of meat. As the case progresses, we will keep you up to date on all the latest news and updates about the lawsuit.
 
 <img src="/img/cowsnature.jpg" width="100%"/>
 
