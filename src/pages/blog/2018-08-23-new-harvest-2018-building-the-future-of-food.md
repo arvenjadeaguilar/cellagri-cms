@@ -12,7 +12,7 @@ Last month, I attended the [New Harvest 2018 Conference](//2018.new-harvest.org/
 
 <img src="/img/img_2286.jpg" width="100%"/>
 
-New Harvest’s third annual conference took place in Cambridge, Massachusetts at the MIT Media Labs from July 20th to July 21st. And it was an incredible time! From new and exciting startups to fascinating researchers in the field, the conference was a great way for players and companies in the field to come together. The presentations also provided detailed insights on a range of topics from regulatory overviews to insights by industry veterans.
+New Harvest’s third annual conference took place in Cambridge, Massachusetts at the MIT Media Labs from July 20th to July 21st. And it was an incredible time! From new and exciting startups to [fascinating researchers](//www.cell.ag/cellular-aquaculture-company-bluenalu-to-change-seafood/) in the field, the conference was a great way for players and companies in the field to come together. The presentations also provided detailed insights on a range of topics from regulatory overviews to insights by industry veterans.
 
 Through all the presentations and discussions, there were a three main themes that really stuck out to me.
 
