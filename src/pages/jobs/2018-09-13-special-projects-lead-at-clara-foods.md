@@ -3,7 +3,7 @@ title: Special Projects Lead at Clara Foods
 position: Special Projects Lead
 templateKey: jobs-post
 path: /jobs/clarafoods/special-projects-lead
-date: '2018-09-13T00:01:27-04:00'
+date: '2018-09-01T00:01:27-04:00'
 companyRelated: /clarafoods
 ---
 Desired candidate should be a self-starter with a strong general business skillset, have the ability to quickly get up to speed on our business and the relevant technical details, and be willing to help out with any task thrown at them. 
