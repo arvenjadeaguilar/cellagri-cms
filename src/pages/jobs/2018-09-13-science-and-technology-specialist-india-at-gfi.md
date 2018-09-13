@@ -8,7 +8,9 @@ companyRelated: /gfi
 ---
 ● Years of experience: 3 + years of experience
 
-● Salary range :up to 21 LPA
+● Salary range: up to 21 LPA
+
+● Location: Mumbai, India
 
 As **GFI’s Science and Technology Specialist**, you will work with the _talented team of experienced scientists_ and work with them to inspire and fund innovative research, provide a high level of support to plant-based and cellular agriculture (“clean meat”) food companies and academic research institutions, and lead our efforts to ensure that the science and technologies behind plant-based and clean alternatives to animal products are cutting-edge and exceptional.
 
