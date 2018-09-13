@@ -10,6 +10,8 @@ companyRelated: /gfi
 
 ● Salary range: up to 10 LPA
 
+● Location: Mumbai, India
+
 As **Chief of Staff** you will have a pivotal role in providing high-level and confidential project execution support. You will also be providing administrative support to the managing director and other members of GFI leadership.
 
 ## Detailed Responsibilities:
