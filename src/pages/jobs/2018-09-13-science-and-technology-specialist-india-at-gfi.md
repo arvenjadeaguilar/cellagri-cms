@@ -16,7 +16,7 @@ As **GFI’s Science and Technology Specialist**, you will work with the _talent
 
 ## Detailed Responsibilities:
 
-1. **Building GFI’s capacity** to serve as a knowledge hub for the industry and to guide public discourse around it. The objective being to address the needs of the clean and plant-based food industries and work to fill research, infrastructure, and technology gaps. This would be through the following:
+1). **Building GFI’s capacity** to serve as a knowledge hub for the industry and to guide public discourse around it. The objective being to address the needs of the clean and plant-based food industries and work to fill research, infrastructure, and technology gaps. This would be through the following:
 
 ● Creating engaging webinars and speaking at scientific conferences to highlight expertise and innovations needed in the field and inspire more scientists and engineers to get involved.
 
@@ -26,13 +26,11 @@ As **GFI’s Science and Technology Specialist**, you will work with the _talent
 
 ● Identifying the key areas requiring the most focused research and finding researchers to perform that work.
 
-2. You will be instrumental in **providing technical support and strategic advice** to start-ups, companies, venture capitalists, academic faculty, and students on topics such as product development, career changes, business design, and process expertise.
+2). You will be instrumental in **providing technical support and strategic advice** to start-ups, companies, venture capitalists, academic faculty, and students on topics such as product development, career changes, business design, and process expertise.
 
-_Does this sound like you?
-_
+_Does this sound like you?_
 
-**Must Have:
-**
+**Must Have:**
 
 1. You have a PHD in the field Plant biology or Food Technology or Human Nutrition or Cell Biology
 2. Should have had previous experience with research and creating publications (Eg. White paper, peer reviewed articles etc)
