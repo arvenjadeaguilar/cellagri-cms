@@ -3,13 +3,13 @@ templateKey: blog-post
 path: /gfi-sues-missouri-word-meat
 title: GFI Sues Missouri for the Word Meat
 date: '2018-09-13T15:37:56-04:00'
-image: /img/cowprofile.jpeg
+image: /img/plantstomeat.jpeg
 description: >-
   "The law came into effect on August 28, 2018. And so did the fight for the
   word meat." Learn the details about the Good Food Institute's lawsuit against
   the state of Missouri and how it can impact the future of food.
 ---
-In [May](//cell.ag/may-2018-month-in-review/), the state of Missouri passed a law that banned [plant-based](//www.cell.ag/plant-based-meats/) and [cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food) (‘cell ag’) products from using the word ‘_meat_’. According to the bill, meat can only come from the _flesh _ of a slaughtered animal. The law came into effect on August 28, 2018. And so did the [fight for the word _meat_](//www.cell.ag/fight-for-word-meat/). 
+In [May](//cell.ag/may-2018-month-in-review/), the state of Missouri passed a law that banned [plant-based](//www.cell.ag/plant-based-meats/) and [cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food) (‘cell ag’) products from using the word ‘_meat_’. According to the bill, meat can only come from the _flesh_ of a slaughtered animal. The law came into effect on August 28, 2018. And so did the [fight for the word _meat_](//www.cell.ag/fight-for-word-meat/). 
 
 <img src="/img/cowprofile.jpeg" width="100%"/>
 
@@ -19,13 +19,13 @@ The [Good Food Institute](//gfi.org), along with the Animal Legal Defense Fund, 
 
 1. **Freedom of Speech**
 
-According to the lawsuit, the Missouri law violates the **first amendment** and **the right to freedom of speech** by preventing the clear and accurate labeling of plant-based and cell ag products as _meat_.  The lawsuit argues that plant-based and cell ag companies use _qualifying terms_, like plant-based or cell-cultured, to describe and distinguish _how_ their products are _different _ from meat. They do not simply call their products meat.
+According to the lawsuit, the Missouri law violates the **first amendment** and **the right to freedom of speech** by preventing the clear and accurate labeling of plant-based and cell ag products as _meat_.  The lawsuit argues that plant-based and cell ag companies use _qualifying terms_, like plant-based or cell-cultured, to describe and distinguish _how_ their products are _different_ from meat. They do not simply call their products meat.
 
 <img src="/img/cultured-meat.jpg" width="100%"/>
 
-Besides, according to Howell, it is _these_ qualifying terms that make consumers interested in buying the meat alternatives. _Not _ meat.
+Besides, according to Howell, it is _these_ qualifying terms that make consumers interested in buying the meat alternatives. _Not_ meat.
 
-This begs the question: what else can these companies call their product? If companies cannot use the word meat (or any meat-derived terms), how else can they _clearly _ inform consumers that their plant-based product intends to taste_ just like meat_? 
+This begs the question: what else can these companies call their product? If companies cannot use the word meat (or any meat-derived terms), how else can they _clearly_ inform consumers that their plant-based product intends to taste _just like meat_? 
 
 2. **Dormant Commerce Clause**
 
