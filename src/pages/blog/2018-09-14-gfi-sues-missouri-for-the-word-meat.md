@@ -55,11 +55,15 @@ With plant-based meat alternatives, this question goes further. Can meat be defi
 
 <img src="/img/plantstomeat.jpeg" width="100%"/>
 
+> > _Photo taken from Impossible Foods_
+
 The answers to these questions are still uncertain, and the question of _naming_ will continue to be debated. This debate was even brought up during the recent Good Food Conference by the Good Food Institute.
 
 The [Good Food Conference](//goodfoodconference.com) is the first conference in the world to focus on the commercialization of both plant-based and cell-cultured meat. During the conference, many cell ag startups announced that they supported [Memphis Meats](//memphismeats.com)’ regulatory [letter](//static1.squarespace.com/static/5674c0c22399a3a13cbc3af2/t/5b7edcd588251b2ccdb7fa47/1535040750340/Memphis+Meats+-+North+American+Meat+Institute+letter) with the North American Meat Institute to the White House. In the letter, Memphis Meats announced their plan to call their product _cell-based_ meat instead of _clean_ meat. For good reasons, too.
 
 <img src="/img/memphismeat-meatball.jpg" width="720px"/>
+
+> > _Photo taken from Memphis Meats_
 
 Memphis Meats believe that the name ‘cell-based meat’ will garner more cooperation from the conventional meat industry and US meat regulators. Considering that the Missouri Cattlemen Association helped “propose the language” behind the law in Missouri, more cooperation with the meat industry would be an important step to overcome some of the [obstacles ahead ](//www.cell.ag/cell-ag-obstacles-ahead)for cell ag.
 
