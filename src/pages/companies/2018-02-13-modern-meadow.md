@@ -4,7 +4,7 @@ path: /modernmeadow
 date: '2018-07-20T11:00:00-04:00'
 title: Modern Meadow
 location: 'Nutley, New Jersey'
-website: modernmeadow.com
+website: www.modernmeadow.com
 socialMedia:
   - media: Twitter
     url: 'https://twitter.com/ModernMeadow'
