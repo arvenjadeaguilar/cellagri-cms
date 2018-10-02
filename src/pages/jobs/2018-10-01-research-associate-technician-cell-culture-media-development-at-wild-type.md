@@ -6,7 +6,7 @@ path: /jobs/wildtype/research-associate-technician-cell-culture-media-developmen
 date: '2018-10-01T23:32:12-04:00'
 companyRelated: /wildtype
 ---
-**About the job:**
+**About the Job:**
 
 * Manage multiple cell culture and tissue engineering projects
 * Conduct focused independent experiments, developing new research techniques and protocols, and interpreting data sets
