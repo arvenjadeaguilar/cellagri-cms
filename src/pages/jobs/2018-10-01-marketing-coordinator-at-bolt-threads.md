@@ -3,7 +3,7 @@ title: Marketing Coordinator at Bolt Threads
 position: 'Marketing Coordinator '
 templateKey: jobs-post
 path: /jobs/boltthreads/marketing-coordinator
-date: '2018-10-01T23:17:09-04:00'
+date: '2018-09-28T23:17:09-04:00'
 companyRelated: /boltthreads
 ---
 The **marketing team** at Bolt Threads is tasked with telling the compelling stories of our amazing materials, our partners and our brand. We are looking for a junior marketing rockstar to join our small marketing team. This person needs to be a team player, who can help the team stay organized, find hard to find assets, communicate results clearly and keep an eye out for marketing needs down the road.
