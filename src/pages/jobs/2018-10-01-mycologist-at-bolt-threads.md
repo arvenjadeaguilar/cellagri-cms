@@ -3,7 +3,7 @@ title: Mycologist at Bolt threads
 position: 'Mycologist '
 templateKey: jobs-post
 path: /jobs/boltthreads/mycologist
-date: '2018-10-01T23:06:34-04:00'
+date: '2018-09-28T23:06:34-04:00'
 companyRelated: /boltthreads
 ---
 Bolt Threads is looking for a motivated **mycologist** to support the development of novel mycelium based materials. You have a fundamental understanding of fungal biology, practical experience with cell culture and mycelial growth optimization. You will be working in the lab with a team of researchers designing and executing experiments, defining equipment specifications and developing novel materials with tangible applications.
