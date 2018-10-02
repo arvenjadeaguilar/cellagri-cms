@@ -3,7 +3,7 @@ title: Senior Process Engineer at Bolt Threads
 position: 'Senior Process Engineer '
 templateKey: jobs-post
 path: /jobs/boltthreads/senior-process-engineer
-date: '2018-10-01T23:08:22-04:00'
+date: '2018-09-28T23:08:22-04:00'
 companyRelated: /boltthreads
 ---
 A self-motivated, hands-on **Senior Process Engineer** to lead development and scale-up of recombinant silk protein recovery processes. The ideal candidate will enjoy working at laboratory, pilot plant, and production scales. They will have strong technical fundamentals, practical experience in the design and execution of experiments, and a thorough knowledge of different separations processes and equipment. The ideal candidate will appreciate the challenge of continuous process improvements in yield, quality, and economics. They will motivate and mentor other team members through their technical curiosity and leadership. They will be able to collaborate effectively and efficiently within teams, across the company, and with external vendors and partners (such as CRO’s and CMO’s). This position will play a key role on multidisciplinary teams working to manufacture novel silk protein fibers and other biomaterials for textiles and other applications.
