@@ -6,16 +6,14 @@ path: /jobs/wildtype/research-associate-technician
 date: '2018-09-14T12:00:10-04:00'
 companyRelated: /wildtype
 ---
-**_About the job:
-_**
+**_About the job:_**
 
 * Manage multiple tissue engineering and molecular biology projects
 * Conduct focused independent experiments under the direction of scientific leaders, developing new research techniques and protocols, and interpreting data sets
 * Perform tissue culture work, including culture maintenance, characterization, and expansion
 * Acquire new skills and integrate new technologies
 
-**_About you:
-_**
+**_About you:_**
 
 * Mission-driven, creative, and entrepreneurial
 * A track record of strong research productivity
