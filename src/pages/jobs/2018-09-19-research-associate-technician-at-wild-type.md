@@ -1,8 +1,8 @@
 ---
-title: Research Associate / Technician at Wild Type
-position: Research Associate / Technician
+title: Research Associate / Technician Tissue engineer at Wild Type
+position: 'Research Associate / Technician: Tissue Engineering'
 templateKey: jobs-post
-path: /jobs/wildtype/research-associate-technician
+path: /jobs/wildtype/research-associate-technician-tissue-engineering
 date: '2018-09-14T12:00:10-04:00'
 companyRelated: /wildtype
 ---
