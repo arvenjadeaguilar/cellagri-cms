@@ -16,9 +16,9 @@ September marked a strong end to the third quarter for cellular agriculture. [Ce
 
 [Meatable](//meatable.com) is a new startup that uses cell ag to grow cell-based meat. Based in Leiden, Netherlands, Meatable [announced](//www.businessinsider.com/lab-grown-meat-startup-solving-barrier-meat-without-slaughter-meatable-2018-9) that they **raised $3.5 million** to complete their first round of funding. Meatable’s round of funding was led by BlueYard Capital and included investments by Atlantic Food Labs, BackedVC, Future Positive Capital, and high profile angel investors.
 
-<img src="/img/coweurope.jpeg" width="100%"/>
-
 Interestingly, Daan Luining, Meatable’s Chief Technology Officer, has been involved in cellular agriculture from the very beginning. Luining was part of the research team under Dr. Mark Post that developed the first cultured meat burger in August 2013. Luining has also been a research strategist at [New Harvest](//new-harvest.org), the main nonprofit organization in the field that funds primary cellular agriculture research. Having been involved for so long, Luining is now the co-founder of his own company in the field.
+
+<img src="/img/coweurope.jpeg" width="100%"/>
 
 ## Mylo Coming to Market
 
