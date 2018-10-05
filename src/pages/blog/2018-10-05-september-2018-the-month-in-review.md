@@ -16,9 +16,9 @@ September marked a strong end to the third quarter for cellular agriculture. [Ce
 
 [Meatable](//meatable.com) is a new startup that uses cell ag to grow cell-based meat. Based in Leiden, Netherlands, Meatable [announced](//www.businessinsider.com/lab-grown-meat-startup-solving-barrier-meat-without-slaughter-meatable-2018-9) that they **raised $3.5 million** to complete their first round of funding. Meatable’s round of funding was led by BlueYard Capital and included investments by Atlantic Food Labs, BackedVC, Future Positive Capital, and high profile angel investors.
 
-Interestingly, Daan Luining, Meatable’s Chief Technology Officer, has been involved in cellular agriculture from the very beginning. Luining was part of the research team under Dr. Mark Post that developed the first cultured meat burger in August 2013. Luining has also been a research strategist at [New Harvest](//new-harvest.org), the main nonprofit organization in the field that funds primary cellular agriculture research. Having been involved for so long, Luining is now the co-founder of his own company in the field.
-
 <img src="/img/coweurope.jpeg" width="100%"/>
+
+Interestingly, Daan Luining, Meatable’s Chief Technology Officer, has been involved in cellular agriculture from the very beginning. Luining was part of the research team under Dr. Mark Post that developed the first cultured meat burger in August 2013. Luining has also been a research strategist at [New Harvest](//new-harvest.org), the main nonprofit organization in the field that funds primary cellular agriculture research. Having been involved for so long, Luining is now the co-founder of his own company in the field.
 
 ## Mylo Coming to Market
 
@@ -38,11 +38,12 @@ But that wasn’t the only big announcement for meat via cell ag from the confer
 
 [In August](//www.cell.ag/august-2018-month-in-review/), [Memphis Meats](//www.memphismeats.com) and the North American Meat Institute sent a joint letter to the White House to propose a regulatory pathway forward for cultured meat. In the letter, Memphis Meats referred to their product as “**cell-based meat**” and _not_ cultured or clean meat. During the Good Food Conference, other cell ag meat startups announced that they support Memphis Meats’ letter and will use the name _cell-based_ meat to identify their product. 
 
-Memphis Meats believe that the name cell-based meat will garner more cooperation from the conventional meat industry and US meat regulators. Considering that [GFI is currently suing](//www.cell.ag/gfi-sues-missouri-word-meat/) the state of Missouri for the word meat, cooperation with the meat industry will be an important step to overcome some of the [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead) for cell ag. 
-
 <img src="/img/memphismeat-meatball.jpg" width="100%"/>
 
 > > _A cell-based meatball?_
+
+Memphis Meats believe that the name cell-based meat will garner more cooperation from the conventional meat industry and US meat regulators. Considering that [GFI is currently suing](//www.cell.ag/gfi-sues-missouri-word-meat/) the state of Missouri for the word meat, cooperation with the meat industry will be an important step to overcome some of the [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead) for cell ag. 
+
 
 ## The _First_ Pork Sausage
 
@@ -52,7 +53,7 @@ New Age Meats is a new cell ag startup that is currently a part of the IndieBio 
 
 <img src="/img/sausagebi.jpg" width="100%"/>
 
-> > _New Age Meats' sausage taste test. Photo taken from Business Insider_
+> _New Age Meats' sausage taste test. Photo taken from Business Insider_
 
 ## Conclusion
 
