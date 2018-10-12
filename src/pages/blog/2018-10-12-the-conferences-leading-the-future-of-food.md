@@ -66,7 +66,7 @@ This year, the event will feature **two local** Dutch startups that recently rai
 
 > > Dr. Mark Post with the _first_ cultured meat burger
 
-In [July](https://www.cell.ag/july-2018-month-in-review/), Mosa Meat raised [**$8.8 million**](//medium.com/cellagri/mosa-meat-raises-8-8m-in-funding-to-change-the-hamburger-7e3d1aedfcc9) in its Series A funding to become the _first_ European cell ag startup to receive venture funding. Mosa Meat was founded by Dr. Mark Post, the research behind the _first public_ cultured meat taste test in August 2013. 
+In [July](https://www.cell.ag/july-2018-month-in-review/), Mosa Meat raised [**$8.8 million**](//medium.com/cellagri/mosa-meat-raises-8-8m-in-funding-to-change-the-hamburger-7e3d1aedfcc9) in its Series A funding to become the _first_ European cell ag startup to receive venture funding. Mosa Meat was founded by Dr. Mark Post, the researcher behind the _first public_ cultured meat taste test in August 2013. 
 
 In [September](//www.cell.ag/september-2018-month-in-review/), new startup Meatable raised [$3.5 million](//medium.com/cellagri/meatable-raises-3-5-million-to-bring-cell-based-meat-to-netherlands-aa39e9dc4b8b) to complete their seed round of funding. Interestingly, Meatable’s Chief Technology Officer, Daan Luining, was part of the research team under Dr. Post that developed the _first_ burgers in August 2013. 
 
