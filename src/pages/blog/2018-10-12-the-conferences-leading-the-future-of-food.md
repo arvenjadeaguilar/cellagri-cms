@@ -14,7 +14,7 @@ That’s exactly the case with cellular agriculture this year. [Cellular agricul
 
 > _New Harvest 2018 Conference_. Photo taken by [Jacyln Tyler](https://jaclyntyler.smugmug.com)
 
-With new investments and awards, 2018 has been an incredible year for cell ag. One of the highlights has been an increase in conferences featuring cell ag research and startups. From panel discussions at SXSW to presentations at Future Food Tech.
+With new investments and awards, 2018 has been an incredible year for cell ag. One of the highlights has been an increase in conferences featuring cell ag [research](//www.cell.ag/scientists-making-the-future-of-food/) and startups. From panel discussions at SXSW to presentations at Future Food Tech.
 
 There has also been a rise in the number of conferences _dedicated_ to cell ag all around the world. This article highlights some of the conferences focussed on cellular agriculture and making it the future of food.
 
