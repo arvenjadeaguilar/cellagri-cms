@@ -12,7 +12,7 @@ That’s exactly the case with cellular agriculture this year. [Cellular agricul
 
 <img src="/img/726a1146.jpg" width="100%"/>
 
-> > _New Harvest 2018 Conference_. Photo taken by [Jacyln Tyler](https://jaclyntyler.smugmug.com)
+> _New Harvest 2018 Conference_. Photo taken by [Jacyln Tyler](https://jaclyntyler.smugmug.com)
 
 With new investments and awards, 2018 has been an incredible year for cell ag. One of the highlights has been an increase in conferences featuring cell ag research and startups. From panel discussions at SXSW to presentations at Future Food Tech.
 
