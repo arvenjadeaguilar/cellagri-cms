@@ -80,6 +80,6 @@ It will be interesting to see if the the name change to _cell-based_ meats will 
 
 Alex Shirazi thinks CMS would change their name. “We would use whatever term speaks to the industry the most.”
 
-“Fortunately, all the alternative names start with C [cell-based meat, clean meat, _craft_ meat], so we would still call it CMS”
+“Fortunately, all the alternative names start with C [cell-based meat, clean meat, _craft_ meat], so we would still call it CMS.”
 
 <img src="/img/cowprofile.jpeg" width="100%"/>
