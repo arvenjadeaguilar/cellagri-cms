@@ -6,7 +6,7 @@ path: /jobs/boltthreads/senior-software-engineer-ruby-rails
 date: '2018-09-28T23:19:25-04:00'
 companyRelated: /boltthreads
 ---
-A **Senior Ruby on Rails Developer **to join our **Information Systems team** with a full stack development background and e-commerce experience. You will working as a part of a high performance team designing and developing new product features for existing and new e-commerce plus other applications. If you are someone with a passion for making a difference in a high growth environment, we’d love to hear from you.
+A **Senior Ruby on Rails Developer** to join our **Information Systems team** with a full stack development background and e-commerce experience. You will working as a part of a high performance team designing and developing new product features for existing and new e-commerce plus other applications. If you are someone with a passion for making a difference in a high growth environment, we’d love to hear from you.
 
 **You’ll be Excited to Come to Work Because…**
 
