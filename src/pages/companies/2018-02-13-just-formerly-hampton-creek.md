@@ -12,7 +12,7 @@ logo: /img/just thumbnail.jpg
 thumbnail: /img/just thumbnail.jpg
 description: >-
   Just (Formerly called Hampton Creek) is a company that makes plant-based
-  alternative products that is now entering the cultured meat space in cellular
+  alternative products that is entering the cultured meat space in cellular
   agriculture. Founded in 2011 by Josh Tetrick, Just is known for products like
   Just Mayo (egg-free mayo) and most recently Just Scramble (egg-free scrambled
   egg). In 2017, Just announced that they are entering the cellular agriculture
