@@ -3,7 +3,7 @@ title: Research Analyst at GFI
 position: Research Analyst
 templateKey: jobs-post
 path: /jobs/gfi/research-analyst
-date: '2018-10-14T23:17:39-04:00'
+date: '2018-10-15T23:17:39-04:00'
 companyRelated: /gfi
 ---
 _Help make the case for more plant-based food in restaurants and grocery stores_
