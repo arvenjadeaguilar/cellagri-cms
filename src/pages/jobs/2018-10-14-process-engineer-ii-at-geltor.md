@@ -3,7 +3,7 @@ title: Process Engineer II at Geltor
 position: Process Engineer
 templateKey: jobs-post
 path: /jobs/geltor/process-engineer
-date: '2018-10-15T12:12:31-04:00'
+date: '2018-10-14T12:12:31-04:00'
 companyRelated: /geltor
 ---
 We are seeking an experienced **Process Engineer** who will manage a broad range of project activities to successfully scale processes from the bench through pilot plant and into CMOs.
