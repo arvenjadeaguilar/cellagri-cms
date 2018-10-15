@@ -3,7 +3,7 @@ title: Lab Manager at Geltor
 position: Lab Manager
 templateKey: jobs-post
 path: /jobs/geltor/lab-manager
-date: '2018-10-15T12:00:31-04:00'
+date: '2018-10-14T12:00:31-04:00'
 companyRelated: /geltor
 ---
 We are seeking a new team member who will directly affect the efficient operation of Geltor’s R&D facility both as a scientist and lab manager. As **Lab Manager**, you will help build microbes that produce superior protein-based materials, ensure an organized lab environment, and assist the scientific teams as necessary.
