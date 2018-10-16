@@ -44,7 +44,7 @@ But that wasn’t the only big announcement from the conference.
 
 In [August](//www.cell.ag/august-2018-month-in-review/), Memphis Meats and the North American Meat Institute sent a [joint letter](//qz.com/1367935/cell-cultured-meat-may-get-to-market-faster-thanks-to-a-truce-between-food-tech-startup-memphis-meats-and-the-meat-industry/) to the White House to propose a regulatory pathway forward for cultured meat. In the letter, Memphis Meats referred to their product as “**cell-based meat**” and **not** _cultured_ or _clean_ meat.
 
-During the Good Food Conference, other cell ag startups announced that they _support_ Memphis Meats’ letter and will also use the name cell-based meat to identify their product. Memphis Meats believe that the name cell-based meat will garner more cooperation from the conventional meat industry and US meat regulators. Cooperation with the meat industry will be an important step to overcome some of the [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead/) for cell ag.
+During the Good Food Conference, most of the other attending cell ag startups announced that they _support_ Memphis Meats’ letter and will also use the name cell-based meat to identify their product. Memphis Meats believe that the name cell-based meat will garner more cooperation from the conventional meat industry and US meat regulators. Cooperation with the meat industry will be an important step to overcome some of the [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead/) for cell ag.
 
 ## Cultured Meat Symposium 2018
 
