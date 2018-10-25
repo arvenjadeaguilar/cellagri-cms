@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /interview-maryn-mckenna
 title: 'Interview: Maryn McKenna, Author of Big Chicken'
 date: '2018-10-25T12:01:14-04:00'
-image: /img/mckennainterviewcover.jpg
+image: /img/mckennacover1200x630.jpg
 description: >-
   During the recent USDA/FDA joint meeting over regulation of cell-based meat,
   the concern of antibiotic usage in scaling cellular agriculture emerged. Maryn
@@ -37,7 +37,7 @@ I could see that, as I was telling this story of how antibiotic use in agricultu
 
 **Ahmed:** Was there anything that really surprised you while you were researching Big Chicken relating to animal agriculture and their usage of antibiotics?
 
-**Maryn: **I was really shocked when I went back to all the original papers that upheld the use of antibiotics in agriculture at the start at how _incurious_ they were about the long-term effects of using antibiotics routinely in animals.
+**Maryn:** I was really shocked when I went back to all the original papers that upheld the use of antibiotics in agriculture at the start at how _incurious_ they were about the long-term effects of using antibiotics routinely in animals.
 
 From 1948 up to about 1965, there are hundreds and hundreds of scientific papers written about this fantastic new use of antibiotics to disrupt the gut microbiome of animals and cause them to put on weight faster. That’s what growth promotion is.
 
@@ -83,7 +83,7 @@ One particular clinician, as so often happens in these stories, noticed the deve
 
 His work doesn't really lead to ban, it just started to raise awareness. **What actually leads to a ban in this case is consumer power**, because acronization exists for about ten years from the mid-1950s to the late 1960s.
 
-By the late 1960s, consumers in the United States are beginning to be _very concerned_ about **food additives** of all kinds. This is the point where they're talking about hormones being given to cattle, the variety of artificial sweeteners that are available, and whether any of them are carcinogens. Against that setting, adding raw antibiotics to your meat suddenly seems no longer like a good idea.
+By the late 1960s, consumers in the United States are beginning to be _very concerned_ about **food additives** of all kinds. This is the point where they're talking about hormones being given to cattle, the variety of artificial sweeteners that are available, and whether any of them are carcinogens. Against that setting, _adding raw antibiotics to your meat suddenly seems no longer like a good idea_.
 
 I found all these letters to the editor in small local newspapers, with people questioning whether acronization had been a smart idea and committing themselves to buying _only_ un-acronized meat. By 1968, the practice is completely gone away.
 
@@ -155,7 +155,7 @@ Because of that attitude, it takes a lot longer in the United States to unwind t
 
 **Ahmed:** You’ve written about how antibiotic use has _literally_ created our modern agricultural system, using chicken. Where do you now see the future of animal agriculture going?
 
-**Maryn: **I don’t think there’s one answer to this question.
+**Maryn:** I don’t think there’s one answer to this question.
 
 I hope that we will move towards a day when antibiotics are used in animal agriculture _only_ in the way that they are used human medicine, which is to cure instances of disease. At the moment, most antibiotics use in animal agriculture is not for that.
 
