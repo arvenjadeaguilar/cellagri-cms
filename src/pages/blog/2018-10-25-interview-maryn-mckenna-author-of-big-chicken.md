@@ -25,11 +25,11 @@ I never had really been aware of antibiotic resistance outside the confines of h
 
 <img src="/img/scientistresearch.jpeg" width="100%"/>
 
-> _“There is nothing else and never will be anything else like antibiotics. They are precious to medicine and we should protect them.”_
-
 HIV had been such a touchstone for infectious disease public health for so long. I found that really shocking, so that really led to my book, “[**Superbug**](//marynmckenna.com/books/superbug/)”, which is my chronicle of the emergence of antibiotic resistance using the lens of MRSA to explain where antibiotic resistance just came from, what social practices furthered it, and _why_ we're in such trouble.
 
 In the process of reporting that book, I realized that there was a really significant portion of the antibiotic resistance problem that had nothing to do with human experience, really. Neither human experience in healthcare nor human experience in acquiring these organisms in the community outside of medical care. **And that was the question of how much will agriculture play.**
+
+> _“There is nothing else and never will be anything else like antibiotics. They are precious to medicine and we should protect them.”_
 
 I began to dig into this question of how much agricultural use of antibiotics over decades contribute to the antibiotic resistance problem. As I started looking into that, I realized that that story, the _emergence of antibiotic use in agriculture_, is really bracketed by the story of the rise of industrial chicken, because **chickens were the first animals to get experimentally what we now call growth promoter antibiotics.**
 
@@ -48,6 +48,8 @@ From 1948 up to about 1965, there are hundreds and hundreds of scientific papers
 <img src="/img/researcherpetridish.jpg" width="100%"/>
 
 The most that they considered is that if a gut bacterium they’re affecting with growth promoters turns towards resistance, the scientists assumed that the power of growth promotion is going to go away. But it never occurred to them to consider that those drug resistant bacteria are going to leave the animal. They assumed they’re going to stay with the animal and that’s as far the problem is going to go.
+
+> _"I know there are people who say that cellular ag will solve the problem. I think that is very much an open question."_
 
 But, in fact, we know now that large scale farms that routinely use antibiotics are nodes in a _network for distribution_ of antibiotic resistant bacteria via food and into the environment.
 
@@ -139,7 +141,8 @@ As birds were hybridized and crossbred to make the modern industrial chicken, ch
 
 Whether you are a giant producer, like Perdue, or a small producer in France, you are buying your chicks time after time from those companies that hold the genetics of chicken. At this point, cattle and pigs are still open source. There are certainly breeds and varieties, and there is some degree of wanting to keep those breeding varieties true, but they are not IP.
 
-> _“If it can stay away from antibiotics, it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.”_
+> _“If it can stay away from antibiotics, it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.”
+> _
 
 I think the larger philosophical question that consumers are going to ask: **is cellular meat IP, and do consumers actually want that?** Do they want all their food to be owned by big corporations?
 
