@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /interview-maryn-mckenna
 title: 'Interview: Maryn McKenna, Author of Big Chicken'
 date: '2018-10-25T12:01:14-04:00'
-image: /img/mckennacover1200x630.jpg
+image: /img/mckennablogcover.jpg
 description: >-
   During the recent USDA/FDA joint meeting over regulation of cell-based meat,
   the concern of antibiotic usage in scaling cellular agriculture emerged. Maryn
@@ -24,6 +24,8 @@ Part of my job was to go to as many disease outbreak investigations as possible.
 I never had really been aware of antibiotic resistance outside the confines of hospitals and learning about the impact of community MRSA, and how widely it had spread, was really shocking to me. That happened to be the same year that a pair of influential papers were published. They said explicitly that the **toll of MRSA year-to-year was beyond the toll of HIV in the United States.**
 
 <img src="/img/scientistresearch.jpeg" width="100%"/>
+
+> _“There is nothing else and never will be anything else like antibiotics. They are precious to medicine and we should protect them.”_
 
 HIV had been such a touchstone for infectious disease public health for so long. I found that really shocking, so that really led to my book, “[**Superbug**](//marynmckenna.com/books/superbug/)”, which is my chronicle of the emergence of antibiotic resistance using the lens of MRSA to explain where antibiotic resistance just came from, what social practices furthered it, and _why_ we're in such trouble.
 
@@ -63,6 +65,8 @@ One particular scientist in the British public health system is a guy named Ephr
 
 Anderson's work is so powerful that it leads to the _first_ government-supported ban anywhere in the world for growth promoter antibiotics in food animals. It was passed by parliament in 1971. His work inspired an American scientist, Stuart Levy, who is still on faculty at Tufts University, to do similar work and a really elegant experience that’s published in 1976. Levy’s work inspires an _unsuccessful_ ban in the United States that is proposed but not ever actually active in 1977.
 
+> > _“I don’t think that concern for what is in the meat that people eat has ever gone away.”_
+
 The work of those two pioneering scientists really begin to get the ball rolling with alarm over antibiotic use. It also immediately demonstrates how _differently_ different nations are going to take this threat because England and the European Union move forward with bans on antibiotic usage in agriculture and the United States **does not for another 40 years**.
 
 **Ahmed:** One thing that really surprised me in the US about the practices of animal agriculture’s antibiotic usage was the practice called ‘**Acronization**’ in the book. This underlined the first public outcry against antibiotic usage, where the public was furious at food producers. How did the poultry producers justify this practice at the time?
@@ -83,6 +87,8 @@ One particular clinician, as so often happens in these stories, noticed the deve
 
 His work doesn't really lead to ban, it just started to raise awareness. **What actually leads to a ban in this case is consumer power**, because acronization exists for about ten years from the mid-1950s to the late 1960s.
 
+> > _“It's my belief that we can trace the change in policy around antibiotic use in meat animals to consumer pressure”_
+
 By the late 1960s, consumers in the United States are beginning to be _very concerned_ about **food additives** of all kinds. This is the point where they're talking about hormones being given to cattle, the variety of artificial sweeteners that are available, and whether any of them are carcinogens. Against that setting, _adding raw antibiotics to your meat suddenly seems no longer like a good idea_.
 
 I found all these letters to the editor in small local newspapers, with people questioning whether acronization had been a smart idea and committing themselves to buying _only_ un-acronized meat. By 1968, the practice is completely gone away.
@@ -98,6 +104,8 @@ At the same time, “**Silent Spring**” is published in 1962. In the United Ki
 **I don’t think that concern for what is in the meat that people eat has ever gone away.**
 
 In fact, in the United States, it's my belief that we can trace the change in policy around antibiotic use in meat animals to _consumer pressure_, because the United States doesn't actually change its policy at the federal level until 2017. But big companies come out, starting in about 2014.
+
+> _“Meat has become a vehicle for the transport of antibiotic resistant foodborne bacteria away from farms and animals and into the wider society.”_
 
 Big poultry companies, beginning with Perdue Foods, committed themselves to **antibiotic-free raising of poultry**. The reason they do that is _very explicitly_ because they're getting pressure from consumers who want to spend their dollars on meat that is raised _without routine antibiotic use_.
 
@@ -123,13 +131,15 @@ While antibiotics may not have been used in the prototype for subsequent compani
 
 <img src="/img/memphismeat-fried-chicken.jpg" width="100%"/>
 
-If they're not going to do that, not going to be as antibiotics, then **they've got a great selling point**. I have not done an in-depth study, but I think that is one \[question] that the companies are going to have to address. **You can get away without using antibiotics when you’re doing a prototype, but I think the question of scale is a really important one.**
+If they're not going to do that, not going to be using antibiotics, then **they've got a great selling point**. I have not done an in-depth study, but I think that is one \[question] that the companies are going to have to address. **You can get away without using antibiotics when you’re doing a prototype, but I think the question of scale is a really important one.**
 
 The second question, which is not actually specific to antibiotics, but it’s fairly illuminated by the rise of industrial chicken is that poultry around the world: **intellectual property (IP)**.
 
 As birds were hybridized and crossbred to make the modern industrial chicken, chicken became no longer an open-source food. It became _entirely intellectual property_ owned by, really, only two companies now.
 
 Whether you are a giant producer, like Perdue, or a small producer in France, you are buying your chicks time after time from those companies that hold the genetics of chicken. At this point, cattle and pigs are still open source. There are certainly breeds and varieties, and there is some degree of wanting to keep those breeding varieties true, but they are not IP.
+
+> _“If it can stay away from antibiotics, it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.”_
 
 I think the larger philosophical question that consumers are going to ask: **is cellular meat IP, and do consumers actually want that?** Do they want all their food to be owned by big corporations?
 
@@ -143,7 +153,7 @@ It’s IP that’s going to make cellular ag worth doing. That is a really profo
 
 After all, that first very seminal experiment done in the United States, which demonstrated that resistant bacteria arise in animals given antibiotics and then move through the environment to other animals and human beings, was _funded_ by a trade food that was **pro** antibiotic use.
 
-It wasn't academic science that funded that experiment is one of the great ironies. It was actually funded by someone who _wanted_ a negative result. They wanted a result that would endorse that practices and what they got was something that instead jump-started the science of agricultural antibiotic resistance research in the United States.
+It wasn't academic science that funded that experiment is one of the great ironies. It was actually funded by someone who _wanted_ a negative result. They wanted a result that would endorse their practices and what they got was something that instead jump-started the science of agricultural antibiotic resistance research in the United States.
 
 So easy answer was politics.
 
@@ -168,6 +178,8 @@ I think that the success of companies like Perdue in keeping up there their anim
 <img src="/img/memphismeats-southernfriedchicken.jpg" width="100%"/>
 
 In order to do that, you have to do certain other things. You have to improve hygiene, improve animal welfare, and have to improve some of your raising practices. **I know there are people who say that cellular ag will solve the problem. I think that is very much an open question**.
+
+> "As I was telling this story of how antibiotic use in agriculture emerged, I was also really telling the story of how poultry first set the stage for misuse of antibiotics.”
 
 I feel very cautious about whether cellular ag is going to be pulled down the path of antibiotic use as traditional animal ag was. If it's not, if it can stay away from antibiotics, **it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.**
 
