@@ -141,8 +141,7 @@ As birds were hybridized and crossbred to make the modern industrial chicken, ch
 
 Whether you are a giant producer, like Perdue, or a small producer in France, you are buying your chicks time after time from those companies that hold the genetics of chicken. At this point, cattle and pigs are still open source. There are certainly breeds and varieties, and there is some degree of wanting to keep those breeding varieties true, but they are not IP.
 
-> _“If it can stay away from antibiotics, it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.”
-> _
+> _“If it can stay away from antibiotics, it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.”_
 
 I think the larger philosophical question that consumers are going to ask: **is cellular meat IP, and do consumers actually want that?** Do they want all their food to be owned by big corporations?
 
@@ -182,7 +181,7 @@ I think that the success of companies like Perdue in keeping up there their anim
 
 In order to do that, you have to do certain other things. You have to improve hygiene, improve animal welfare, and have to improve some of your raising practices. **I know there are people who say that cellular ag will solve the problem. I think that is very much an open question**.
 
-> "As I was telling this story of how antibiotic use in agriculture emerged, I was also really telling the story of how poultry first set the stage for misuse of antibiotics.”
+> _"As I was telling this story of how antibiotic use in agriculture emerged, I was also really telling the story of how poultry first set the stage for misuse of antibiotics.”_
 
 I feel very cautious about whether cellular ag is going to be pulled down the path of antibiotic use as traditional animal ag was. If it's not, if it can stay away from antibiotics, **it may be that cellular ag solves the problem of satisfying the appetite for meat in an antibiotic-free way.**
 
