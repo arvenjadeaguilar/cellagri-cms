@@ -11,7 +11,11 @@ description: >-
   from modern animal agriculture. McKenna shares her thoughts about antibiotic
   resistance and how those issues may relate to cellular agriculture.
 ---
-Today I am very excited to share our interview with [Maryn McKenna](//marynmckenna.com/). Maryn is an independent journalist and author who specializes in public health, global health, and food policy. She is the author of [Big Chicken](//www.cell.ag/big-chicken-book-review-how-antibiotics-destroyed-agricultural-system/), a book about the evolution of animal agriculture through antibiotics, and received the 2018 Science in Society Award. 
+Today I am very excited to share our interview with [Maryn McKenna](//marynmckenna.com/). Maryn is an independent journalist and author who specializes in public health, global health, and food policy. She is the author of [Big Chicken](//www.cell.ag/big-chicken-book-review-how-antibiotics-destroyed-agricultural-system/), a book about the evolution of animal agriculture through antibiotics, and received the 2018 Science in Society Award for the book. After this interview you will know:
+
+1. The emergence of _antibiotic resistance_ through using antibiotics in animal agriculture
+2. What cellular agriculture needs to address in order to become a viable option for the future of food.
+3. The power consumers have to _change_ our food system
 
 <img src="/img/marynpic.png" width="100%"/>
 
