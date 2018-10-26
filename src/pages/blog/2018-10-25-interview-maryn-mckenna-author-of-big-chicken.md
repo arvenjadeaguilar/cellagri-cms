@@ -23,13 +23,13 @@ Today I am very excited to share our interview with [Maryn McKenna](//marynmcken
 
 **Maryn McKenna:** For most of my career, I have worked on public health as my journalistic subject. As a newspaper reporter, I was assigned to cover the US Centers for Disease Control and Prevention, which meant going to the agency in Atlanta, Georgia, day after day after day and talking to people, calling people, and emailing people. Trying to figure out what was coming out that was interesting with the goal of writing newspaper stories about them.
 
-Part of my job was to go to as many disease outbreak investigations as possible. I went to an outbreak of **MRSA** \[an antibiotic-resistant strain of Staphylococcus aureus] that was being investigated in Los Angeles. It was what we would now call _community MRSA_. The people who have picked it up were very, very sick. They had really severe, very large lesions that in many cases _requiring hospitalization and surgery_.
+Part of my job was to go to as many disease outbreak investigations as possible. I went to an outbreak of **MRSA** \[an antibiotic-resistant strain of Staphylococcus aureus] that was being investigated in Los Angeles. It was what we would now call _community MRSA_. The people who have picked it up were very, very sick. They had really severe, very large lesions that, in many cases, _required hospitalization and surgery_.
 
 I never had really been aware of antibiotic resistance outside the confines of hospitals and learning about the impact of community MRSA, and how widely it had spread, was really shocking to me. That happened to be the same year that a pair of influential papers were published. They said explicitly that the **toll of MRSA year-to-year was beyond the toll of HIV in the United States.**
 
 <img src="/img/scientistresearch.jpeg" width="100%"/>
 
-HIV had been such a touchstone for infectious disease public health for so long. I found that really shocking, so that really led to my book, “[**Superbug**](//marynmckenna.com/books/superbug/)”, which is my chronicle of the emergence of antibiotic resistance using the lens of MRSA to explain where antibiotic resistance just came from, what social practices furthered it, and _why_ we're in such trouble.
+HIV had been such a touchstone for infectious disease public health for so long. I found that really shocking. That really led to my book, “[**Superbug**](//marynmckenna.com/books/superbug/)”, which is my chronicle of the emergence of antibiotic resistance using the lens of MRSA to explain where antibiotic resistance just came from, what social practices furthered it, and _why_ we're in such trouble.
 
 In the process of reporting that book, I realized that there was a really significant portion of the antibiotic resistance problem that had nothing to do with human experience, really. Neither human experience in healthcare nor human experience in acquiring these organisms in the community outside of medical care. **And that was the question of how much will agriculture play.**
 
@@ -117,9 +117,9 @@ Big poultry companies, beginning with Perdue Foods, committed themselves to **an
 
 Before Perdue makes that move in 2014, there are some earlier movers. There has been a health foods movement since the 1970s. There are companies like Chipotle and Whole Foods dating back to the 1990s that are selling antibiotic-free meat.
 
-The power of consumers to speak directly to food production companies, I think, is really evident in the years starting about 2000. Big institutional buyers, like universities and school systems and medical centers, started saying directly to the food production companies that we’re not going to spend our catering budget on your product anymore. Then they're followed by individual moms, chefs, and so forth.
-
 <img src="/img/chickenfeeding.jpg" width="100%"/>
+
+The power of consumers to speak directly to food production companies, I think, is really evident in the years starting about 2000. Big institutional buyers, like universities and school systems and medical centers, started saying directly to the food production companies that we’re not going to spend our catering budget on your product anymore. Then they're followed by individual moms, chefs, and so forth.
 
 _So, what is the lesson in that thing going forward?_ I think there is **no going back on transparency.**
 
