@@ -11,7 +11,7 @@ description: >-
   from modern animal agriculture. McKenna shares her thoughts about antibiotic
   resistance and how those issues may relate to cellular agriculture.
 ---
-Today I am very excited to share our interview with [Maryn McKenna](//marynmckenna.com/). Maryn is an independent journalist and author who specializes in public health, global health, and food policy. She is the author of [Big Chicken](//www.cell.ag/big-chicken-book-review-how-antibiotics-destroyed-agricultural-system/), a book about the evolution of animal agriculture through antibiotics, and received the 2018 Science in Society Award for the book. After this interview you will know:
+Today I am very excited to share our interview with [Maryn McKenna](//marynmckenna.com/). Maryn is an independent journalist and author who specializes in public health, global health, and food policy. She is the author of [Big Chicken](//www.cell.ag/big-chicken-book-review-how-antibiotics-destroyed-agricultural-system/), a book about the evolution of animal agriculture through antibiotics, and received the 2018 Science in Society Award for the book. Maryn has also done a [TedTalk](//www.ted.com/talks/maryn_mckenna_what_do_we_do_when_antibiotics_don_t_work_any_more?language=en) about the emergence of antibiotic resistant bacteria and its healthcare impact. After this interview you will know:
 
 1. The emergence of _antibiotic resistance_ through using antibiotics in animal agriculture.
 2. What cellular agriculture needs to address in order to become a viable option for the future of food.
@@ -139,7 +139,7 @@ While antibiotics may not have been used in the prototype for subsequent compani
 
 If they're not going to do that, not going to be using antibiotics, then **they've got a great selling point**. I have not done an in-depth study, but I think that is one \[question] that the companies are going to have to address. **You can get away without using antibiotics when you’re doing a prototype, but I think the question of scale is a really important one.**
 
-The second question, which is not actually specific to antibiotics, but it’s fairly illuminated by the rise of industrial chicken is that poultry around the world: **intellectual property (IP)**.
+The second question, which is not actually specific to antibiotics but it’s fairly illuminated by the rise of industrial chicken, is that poultry around the world is **intellectual property (IP)**.
 
 As birds were hybridized and crossbred to make the modern industrial chicken, chicken became no longer an open-source food. It became _entirely intellectual property_ owned by, really, only two companies now.
 
