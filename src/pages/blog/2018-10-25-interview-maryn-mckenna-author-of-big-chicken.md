@@ -19,7 +19,7 @@ Today I am very excited to share our interview with [Maryn McKenna](//marynmcken
 
 <img src="/img/marynpic.png" width="100%"/>
 
-**Ahmed Khan:** [Big Chicken](//marynmckenna.com/books/big-chicken/) is one of the two books that you’ve written about the emergence of antibiotic resistance. How did you first passionate about this field and how did that take you toward chicken?
+**Ahmed Khan:** [Big Chicken](//marynmckenna.com/books/big-chicken/) is one of the two books that you’ve written about the emergence of antibiotic resistance. How did you first become passionate about this field and how did that take you toward chicken?
 
 **Maryn McKenna:** For most of my career, I have worked on public health as my journalistic subject. As a newspaper reporter, I was assigned to cover the US Centers for Disease Control and Prevention, which meant going to the agency in Atlanta, Georgia, day after day after day and talking to people, calling people, and emailing people. Trying to figure out what was coming out that was interesting with the goal of writing newspaper stories about them.
 
