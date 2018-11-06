@@ -44,9 +44,11 @@ Plant-based today. Cell-based meats _tomorrow_?
 
 ## A Joint Pathway Forward
 
-In Washington D.C., the US Department of Agriculture (USDA) and Food and Drug Association (FDA) held a joint [public meeting](//www.fda.gov/Food/NewsEvents/WorkshopsMeetingsConferences/ucm619874.htm) over the regulation of cell-based meats. During the two-day event, the two agencies stated that they intend to _jointly_ [regulate](//newfoodeconomy.org/usda-fda-lab-grown-cell-cultured-joint-regulation/) these products. This will be the first instance where both agencies are in charge of regulating a field of products. It will be interesting to see what pathway moving forward the two agencies develop. Regulation is one of the main [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead/) for cellular agriculture, and this story about will be in charge of regulating is continuously unfolding. There are still many questions that were brought up over what cell-cultured products would look like at scale. Will _antibiotics_ be required to keep the cell culture serum sterile? How will the products be _labelled_? And, most of all, what will the product even be [called](//www.cell.ag/fight-for-word-meat/)?
+In Washington D.C., the US Department of Agriculture (USDA) and Food and Drug Association (FDA) held a joint [public meeting](//www.fda.gov/Food/NewsEvents/WorkshopsMeetingsConferences/ucm619874.htm) over the regulation of cell-based meats. During the two-day event, the two agencies stated that they intend to _jointly_ [regulate](//newfoodeconomy.org/usda-fda-lab-grown-cell-cultured-joint-regulation/) these products. This will be the first instance where both agencies are in charge of regulating a field of products. It will be interesting to see what pathway moving forward the two agencies develop. 
 
 <img src="/img/burger.jpeg" width="100%"/>
+
+Regulation is one of the main [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead/) for cellular agriculture, and this story about will be in charge of regulating is continuously unfolding. There are still many questions that were brought up over what cell-cultured products would look like at scale. Will _antibiotics_ be required to keep the cell culture serum sterile? How will the products be _labelled_? And, most of all, what will the product even be [called](//www.cell.ag/fight-for-word-meat/)?
 
 ## Conclusion
 
