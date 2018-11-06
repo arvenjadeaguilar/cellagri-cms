@@ -34,8 +34,6 @@ In this role, you will have the opportunity to provide effective legal, complian
 
 \- Perform other duties as assigned.
 
-
-
 **Who We’re Looking For**
 
 _The General Counsel must have:_
@@ -56,9 +54,7 @@ _The General Counsel must have:_
 
 \- Strong support for GFI’s philosophy and mission.
 
-
-
-_**The Fine Print:**_
+**_The Fine Print:_**
 
 \- **Terms of employment**: Full-time, exempt
 
@@ -72,4 +68,4 @@ _**The Fine Print:**_
 
 \- **Salary**: $75,000-$85,000
 
-## **Application Deadline: December 16, 2018**
+## Application Deadline: December 16, 2018
