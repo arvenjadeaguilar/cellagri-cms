@@ -8,7 +8,7 @@ description: >-
   From new investments to the first cell-cultured pet food on sale, learn about
   what happened this October in cellular agriculture!
 ---
-October was a strong start to the fourth quarter for cellular agriculture following all the great news from the third quarter. Cellular agriculture (‘cell ag’) is the field of growing animal products (like meat and leather) from cell cultures instead of animals, and it offers an alternative and sustainable way to produce animal products to meet the growing global demand for animal products. Without requiring animals. From new investments to the first joint-regulatory meeting in the US, this article will take a look at some of the key events during the month of October.
+October was a strong start to the fourth quarter for cellular agriculture following all the great news from the third quarter. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food) (‘cell ag’) is the field of growing animal products (like meat and leather) from cell cultures instead of animals, and it offers an alternative and [sustainable](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment/) way to produce animal products to meet the growing global demand for animal products. _Without requiring animals_. From new investments to the first joint-regulatory meeting in the US, this article will take a look at some of the key events during the month of October.
 
 ## Investment
 
