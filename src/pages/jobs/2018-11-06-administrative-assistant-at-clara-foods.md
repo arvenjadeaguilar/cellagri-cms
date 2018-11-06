@@ -10,7 +10,7 @@ We are seeking an exceptional “can-do” **Administrative Assistant** who is h
 
 
 
-**Reports To: **Chief Executive Officer
+**Reports To:** Chief Executive Officer
 
 **Hours**: 40 hours per week
 
