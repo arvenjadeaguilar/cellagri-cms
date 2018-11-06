@@ -1,6 +1,6 @@
 ---
 title: Process Engineer II at Geltor
-position: Process Engineer
+position: Process Engineer II
 templateKey: jobs-post
 path: /jobs/geltor/process-engineer
 date: '2018-10-14T12:12:31-04:00'
