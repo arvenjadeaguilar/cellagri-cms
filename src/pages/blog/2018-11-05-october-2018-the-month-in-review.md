@@ -12,13 +12,13 @@ October was a strong start to the fourth quarter for cellular agriculture follow
 
 ## Investment
 
-This month, Geltor announced that they raised a massive $18.2 million to complete their Series A financing. The round of funding was led by Cultivan Sandbox Ventures and included investments from GELITA, ADM Ventures, and seed investors Fifty Years, Stray Dog Capital, SOSV, and New Crop Ventures.
+This month, [Geltor](//www.geltor.com) announced that they raised a massive [**$18.2 million**](//medium.com/cellagri/geltor-raises-18-2m-to-change-collagen-forever-5d5426a81c68) to complete their Series A financing. The round of funding was led by Cultivan Sandbox Ventures and included investments from GELITA, ADM Ventures, and seed investors Fifty Years, Stray Dog Capital, SOSV, and New Crop Ventures.
 
 <img src="/img/geltorsquare.jpg" width="100%"/>
 
-Unlike traditional collagen that is sourced from the bones and skins of livestock animals or fish, Geltor uses cellular agriculture to grow animal-free collagen protein. Collagen has many functions and can be used to make many different products, like gelatin, leather, and cosmetic products. In May, Geltor won the CEW’s Award for Innovation for 2018 for their first product: N-Collage, a collagen product for skincare use. The CEW Awards is one of the beauty industry’s top awards, and it’s promising that Geltor’s innovative product earned them early recognition in the industry. Recently, Geltor was also named in CNBC’s list of 100 startups to watch.
+Unlike traditional collagen that is sourced from the bones and skins of livestock animals or fish, Geltor uses cellular agriculture to grow animal-free **collagen** protein. Collagen has many functions and can be used to make many different products, like gelatin, leather, and cosmetic products. [In May](//www.cell.ag/may-2018-month-in-review/), Geltor won the CEW’s Award for Innovation for 2018 for their _first_ product: _N-Collage_, a collagen product for skincare use. The CEW Awards is one of the beauty industry’s top awards, and it’s promising that Geltor’s innovative product earned them early recognition in the industry. Recently, Geltor was also named in [CNBC’s](//www.cnbc.com/2018/10/09/lab-grown-gelatin-is-the-fake-food-of-the-future-a-start-up-believes.html) list of 100 startups to watch.
 
-Geltor plans to use their round of funding to get their animal-free collagen in food products by 2020. With that timeline, Geltor will be one of the first food cell ag products out!
+Geltor plans to use their round of funding to get their animal-free collagen in food products by 2020. With that timeline, Geltor will be one of the first food [cell ag products out](//medium.com/cellagri/cellular-agriculture-the-products-leading-a-revolution-53a95ef9c67d)!
 
 ## Wild Earth Revamped
 
@@ -26,17 +26,13 @@ Geltor plans to use their round of funding to get their animal-free collagen in 
 
 <img src="/img/puppies.jpg" width="100%"/>
 
-
-
 ## Plant-Based Goes Public?
 
 [Beyond Meat](//www.beyondmeat.com/) hired investment banks for an [initial public offering](//www.cnbc.com/2018/10/17/beyond-meat-vegan-food-company-taps-investment-banks-for-ipo.html) to become a public company. Beyond Meat is the company behind the increasingly popular [Beyond Burger](//medium.com/cellagri/tasting-the-future-the-beyond-burger-fb01622d9e14). The Beyond Burger is a plant-based meat burger that is meant to have the same taste and texture as meat. Beyond Meat will be the _first_ public stock offering from the wave of companies making alternatives to conventional animal meat. It will be interesting to see the precedent that Beyond Meat will set for other companies working to change the _future of food_.
 
 <img src="/img/beyond-meat.jpg" width="100%"/>
 
-
-
-## The Impossible Genius 
+## The Impossible Genius
 
 [Impossible Foods](//impossiblefoods.com/) was named one of Time Magazine’s [Top 50 Genius Companies](//time.com/collection/genius-companies-2018/5412506/impossible-foods/). Alongside companies like 23andMe, Apple, and Amazon, this list recognizes the top companies that are _inventing_ the future.  Having tasted their [Impossible Burger](//medium.com/cellagri/tasting-the-future-the-impossible-burger-410fedabfdce), it’s easy to see why their [plant-based](//www.cell.ag/plant-based-meats) meat will be a part of the future of food.
 
@@ -44,11 +40,7 @@ Geltor plans to use their round of funding to get their animal-free collagen in 
 
 Even though the Impossible and Beyond Burgers are plant-based meat alternatives, their successful rise is a positive sign. It shows that people are _willing_ to embrace alternatives to conventional animal products that offer a more sustainable and environmentally friendly option. 
 
-
-
 Plant-based today. Cell-based meats _tomorrow_?
-
-
 
 ## A Joint Pathway Forward
 
