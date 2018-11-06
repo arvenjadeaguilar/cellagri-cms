@@ -8,7 +8,7 @@ description: >-
   From new investments to the first cell-cultured pet food on sale, learn about
   what happened this October in cellular agriculture!
 ---
-October was a strong start to the fourth quarter for cellular agriculture following all the great news from the third quarter. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food) (‘cell ag’) is the field of growing animal products (like meat and leather) from cell cultures instead of animals, and it offers an alternative and [sustainable](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment/) way to produce animal products to meet the growing global demand for animal products. _Without requiring animals_. From new investments to the first joint-regulatory meeting in the US, this article will take a look at some of the key events during the month of October.
+October was a strong start to the fourth quarter for cellular agriculture. [Cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food) (‘cell ag’) is the field of growing animal products (like meat and leather) from cell cultures instead of animals, and it offers an alternative and [sustainable](//www.cell.ag/3-ways-cell-ag-can-help-save-the-environment/) way to produce animal products. _Without requiring animals_. From new investments to the first joint-regulatory meeting in the US, this article will take a look at some of the key events during the month of October.
 
 ## Investment
 
@@ -28,7 +28,7 @@ Geltor plans to use their round of funding to get their animal-free collagen in 
 
 ## Plant-Based Goes Public?
 
-[Beyond Meat](//www.beyondmeat.com/) hired investment banks for an [initial public offering](//www.cnbc.com/2018/10/17/beyond-meat-vegan-food-company-taps-investment-banks-for-ipo.html) to become a public company. Beyond Meat is the company behind the increasingly popular [Beyond Burger](//medium.com/cellagri/tasting-the-future-the-beyond-burger-fb01622d9e14). The Beyond Burger is a plant-based meat burger that is meant to have the same taste and texture as meat. Beyond Meat will be the _first_ public stock offering from the wave of companies making alternatives to conventional animal meat. It will be interesting to see the precedent that Beyond Meat will set for other companies working to change the _future of food_.
+[Beyond Meat](//www.beyondmeat.com/) hired investment banks for an [initial public offering](//www.cnbc.com/2018/10/17/beyond-meat-vegan-food-company-taps-investment-banks-for-ipo.html) to become a public company. Beyond Meat is the company behind the increasingly popular [Beyond Burger](//medium.com/cellagri/tasting-the-future-the-beyond-burger-fb01622d9e14). The Beyond Burger is a plant-based meat burger that is meant to have the same taste and texture as meat. Beyond Meat will be the _first_ public stock offering from the wave of companies making alternatives to conventional animal meat. It will be interesting to see the precedent that Beyond Meat sets for other companies looking for exits while changing the _future of food_.
 
 <img src="/img/beyond-meat.jpg" width="100%"/>
 
@@ -44,17 +44,17 @@ Plant-based today. Cell-based meats _tomorrow_?
 
 ## A Joint Pathway Forward
 
-In Washington D.C., the US Department of Agriculture (USDA) and Food and Drug Association (FDA) held a joint [public meeting](//www.fda.gov/Food/NewsEvents/WorkshopsMeetingsConferences/ucm619874.htm) over the regulation of cell-based meats. During the two-day event, the two agencies stated that they intend to _jointly_ [regulate](//newfoodeconomy.org/usda-fda-lab-grown-cell-cultured-joint-regulation/) these products. This will be the first instance where both agencies are in charge of regulating a field of products. It will be interesting to see what pathway moving forward the two agencies develop. 
+In Washington D.C., the US Department of Agriculture (USDA) and Food and Drug Association (FDA) held a joint [public meeting](//www.fda.gov/Food/NewsEvents/WorkshopsMeetingsConferences/ucm619874.htm) over the regulation of cell-based meats. During the two-day event, the two agencies stated that they intend to _jointly_ [regulate](//newfoodeconomy.org/usda-fda-lab-grown-cell-cultured-joint-regulation/) these products. This will be the _first_ instance where both agencies are in charge of regulating a field of products. It will be interesting to see what pathway moving forward the two agencies develop. 
 
 <img src="/img/burger.jpeg" width="100%"/>
 
-Regulation is one of the main [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead/) for cellular agriculture, and this story about will be in charge of regulating is continuously unfolding. There are still many questions that were brought up over what cell-cultured products would look like at scale. Will _antibiotics_ be required to keep the cell culture serum sterile? How will the products be _labelled_? And, most of all, what will the product even be [called](//www.cell.ag/fight-for-word-meat/)?
+Regulation is one of the main [obstacles ahead](//www.cell.ag/cell-ag-obstacles-ahead/) for cellular agriculture, and this story is continuously unfolding. There are still many questions that were brought up over what cell-cultured products would look like at scale. Will _antibiotics_ be required to keep the cell culture serum sterile? How will the products be _labelled_? And, most of all, what will the product even be [called](//www.cell.ag/fight-for-word-meat/)?
 
 ## Conclusion
 
-[In January](//www.cell.ag/january-2018-month-in-review/), Geltor surprised many to make the first cell ag leather using jellyfish collagen to bound a copy of Paul Shapiro’s book [Clean Meat](//cleanmeat.com/). Coupled with their latest round of funding, October continues the great year for Geltor. And for cellular agriculture.
+[In January](//www.cell.ag/january-2018-month-in-review/), Geltor surprised many to make the first cell ag leather using _jellyfish_ collagen to bound a copy of Paul Shapiro’s book [Clean Meat](//cleanmeat.com/). Coupled with their latest round of funding, October continues the great year for Geltor. And for cellular agriculture.
 
-It is promising to see that the USDA and FDA seem to have agreed upon a joint regulatory pathway forward. While there are still questions about how that will look, it is now important that regulators to communicate with the respective companies and industries to help grow and support the _future of food_. 
+It is promising to see that the USDA and FDA seem to have agreed upon a joint regulatory pathway forward. While there are still questions about how that will look, it is now important that regulators communicate with the respective companies and industries to help grow and support the _future of food_. 
 
 <img src="/img/cowsmountain.jpg" width="100%"/>
 
