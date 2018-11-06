@@ -38,8 +38,6 @@ GFI is expanding its work to Europe and is looking for an independent contractor
 
 \- Development: Craft a fundraising plan to hire more staff and advance GFI’s mission in Europe and assist the director of international engagement in executing the plan.
 
-
-
 **Who We’re Looking For:**
 
 _The Managing Director, Europe must have:_
@@ -60,9 +58,7 @@ _The Managing Director, Europe must have:_
 
 \- Firsthand knowledge of European cultural, business, and legal norms.
 
-
-
-**_The Fine Print:_**
+_**The Fine Print:**_
 
 **Terms of employment**: Full-time, contract 
 
@@ -72,4 +68,4 @@ _The Managing Director, Europe must have:_
 
 **Salary**: The salary range for this position is $45,000-$65,000 USD but will be adjusted based on cost of living where the finalist is based.
 
-## **Application Deadline: December 9, 2018**
+## Application Deadline: December 9, 2018
