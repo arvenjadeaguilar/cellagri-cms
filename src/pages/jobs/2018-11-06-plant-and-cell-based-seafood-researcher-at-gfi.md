@@ -70,7 +70,7 @@ The report will be used internally and shared with prospective partners and fund
 
 ## To Apply
 
-Please provide the following materials to Renee Bell, Editor and Assistant (reneeb@gfi.org), to be considered for this contract engagement. **The deadline is November 25, 2018. **
+Please provide the following materials to Renee Bell, Editor and Assistant (reneeb@gfi.org), to be considered for this contract engagement. **The deadline is November 25, 2018.**
 
 \- Cover letter.
 
