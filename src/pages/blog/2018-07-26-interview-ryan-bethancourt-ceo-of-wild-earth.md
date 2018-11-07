@@ -35,7 +35,7 @@ One of the challenges during the Berkeley Biolabs times was that we needed money
 
 > > _"Everything we do has be very real and very science-based"_
 
-That was my initial vision and I came across a venture firm called SOS Ventures. They made see it was possible to do an accelerator model off of it, because they had previously run other accelerators. 
+That was my initial vision and I came across a venture firm called SOS Ventures. They made me see it was possible to do an accelerator model off of it, because they had previously run other accelerators. 
 
 I spoke about doing it in San Francisco with Sean O'Sullivan, who is the Managing General Partner of SOS Ventures, and Arvind Gupta, who is the San Francisco Partner, and they both liked the idea. That is essentially how IndieBio started. Myself and Ron joined forces with Arvind, who was a representative for Sean O’Sullivan in San Francisco, and we were a part of the IndieBio co-founding team.
 
