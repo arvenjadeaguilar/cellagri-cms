@@ -3,7 +3,7 @@ templateKey: company-post
 path: /memphismeats
 date: '2018-07-28T11:00:00-04:00'
 title: Memphis Meats
-location: 'Berkely, California'
+location: 'Berkeley, California'
 website: memphismeats.com
 socialMedia:
   - media: Twitter
