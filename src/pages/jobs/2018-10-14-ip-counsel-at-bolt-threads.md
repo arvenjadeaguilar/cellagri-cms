@@ -40,7 +40,7 @@ _The Work:_
 
 
 
-** This Team will be Excited to Have You Because You Bring...**
+**This Team will be Excited to Have You Because You Bring...**
 
 \-  JD degree and member of the State bar of California bar or another U.S. state and eligible to practice law as registered in-house counsel in California.
 
