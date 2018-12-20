@@ -44,7 +44,7 @@ Clara Foods applied to be a part of IndieBio’s first class in 2015. “\[Co-fo
 
 <img src="/img/clarafoodsmeringues.jpeg" width="100%"/>
 
-> _Clara Foods presented animal-free meringues during their Demo Day_
+> _Clara Foods presented animal-free meringues at IndieBio's inaugural Demo Day_
 
 In spite of concerns over whether people would want cell-grown foods, Clara Foods went on to raise its seed round of **$1.75 million** during IndieBio with their innovative approach to animal-free egg white. 
 
