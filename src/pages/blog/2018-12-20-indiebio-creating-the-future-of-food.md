@@ -8,15 +8,19 @@ description: >-
   Learn how IndieBio helped build the future of food with cellular agriculture,
   starting from their inaugural class
 ---
+<img src="/img/indiebiocover.jpeg" width="100%"/>
+
 In November, [IndieBio](//indiebio.co) presented the next generation of biotech.
 
 IndieBio is a world-leading life science accelerator based in San Francisco, California. Backed by [SOS Ventures](//sosv.com), IndieBio invited the world to meet its 7th class of startups at their Demo Day. For the last 4 months, these startups worked out of IndieBio’s lab space learning how to transform their science into viable businesses.
 
 From innovative treatments to new medical devices, IndieBio’s Demo Day showcased a variety of startups looking to change the future of healthcare and sustainability. Including IndieBio’s latest [cellular agriculture](//www.cell.ag/cellular-agriculture-future-of-food) company.
 
-<img src="/img/indiebiocover.jpeg" width="100%"/>
+<img src="/img/img_3365.jpg" width="100%"/>
 
-[New Age Meats](//newagemeats.com) is a new startup looking to bring the best practices in automation and data science into cell ag to help scale production. In September, New Age Meats showed that by presenting the _first_ public taste test of a cell-cultured pork sausage. Just _2 months_ after starting at IndieBio. 
+> _New Age Meats co-founder Brian Spears presents the future of food_
+
+[New Age Meats](//newagemeats.com) is a new startup looking to bring the best practices in automation and data science into cell ag to help scale production. In [September](//www.cell.ag/september-2018-month-in-review/), New Age Meats showed that by presenting the _first_ public taste test of a cell-cultured pork sausage. Just _2 months_ after starting at IndieBio. 
 
 IndieBio’s history with cellular agriculture goes further than New Age Meats and back to their first class of startups. Beyond growing and supporting new cell ag startups, IndieBio’s role helped commercialize the entire field.
 
@@ -26,7 +30,7 @@ I had the opportunity to speak to **Arvind Gupta**, Founder of IndieBio and Gene
 
 <img src="/img/img_3348.jpg" width="100%"/>
 
-> > _Arvind Gupta, front, starts off IndieBio's Demo Day_
+> _Arvind Gupta, front, starts off IndieBio's Demo Day_
 
 ## It all started with Clara Foods
 
@@ -39,6 +43,10 @@ That all changed with Clara Foods.
 Clara Foods applied to be a part of IndieBio’s first class in 2015. “\[Co-founders] Arturo \[Elizondo] and David \[Anchel] applied with an idea on paper to make egg whites without the chicken,” Gupta shared. “It was biologically a very simple plan. There was no risk in the biology. The risk was really in the market. And the market size and the problem \[Clara Foods] solved was huge.”
 
 <img src="/img/clarafoodsmeringues.jpeg" width="100%"/>
+
+> _Clara Foods presented animal-free meringues during their Demo Day_
+>
+>  
 
 In spite of concerns over whether people would want cell-grown foods, Clara Foods went on to raise its seed round of **$1.75 million** during IndieBio with their innovative approach to animal-free egg white. 
 
@@ -54,6 +62,8 @@ Gupta pointed out that “Memphis Meats made the first \[cell-cultured] meatball
 
 <img src="/img/memphismeat-meatball.jpg" width="100%"/>
 
+> _Cell-based meatball by Memphis Meats_
+
 At the same time as Memphis Meats, [Geltor](//geltor.com) also joined IndieBio looking to find a way to apply their unique platform.
 
 “Geltor really had a different approach,” Gupta explained. “They had a bacterial platform for producing protein. And the question was: what should they produce? We didn’t take it for granted that it would be food. After looking at all the proteins and doing a potential product review, we settled on **collagen**.
@@ -63,6 +73,8 @@ At the same time as Memphis Meats, [Geltor](//geltor.com) also joined IndieBio l
 It came as no surprise then for Gupta and IndieBio that Geltor became one of the first cell ag companies to have a product on the market: N-Collage, a collagen product for skincare use. In May, Geltor’s N-Collage won the CEW’s Award for Innovation for 2018. The CEW Awards is one of the beauty industry’s top awards, and it’s promising that Geltor’s first product earned them recognition through the industry.
 
 <img src="/img/geltorsquare.jpg" width="500px"/>
+
+> _Geltor's collagen. Without requiring animals._
 
 ## “Why should we do another one?”
 
@@ -96,6 +108,8 @@ Gupta was confident that the number of companies in the cell ag space will conti
 
 <img src="/img/salmon-fillet.jpeg" width="100%"/>
 
+> _Where will fresh salmon come from in the future?_
+
 Gupta’s key example of how cell ag can disrupt the food supply chain was seafood. “Think about fish. You’ve got fisherman going into the ocean. Those fishermen go to the docks, and then you have dock workers that unload the fish and hand it off to the local distributors. That local distributor then sends it to Whole Foods, or the restaurant. You have all those chains that, again, will go away.”
 
 Cell ag would allow for fresher seafood in landlocked areas by locally producing it. “If you’re in Iowa, you’re going to have _fresh_ fish.”
@@ -109,6 +123,8 @@ From Clara Foods in their first class to Memphis Meats and Geltor in their secon
 When asked what the future of food will look like, Gupta doesn’t believe cellular agriculture will replace animal agriculture entirely. “The answer is **more** **choices**,” he explained, “which is wonderful.”
 
 <img src="/img/img_3379.jpg" width="100%"/>
+
+> _Closing remarks by Arvind Gupta at Demo Day_
 
 “Are people going to stop fishing? **No**. People will not stop fishing. Will we take the pressure off of overfishing? **Yes**, we will take the pressure off of overfishing. We’ll give access to high quality adult protein to far more people on the planet, and that’s going to be a very important turning point for humanity.”
 
@@ -124,4 +140,4 @@ Until then, IndieBio and Gupta will continue to support new startups building th
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-To apply to IndieBio visit www.IndieBio.co/apply
+To apply to IndieBio visit [www.IndieBio.co/apply](//www.IndieBio.co/apply)
