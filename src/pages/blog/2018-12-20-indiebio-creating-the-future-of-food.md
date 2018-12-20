@@ -68,7 +68,7 @@ At the same time as Memphis Meats, [Geltor](//geltor.com) also joined IndieBio l
 
 “Collagen (and gelatin) gives you multiple price points at different purities. That allows you different markets to enter and get to revenue faster.” 
 
-It came as no surprise then for Gupta and IndieBio that Geltor became one of the first cell ag companies to have a product on the market: N-Collage, a collagen product for skincare use. In May, Geltor’s N-Collage won the CEW’s Award for Innovation for 2018. The CEW Awards is one of the beauty industry’s top awards, and it’s promising that Geltor’s first product earned them recognition through the industry.
+It came as no surprise then for Gupta and IndieBio that Geltor became one of the first cell ag companies to have a product on the market: N-Collage, a collagen product for skincare use. [In May](//www.cell.ag/may-2018-month-in-review/), Geltor’s N-Collage won the CEW’s Award for Innovation for 2018. The CEW Awards is one of the beauty industry’s top awards, and it’s promising that Geltor’s first product earned them recognition through the industry.
 
 <img src="/img/geltorsquare.jpg" width="500px"/>
 
@@ -84,9 +84,9 @@ The following year in 2017, [Finless Foods](//www.finlessfoods.com) was accepted
 
 Most recently, New Age Meats was accepted as part of IndieBio’s 7th class of startups. And Arvind initially didn’t want them.
 
-“**I didn’t want to do just another cell based company**. We already have Finless, we already have Memphis. _Why should we do another one?_
+“**I didn’t want to do just another cell-based company**. We already have Finless, we already have Memphis. _Why should we do another one?_
 
-“But New Age had such a good team and such a good mindset and a new technological approach that we ended up funding them. And thankfully, because **they went on to make product in a month and a half, the fastest we’ve ever seen**. And then fed it to reporters who wrote glowingly about it. It’s remarkable.” 
+“But New Age had such a good team and such a good mindset and a new technological approach that we ended up funding them. And thankfully, because **they went on to make product in a month and a half, the fastest we’ve ever seen**. And then fed it to reporters who [wrote](//www.businessinsider.com/taste-test-first-cell-based-clean-sausage-meat-made-without-farm-2018-9?r=US&IR=T) glowingly about it. It’s remarkable.” 
 
 <img src="/img/img_3362.jpg" width="500px"/>
 
