@@ -22,7 +22,7 @@ _The Experience_
 
 
 
-_ The Work_
+_The Work_
 
 \- Act as a thought partner and coach to all employees and managers across the company
 
