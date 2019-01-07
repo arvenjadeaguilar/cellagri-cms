@@ -3,7 +3,7 @@ title: 'Process Development Scientist/Engineer, Cell Culture at Just'
 position: 'Process Development Scientist/Engineer, Cell Culture'
 templateKey: jobs-post
 path: /jobs/just/process-development-scientist-engineer-cell-culture
-date: '2019-01-07T12:36:02+04:00'
+date: '2019-01-07T00:36:02+04:00'
 companyRelated: /just
 ---
 You will be a key member of our **Bioprocessing team** in our Cellular Agriculture department and essential in producing sustainable and cost-effective clean meat products. You will be responsible for developing and scaling up our animal cell culture platform and will partner with experts in cell biology, process engineering and manufacturing teams to accomplish the above.
