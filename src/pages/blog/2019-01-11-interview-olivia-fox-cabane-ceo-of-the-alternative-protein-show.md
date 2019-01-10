@@ -44,7 +44,7 @@ These days, I'm trying to update it only once a month. After the show, it'll pro
 
 **Olivia**: I’m in the heart of Silicon Valley. My biggest clients are Google, Airbnb, etc. and, even from here, **I have never seen an industry grow as fast as the alternative protein industry is growing. Never.**
 
-The most dramatic learning for me is that there are at least 2 to 1, if not 3 to 1, funders to startups, meaning that there are at least two or three more VCs trying to fund companies as their companies to fund.
+The most dramatic learning for me is that there are at least 2 to 1, if not 3 to 1, funders to startups, meaning that there are _at least two or three more VCs_ trying to fund companies as their companies to fund.
 
 **Ahmed**: Has been much contact and communication between you and VCs looking for companies in this space?
 
@@ -132,8 +132,8 @@ The number one issue that clean meat startups are facing is _lack of technical t
 
 **Ahmed**: Thank you very much for your time. Is there anything else you would like to add about the Alternative Protein Show?
 
-**Olivia**: We really wanted the Alternative Protein Show to be as accessible as possible to as many people as possible, **so we've made student tickets just $50.** 
+**Olivia**: We really wanted the [Alternative Protein Show](//www.newprotein.org) to be as accessible as possible to as many people as possible, **so we've made student tickets just $50.** 
 
-If you have any interest in the field, and if you can't afford $50 dollars, you know what? Contact us. We'll find a way to make it work. We're looking to make this as accessible as possible for as many people as possible.
+If you have any interest in the field, and if you can't afford $50 dollars, you know what? [Contact us](//www.newprotein.org/contact/). We'll find a way to make it work. We're looking to make this as accessible as possible for as many people as possible.
 
 <img src="/img/cowsmountain.jpg" width="100%"/>
