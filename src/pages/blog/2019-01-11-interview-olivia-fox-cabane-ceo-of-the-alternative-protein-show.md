@@ -42,7 +42,7 @@ These days, I'm trying to update it only once a month. After the show, it'll pro
 
 **Ahmed**: Having updated the landscape constantly and see all these new companies and categories, what is something you've learned about the space overall from the landscapes?
 
-**Olivia**: I’m in the heart of Silicon Valley. My biggest clients are Google, Airbnb, etc. and, even from here,** I have never seen an industry grow as fast as the alternative protein industry is growing. Never.**
+**Olivia**: I’m in the heart of Silicon Valley. My biggest clients are Google, Airbnb, etc. and, even from here, **I have never seen an industry grow as fast as the alternative protein industry is growing. Never.**
 
 The most dramatic learning for me is that there are at least 2 to 1, if not 3 to 1, funders to startups, meaning that there are at least two or three more VCs trying to fund companies as their companies to fund.
 
@@ -81,6 +81,8 @@ There will also be, for example, **matchmaking for technical problems and techni
 **Now it is a three-day event**. The first day \[January 15th] is a fundraising workshop specifically geared towards international entrepreneurs, although there will be something for everyone. I'll be giving them a very accelerated version of the curriculum I used to give my Stanford kids. Same thing. For example, the American handshake, it seems simple. **It's not**. It's actually a whole complex of moving parts, and you have to get every single piece right. So that’s the first day \[January 15th].
 
 The 16th is the actual conference day. But only the ground floor is going to be the expo, with the top floor being breakout sessions, four of which can be running concurrently throughout the day. That means that during the day, at any given time, you can choose _one of four_ breakout sessions on very different topics. Or you can wander around the expo that covers over two floors, and, _of course_, there is going to be a whole amount of food sampling. [Improved Nature](//www.improvednature.com/) is going to be our lunch.
+
+<img src="/img/officedesk.jpeg" width="100%"/>
 
 We’re also running our technical solution and technical problem matchmaking. We're going to have companies like [Ecovative](//ecovativedesign.com) presenting what mycelia can do for scaffolding. [DSM](//www.dsm.com/corporate/home.html), which has phenomenal science and research in all kinds of nutrients, will be presenting a couple solutions they've come up with.
 
