@@ -2,7 +2,7 @@
 templateKey: company-post
 path: /seafuture
 date: '2018-03-01T21:17:50-05:00'
-title: Seafuture Sustainable biotech
+title: Seafuture Sustainable Biotech
 location: 'Calgary, Canada'
 website: www.seafuturebio.com/
 socialMedia:
