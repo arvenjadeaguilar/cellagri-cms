@@ -12,7 +12,7 @@ logo: /img/shiokmeatlogo.jpg
 thumbnail: /img/shiokmeatlogo.jpg
 description: >-
   Shiok Meats is a new startup that uses cellular agriculture startup to grow
-  cell-based seafood. Shiok Meats is the first cellular agriculture company
-  based in Singapore.
+  cell-based seafood. Founded by Sandhya Sriram and Ka Yi Ling, Shiok Meats is
+  the first cellular agriculture company based in Singapore.
 ---
 
