@@ -16,7 +16,7 @@ With much progress in the field, December marks the end of a successful year for
 
 [Aleph Farms](//aleph-farms.com) is an Israeli startup that uses cellular agriculture to make cell-based beef. In May, [Aleph Farms announced](//www.cell.ag/aleph-farms-technology-will-change-cultured-meat) that they found a way to make a more structured and complex meat product through their proprietary tissue engineering platform. And their breakthrough this month was _incredible_.
 
-Once thought to be one of the biggest challenges for the field, Aleph Farms produced the_ first_ **cell-grown beef steak**_._ Without requiring animals. In a recent [Washington Post interview](//www.wsj.com/video/series/moving-upstream/tasting-the-worlds-first-test-tube-steak/4C73A8BC-94DC-4E2E-A85C-0B8689FB7B31), Aleph Farms co-founder and CEO Didier Toubia acknowledged that they’re not just there yet. Toubia said they’re about “60-70%” of what they want their final cell-grown steak to taste like.
+Once thought to be one of the biggest challenges for the field, Aleph Farms produced the _first_ **cell-grown beef steak**. Without requiring animals. In a recent [Washington Post interview](//www.wsj.com/video/series/moving-upstream/tasting-the-worlds-first-test-tube-steak/4C73A8BC-94DC-4E2E-A85C-0B8689FB7B31), Aleph Farms co-founder and CEO Didier Toubia acknowledged that they’re not just there yet. Toubia said they’re about “60-70%” of what they want their final cell-grown steak to taste like.
 
 <img src="/img/alephfarmssteak2.jpeg" width="100%"/>
 
