@@ -22,9 +22,7 @@ GFI is 100% supported by philanthropy, and currently, most of our funding is com
 
 \- Crafting and presenting creative funding proposals, identifying new and unique opportunities for fundraising growth, and preparing compelling personalized progress reports.
 
-
-
-_Who We’re Looking For_
+**Who We’re Looking For**
 
 **The Philanthropy Officer - Western U.S. must have:**
 
@@ -47,8 +45,6 @@ _Who We’re Looking For_
 \- Comfort working remotely and in a rapidly growing and evolving organization.
 
 \- Strong support for GFI’s philosophy and mission and adherence to a plant-based lifestyle.
-
-
 
 ## The Fine Print:
 
