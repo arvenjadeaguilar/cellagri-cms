@@ -10,9 +10,11 @@ As the **Director of Technology Strategy** for Clara Foods™, you will be leadi
 
 **Reports directly to**: Chief Executive Officer
 
-## Role and Responsibilities:
 
-**Technology Platform Strategy:**
+
+**Role and Responsibilities:**
+
+_Technology Platform Strategy:_
 
 \- In partnership with the rest of Clara’s leadership team, architect a 5-year comprehensive technology roadmap by leveraging past experience, competitive intelligence, internal team members and external resources. 
 
@@ -20,29 +22,29 @@ As the **Director of Technology Strategy** for Clara Foods™, you will be leadi
 
 \- Interface with Board of Directors and Board of Advisors as well as current and prospective investors to showcase Clara’s growing platform capabilities and technology strategy. 
 
-**External Partnerships:**
+_External Partnerships:_
 
 \- Identify key technology licensing/insourcing opportunities to augment in-house technical capabilities and collaborate with legal counsel to negotiate deals. Work with external partners to outsource non-critical functions (e.g. contract manufacturing).
 
-**Project Management:**
+_Project Management:_
 
 \- Successfully project manage R&D teams towards key technical milestones across our protein portfolio and key strategic areas below (automation/operations, IP, and data science).
 
-## Functions to Manage:
+**Functions to Manage:**
 
-**Automation and Operational Excellence:**
+_Automation and Operational Excellence:_
 
 \- Identify gaps and solutions to achieve the maximal efficiency (i.e. highest throughput and lowest redundancy in a end-to-end research operation).
 
-**Intellectual Property Portfolio Management:**
+_Intellectual Property Portfolio Management:_
 
 \- Manage the company’s IP strategy in partnership with Clara’s in-house and outside counsels as well as internal functional leads. This includes refining the IP roadmap, identifying and evaluating key existing white space and developing corresponding implementation plans to broaden and cement companies IP estate.
 
-**Data Science:**
+_Data Science:_
 
 \- Manage the integration of experimental data across all the strain engineering, strain screening, and fermentation functions; manage internal and external people to build predictive algorithms and distill actionable insights.
 
-## Experience Requirements:
+**Experience Requirements:**
 
 \- Minimum MS degree with focus on Biological Sciences, Chemical Engineering or related discipline; MBA and/or Ph.D. strongly preferred
 
