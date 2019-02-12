@@ -16,7 +16,7 @@ companyRelated: /perfectday
 
 
 
-Perfect Day is working to commercialize its first animal-free dairy protein products and we are seeking an intelligent, motivated, enthusiastic **Lab Technician** to join our** Lab Services team**. The ideal candidate will be driven to do what it takes to contribute to a small cross-functional team in a fast paced, collaborative, start-up environment.
+Perfect Day is working to commercialize its first animal-free dairy protein products and we are seeking an intelligent, motivated, enthusiastic **Lab Technician** to join our **Lab Services team**. The ideal candidate will be driven to do what it takes to contribute to a small cross-functional team in a fast paced, collaborative, start-up environment.
 
 **Role and Responsibilities:**
 
