@@ -1,8 +1,8 @@
 ---
-title: ' Bioprocessing Engineer Lead at Shiok Meats'
-position: ' Bioprocessing Engineer Lead'
+title: ' Bioprocessing Engineer at Shiok Meats'
+position: ' Bioprocessing Engineer'
 templateKey: jobs-post
-path: /jobs/shiokmeats/bioprocessing-engineer-lead
+path: /jobs/shiokmeats/bioprocessing-engineer
 date: '2019-01-14T15:44:32+04:00'
 companyRelated: /shiokmeats
 ---
@@ -20,8 +20,6 @@ Shiok Meats is seeking to hire a **Bioprocessing Engineer Lead** to spearhead th
 
 \- Under the T-Up scheme
 
-
-
 **Experience/Background:**
 
 \- PhD in Biomedical/Biochemical/Tissue Engineering or related field
@@ -29,8 +27,6 @@ Shiok Meats is seeking to hire a **Bioprocessing Engineer Lead** to spearhead th
 \- 3 to 5 years’ experience in cell culture, Tissue Engineering and Bioprocess technology; deep experience with bioreactor scale-up in an industry setting a strong plus
 
 \- Excellent communication and presentation skills
-
-
 
 **Responsibilities:**
 
@@ -54,8 +50,6 @@ Shiok Meats is seeking to hire a **Bioprocessing Engineer Lead** to spearhead th
 
 \- Contribute to regulatory submissions and inspections as appropriate as a subject matter expert representing our bioprocess
 
-
-
 **Background:**
 
 \- Batch, fed-batch, perfusion culture optimization
@@ -65,8 +59,6 @@ Shiok Meats is seeking to hire a **Bioprocessing Engineer Lead** to spearhead th
 \- Bioprocess manufacturing facility operation
 
 \- Invertebrate or seafood cell culture expertise a plus point
-
-
 
 **Traits:**
 
@@ -83,7 +75,3 @@ Shiok Meats is seeking to hire a **Bioprocessing Engineer Lead** to spearhead th
 \- Passionate and driven about developing scale up processes
 
 \- Interest to lead an expanding Bioprocessing/Engineering team
-
-
-
-## Closing date: 20th Jan 2019
