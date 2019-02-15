@@ -3,7 +3,7 @@ title: ' Scientific Research Funding Coordinator at GFI'
 position: ' Scientific Research Funding Coordinator'
 templateKey: jobs-post
 path: /jobs/gfi/scientific-research-funding-coordinator
-date: '2019-02-15T01:25:06+04:00'
+date: '2019-02-15T13:25:06+04:00'
 companyRelated: /gfi
 ---
 The Good Food Institute (GFI) is on the forefront of the movement to use food technology and markets to solve some of the world’s biggest problems, from climate change and global hunger to antibiotic resistance and the exploitation of billions of animals annually.
