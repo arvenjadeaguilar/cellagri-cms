@@ -44,9 +44,9 @@ And the burger made quite a strong entrance. Engadget [reported](//www.engadget.
 
 Since then, other US states have followed Missouri’s lead. In Nebraska, a state that produced over _8 billion pounds_ of red meat in 2018, Senator Carol Blood (a vegetarian herself) introduced legislation to [redefine meat](//newfoodeconomy.org/missouri-nebraska-cell-cultured-plant-based-meat-labeling/) as any edible portion of an animal “carcass or part thereof”. Similar bills have been introduced in Wyoming, where livestock agriculture generates $1.3 billion annually, and Mississippi. Interestingly, a bill to narrow the definition of meat was [struck down](//www.nytimes.com/2019/02/09/technology/meat-veggie-burgers-lab-produced.html) in Virginia following arguments that new labelling requirements would only confuse consumers and retailers.
 
-The continuing [fight for the word meat](//www.cell.ag/fight-for-word-meat/) comes down to how one defines _meat_. Is it a product that consists of animal muscle cells, and connective and fat tissues? Or does it specifically need to be _derived from the slaughter of an animal_? What if you could go beyond the animal and get the _same meat_ from cell cultures? Is that still _meat_?
-
 <img src="/img/steak-raw.jpeg" width="100%"/>
+
+The continuing [fight for the word meat](//www.cell.ag/fight-for-word-meat/) comes down to how one defines _meat_. Is it a product that consists of animal muscle cells, and connective and fat tissues? Or does it specifically need to be _derived from the slaughter of an animal_? What if you could go beyond the animal and get the _same meat_ from cell cultures? Is that still _meat_?
 
 The questions go further with plant-based meat alternatives. Can meat be defined by the taste and texture one expects? If a plant-based product tastes the same, is there a difference?
 
