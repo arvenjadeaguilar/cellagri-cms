@@ -6,7 +6,7 @@ path: /jobs/clarafoods/scientist-strain-engineering
 date: '2019-03-01T10:23:32+04:00'
 companyRelated: /clarafoods
 ---
-As a** Scientist in the Strain Engineering team**, you will develop novel synthetic biology solutions. You will be designing, building and testing better genetic circuits for driving animal protein production by Clara’s yeast platform.  You will be interfacing with Clara’s HTP screening team to test out designs as well as performing your own expression experiments.
+As a **Scientist in the Strain Engineering team**, you will develop novel synthetic biology solutions. You will be designing, building and testing better genetic circuits for driving animal protein production by Clara’s yeast platform.  You will be interfacing with Clara’s HTP screening team to test out designs as well as performing your own expression experiments.
 
 
 
