@@ -3,7 +3,7 @@ title: Food Safety & Quality Manager at Just
 position: Food Safety & Quality Manager
 templateKey: jobs-post
 path: /jobs/just/food-safety-quality-manager
-date: 2018-03-05T04:23:55.061Z
+date: '2018-05-01T08:23:55+04:00'
 companyRelated: /just
 ---
 The **Manager, Food Safety & Quality** will manage and conduct all quality audits and apply continuous improvement throughout all levels of the supply chain for internal and external manufacturing of Just brand products.  You will manage and implement processes to maintain food safety, ensure quality and support sustainability at external partners as well as internally.  You will work cross-functionally with internal and external Partners to provide baseline food safety and quality criteria and hold our Partners to the highest-level of practice and standards.
