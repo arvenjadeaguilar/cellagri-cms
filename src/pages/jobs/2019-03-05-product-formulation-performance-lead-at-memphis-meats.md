@@ -6,9 +6,7 @@ path: /jobs/memphismeats/product-formulation-performance-lead
 date: '2019-03-01T11:22:30+04:00'
 companyRelated: /memphismeats
 ---
-The Product Formulations and Performance Lead will lead a culinary and science-focused team to produce world-class meat products. This person will lead a data-driven pursuit of quality through food product identification and characterization development. This person should have demonstrable expertise in regulatory-compliant pipeline development of meat, poultry, or seafood products from the kitchen through scaled manufacturing while possessing a keen understanding of the culinary arts. Formal training and expertise in nutrition sciences or molecular biology are desired, but not required.
-
-
+The** Product Formulations and Performance Lead** will lead a culinary and science-focused team to produce world-class meat products. This person will lead a data-driven pursuit of quality through food product identification and characterization development. This person should have demonstrable expertise in regulatory-compliant pipeline development of meat, poultry, or seafood products from the kitchen through scaled manufacturing while possessing a keen understanding of the culinary arts. Formal training and expertise in nutrition sciences or molecular biology are desired, but not required.
 
 ## Duties Include:
 
@@ -31,8 +29,6 @@ The Product Formulations and Performance Lead will lead a culinary and science-f
 \- Scientific diligence, analysis, and evaluation for product development approaches, including benchwork and sensory evaluation
 
 \- Ability to develop and maintain external culinary professionals partnerships
-
-
 
 ## About You:
 
