@@ -3,7 +3,7 @@ title: Senior Designer at Just
 position: Senior Designer
 templateKey: jobs-post
 path: /jobs/just/senior-designer
-date: 2018-03-05T04:16:32.977Z
+date: '2018-05-01T08:16:32+04:00'
 companyRelated: /just
 ---
 JUST is seeking a creative problem solver, a quick study, with a passion for timeless design and the ability to create the necessary elements to help the Just brand achieve its next evolution.
