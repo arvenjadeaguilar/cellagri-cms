@@ -16,7 +16,7 @@ Following a slowdown in investments at the end of 2018, February marked a strong
 
 **Perfect Day Foods**
 
-[Perfect Day Foods](//perfectdayfoods.com) raised [**$34.75 million**](//medium.com/cellagri/perfect-day-raises-34-7m-to-make-animal-free-milk-70d58b3faec2) to complete their Series B funding. Based in Berkeley, California, Perfect Day is a startup that uses cellular agriculture to produce **animal-free dairy proteins**. By designing yeast to produce the same dairy proteins found in milk from a cow, Perfect Day can make the same milk. Without needing the cow. Perfect Day’s Series B was led by Temasek Holdings, Horizon Ventures, and ADM Capital. **This is one of the largest announced investment round in a cell ag food startup**. The Series B funding marks a great start to 2019 for Perfect Day following their [_perfect_](//medium.com/cellagri/perfect-day-foods-partners-to-change-dairy-milk-74e86950cc6) end to 2018.
+[Perfect Day Foods](//perfectdayfoods.com) raised [**$34.75 million**](//medium.com/cellagri/perfect-day-raises-34-7m-to-make-animal-free-milk-70d58b3faec2) to complete their Series B funding. Based in Berkeley, California, Perfect Day is a startup that uses cellular agriculture to produce **animal-free dairy proteins**. By designing yeast to produce the same dairy proteins found in milk from a cow, Perfect Day can make the same milk. Without needing the cow. Perfect Day’s Series B was led by Temasek Holdings, Horizon Ventures, and ADM Capital. **This is one of the largest announced investment rounds in a cell ag food startup**. The Series B funding marks a great start to 2019 for Perfect Day following their [_perfect_](//medium.com/cellagri/perfect-day-foods-partners-to-change-dairy-milk-74e86950cc6) end to 2018.
 
 <img src="/img/milksunflower.jpeg" width="100%"/>
 
@@ -24,11 +24,11 @@ Following a slowdown in investments at the end of 2018, February marked a strong
 
 Along with Perfect Day, a company called [Culture Biosciences](//culturebiosciences.com) raised **$5.5 million** to help companies test their cell-grown products. Funded by Verily (formerly Google’s Life Science), [the Wired](//www.wired.com/story/culture-biosciences-is-fermenting-microbes-for-meat-makeup-and-fuel/) describes Culture Biosciences “as a virtual fermentation lab, a place where companies can send flash-frozen vials of yeast and bacteria to be raised and tested.” Unlike other companies that only offer services for large testing sizes, Cultured Biosciences offers small fermentation tank sizes to fit a startup's testing needs.
 
-While Culture Biosciences does not focus on _making_ a product via cellular agriculture, their fermentation testing services will allow other companies to test their products before scaling production. Cultured Bioscience’s customers already include [Geltor](//www.geltor.com/), a startup using cell ag to grow collagen, and [Modern Meadow](//www.modernmeadow.com/), a cell ag company that has raised over $50 million to produce [bioleather](//www.cell.ag/lab-grown-clothing/) from cells. 
+While Culture Biosciences does not focus on _making_ a product via cellular agriculture, their fermentation testing services will allow other companies to test their products before scaling production. Cultured Bioscience’s customers already include [Geltor](//geltor.com), a startup using cell ag to grow collagen, and [Modern Meadow](//www.modernmeadow.com/), a cell ag company that has raised over $50 million to produce [bioleather](//www.cell.ag/lab-grown-clothing/) from cells. 
 
 **Motif Ingredients**
 
-Ginkgo Bioworks, a biotech company that designs microbes to produce various molecules, recently revealed its spinoff company, [Motif Ingredients](//motifingredients.com). And to start, Motif Ingredients announced that they raised a _massive_ **$90 million** in their Series A round of funding. **This is the largest Series A round _ever_ for a foodtech startup**. Motif Ingredient plans to use Ginkgo Bioworks’ microbe platform to produce animal proteins to complement the flavour and texture of plant-based products. Motif Ingredients may even use their animal proteins to **enhance the taste of cell-based meats** and other cell ag products. All without requiring animals. Motif Ingredient’s Series A financing included investments from Breakthrough Energy Ventures, Louis Dreyfus Company, Fonterra, and Viking Global Investors.
+Ginkgo Bioworks, a biotech company that designs microbes to produce various molecules, recently revealed its spinoff company, [Motif Ingredients](//motifingredients.com). To start, Motif Ingredients announced that they raised a _massive_ **$90 million** in their Series A round of funding. **This is the largest Series A round _ever_ for a foodtech startup**. Motif Ingredient plans to use Ginkgo Bioworks’ microbe platform to produce animal proteins to complement the flavour and texture of plant-based products. Motif Ingredients may even use their animal proteins to **enhance the taste of cell-based meats** and other cell ag products. All without requiring animals. Motif Ingredient’s Series A financing included investments from Breakthrough Energy Ventures, Louis Dreyfus Company, Fonterra, and Viking Global Investors.
 
 <img src="/img/vegetableboard.jpg" width="100%"/>
 
@@ -64,7 +64,7 @@ The research paper highlights our need to create a clean energy source to power 
 
 <img src="/img/memphismeat-meatball.jpg" width="100%"/>
 
-_Memphis Meats cell-based meatball_
+> > _Memphis Meats cell-based meatball_
 
 ## The World Wants Animal-Free Meats
 
