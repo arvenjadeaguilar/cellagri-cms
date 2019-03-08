@@ -72,7 +72,7 @@ Another recent research paper, “[A Survey of Consumer Perceptions of Plant-Bas
 
 ## Zebrafish, anyone?
 
-[Clean Research](//cleanresearch.io) hosted their first open science webinar on cellular agriculture where they focused on the value of producing lean fish meat (fish with little to no fat tissue) from cells. Clean Research is a new non-profit advancing the research and development of cellular agriculture through open science. In their first webinar, CEO Alain Rostain presented the merits of using **zebrafish** as the first species of cell-based lean fish meat. Rostain argued that the faster doubling time of lean fish cells and lower temperature requirements meant that cell-based zebrafish meat would be more cost-efficient and technologically less difficult. Clean Research plans to hold their next webinar at the end of March.
+[Clean Research](//cleanresearch.io) hosted their first open science webinar on cellular agriculture where they focused on the value of producing lean fish meat (fish with little to no fat tissue) from cells. Clean Research is a new non-profit advancing the research and development of cellular agriculture through open science. In their first webinar, CEO Alain Rostain presented the merits of using **zebrafish** as the first species of cell-based lean fish meat. According to Rostain, zebrafish offers many advantageous qualities for technological development and commercialization of cell-based zebrafish fish meat over other fish species.
 
 <img src="/img/market-fish-fish-market-food.jpg" width="100%"/>
 
