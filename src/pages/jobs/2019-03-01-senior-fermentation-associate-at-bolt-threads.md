@@ -56,7 +56,7 @@ A **Senior Fermentation Associate** to design and execute experiments alongside 
 
 
 
-**This Team will be Excited to Have You Because You Bring... **
+**This Team will be Excited to Have You Because You Bring...**
 
 \- 3+ years fermentation experience in industrial setting
 
