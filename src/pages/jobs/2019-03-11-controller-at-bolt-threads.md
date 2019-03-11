@@ -24,7 +24,7 @@ A well-rounded, analytical leader to be the financial steward for the company.  
 
 **The Work**
 
-> Within the first 30 days you will…
+> _Within the first 30 days you will…_
 
 \- Take ownership of the accounting functions, become familiar with our processes, timetables, policies, opportunities for improvement
 
@@ -36,7 +36,7 @@ A well-rounded, analytical leader to be the financial steward for the company.  
 
 
 
-> Within the first 60 days you will…
+> _Within the first 60 days you will…_
 
 \- Begin to develop a 3-year road map for building the finance and accounting department, including people and systems
 
