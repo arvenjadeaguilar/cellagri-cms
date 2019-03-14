@@ -16,7 +16,7 @@ The start of 2019 has not been any different. Since the start of the year, two n
 
 [**Cubiq Foods**](//www.cubiqfoods.com) (www.cubiqfoods.com) is a new startup that uses cellular agriculture (‘cell ag’) to grow cell-based animal fats. Based in Barcelona, Spain, Cubiq Foods raised a _massive_ **$13.6 million (€12 million)** to complete their round of funding in [January](//www.cell.ag/january-2019-month-in-review/). The round of funding was led by Moira Capital Partners, a Spanish private equity firm. Founded by Dr. Raquel Revilla and Andrés Montefeltro, Cubiq Foods aims to produce a sustainable and healthy source of **cell-based animal fats** through their propriety system. 
 
-Meanwhile, in Canada, [**Future Fields**](//www.futurefields.io/) (www.futurefields.io) is a new and early-stage startup in Edmonton. Based in the cattle-heavy province of Alberta, Future Fields was founded by Dr. Matt Anderson-Baron and Lejjy Garbour to produce **cell-based chicken meat** to help meet the growing global demand for meat.
+Meanwhile, in Canada, [**Future Fields**](//www.futurefields.io/) (www.futurefields.io) is a new and early-stage startup in Edmonton. Based in the cattle-heavy province of Alberta, Future Fields was founded by Dr. Matt Anderson-Baron and Lejjy Gafour to produce **cell-based chicken meat** to help meet the growing global demand for meat.
 
 I had the opportunity to speak with the co-founders of Cubiq Foods and Matt Anderson-Baron of Future Fields about how they first learned about the field. And why they thought that this was the right time to enter the field.
 
