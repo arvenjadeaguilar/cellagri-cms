@@ -8,7 +8,7 @@ description: >-
   Learn about the two startups looking to bring cellular agriculture to Spain
   and Canada: Cubiq Foods and Future Fields.
 ---
-2018 was a big year for cellular agriculture. 
+2018 was a big year for [cellular agriculture](//cell.ag/cellular-agriculture-future-of-food). 
 
 With record levels of investments, new startups were emerging across across the United States. Ready to build the future of food.
 
