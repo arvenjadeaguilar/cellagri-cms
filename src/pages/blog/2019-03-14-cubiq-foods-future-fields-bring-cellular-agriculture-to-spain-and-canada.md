@@ -32,6 +32,8 @@ When asked how they first heard about cellular agriculture and how they got star
 
 Bringing a real solution to the environment and great food for people is what motivated us to start Cubiq Foods.”
 
+<img src="/img/countryside-cropland-dawn-158179.jpg" width="100%"/>
+
 ## “It was something that I felt _should_ be happening”
 
 Similarly, Matt Anderson-Baron shared how he _stumbled_ upon cellular agriculture during his graduate studies and began to look for ways to become involved. Leading to Future Fields.
@@ -98,6 +100,8 @@ With less support in Canada, Matt felt it was important for Future Fields to sta
 
 “The field is relatively _unknown_ in Canada, which can be good because we have more space. However, it can also make garnering support cumbersome. I was very fortunate to get support from the people around me at the University - namely, my PhD supervisor, Dr. Andrew Simmonds. In addition, I received financial support from **New Harvest** in the form of a [Seed Grant](//www.new-harvest.org/grants), which I was very grateful for. New Harvest has been really supportive of what we're trying to do up here in Canada.”
 
+<img src="/img/agriculture-blue-sky-bright-787647.jpg" width="100%"/>
+
 Matt does acknowledge, however, that starting in Canada will have its difficulties and challenges.
 
 “I think that there needs to be more **conversations** around cell ag happening in Canada in order to catch up to some of the other leading countries. This includes media coverage, as well as conversations with legislative bodies.
@@ -108,7 +112,7 @@ Matt does acknowledge, however, that starting in Canada will have its difficulti
 
 “I imagine there will be some push back, but we have always tried to communicate that we want to integrate into the existing industries as seamlessly as possible.”
 
-<img src="/img/agriculture-blue-sky-bright-787647.jpg" width="100%"/>
+<img src="/img/chickenleaves.jpeg" width="100%"/>
 
 ## Moving to The Future
 
