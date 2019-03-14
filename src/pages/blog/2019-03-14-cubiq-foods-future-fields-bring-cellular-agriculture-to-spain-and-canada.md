@@ -8,6 +8,8 @@ description: >-
   Learn about the two startups looking to bring cellular agriculture to Spain
   and Canada: Cubiq Foods and Future Fields.
 ---
+<img src="/img/meatcheesetray.jpg" width="100%"/>
+
 2018 was a big year for [cellular agriculture](//cell.ag/cellular-agriculture-future-of-food). 
 
 With record levels of investments, new startups were emerging across across the United States. Ready to build the future of food.
@@ -20,7 +22,7 @@ Meanwhile, in Canada, [**Future Fields**](//www.futurefields.io/) (www.futurefie
 
 I had the opportunity to speak with the co-founders of Cubiq Foods and Matt Anderson-Baron of Future Fields about how they first learned about the field. And why they thought that this was the right time to enter the field.
 
-<img src="/img/meatcheesetray.jpg" width="100%"/>
+<img src="/img/meatbbq.jpg" width="100%"/>
 
 ## “Bringing a real solution to the environment and great food for people is what motivated us”
 
