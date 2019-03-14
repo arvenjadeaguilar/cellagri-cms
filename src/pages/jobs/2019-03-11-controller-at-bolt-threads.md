@@ -8,9 +8,9 @@ companyRelated: /boltthreads
 ---
 A well-rounded, analytical leader to be the financial steward for the company.  As our **Controller** you will be a key member of the Finance team and will bring a solid mix of strategic leadership and operational experience, this is a hands-on role. You will direct the accounting, tax and treasury functions of Bolt Threads.  In addition, you will provide financial consulting and guidance across all functions and departments of the company.
 
-# You’ll be Excited to Come to Work Because…
+**You’ll be Excited to Come to Work Because…**
 
-## The Experience
+**The Experience**
 
 \- You’ll have the ability to make a significant, positive impact on a team, a company, and the world.
 
