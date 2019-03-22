@@ -14,9 +14,7 @@ companyRelated: /perfectday
 
 **Area(s) Of Expertise Desired:** 3+ years of professional programming experience. Experience developing custom web applications in frameworks such as React.js. Experience with one major programming language such as Java or Python is a plus. Excellent communication skills, great intuition for UX and ability to anticipate user needs.
 
- 
-
-**Description:** Perfect Day is close to commercializing its first animal-free dairy protein products. We are a team of scientists and engineers, committed to the mission of delivering an environmentally and animal-friendly alternative to dairy products, without sacrificing the flavor or nutritional value. We are seeking an intelligent, motivated, enthusiastic Full-stack Web Developer to join our growing software engineering team. The ideal candidate will be comfortable developing web applications in a close feedback loop with a small team of scientists and engineers in a fast-paced startup environment.
+**Description:** Perfect Day is close to commercializing its first animal-free dairy protein products. We are a team of scientists and engineers, committed to the mission of delivering an environmentally and animal-friendly alternative to dairy products, without sacrificing the flavor or nutritional value. We are seeking an intelligent, motivated, enthusiastic **Full-stack Web Developer** to join our growing software engineering team. The ideal candidate will be comfortable developing web applications in a close feedback loop with a small team of scientists and engineers in a fast-paced startup environment.
 
 **Role & Responsibilities:**
 
@@ -34,8 +32,6 @@ companyRelated: /perfectday
 
 \- Ability to pick up and/or delegate a small number of ad-hoc tasks while staying focused on the critical path of a project.
 
-
-
 **Requirements:**
 
 \- Min 3+ years of professional programming experience, preferably 5+.
@@ -48,8 +44,6 @@ companyRelated: /perfectday
 
 \- Familiarity with agile software engineering practices, including SCRUM, Kanban, continuous integration and unit testing.
 
-
-
 **Plus, Not Required:**
 
 \- Fluent Linux command-line skills.
@@ -61,8 +55,6 @@ companyRelated: /perfectday
 \- Ability to stand or sit for prolonged periods.
 
 \- If possible, please send us examples of your work.
-
-
 
 **Work Environment:**
 
