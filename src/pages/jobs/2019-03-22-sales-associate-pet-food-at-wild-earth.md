@@ -3,7 +3,7 @@ title: ' Sales Associate (Pet Food) at Wild Earth'
 position: ' Sales Associate (Pet Food)'
 templateKey: jobs-post
 path: /jobs/wildearth/sales-associate-pet-food
-date: '2019-03-22T12:09:45+05:00'
+date: '2019-03-15T12:09:45+05:00'
 companyRelated: /wildearth
 ---
 Wild Earth is looking for a mission driven **Inside Sales Representative** to be responsible for generating leads and meeting sales goals in the independent pet food retail space.
