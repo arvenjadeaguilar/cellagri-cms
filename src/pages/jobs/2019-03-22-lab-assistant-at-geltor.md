@@ -10,7 +10,7 @@ Geltor is looking for a **Lab Assistant** to join our team in San Leandro, CA.
 
 The **Lab Assistant** will be contributing to successful experiments and workflow in the lab and pilot plant by preparing sterile glassware, supplies, and preparing media. This is a great opportunity to learn while supporting a variety of scientific disciplines (Analytical Chemistry, Molecular Biology, Fermentation, Downstream, and Lab Operations). The Lab Assistant will report to the Lab Manager and will interact daily with scientific staff. This is a full-time non-exempt position working 40 hours per week Monday-Friday.
 
-## Key Responsibilities:
+## Key Responsibilities
 
 \- Transport, clean and sterilize glassware, plasticware and lab equipment by safely operating an autoclave, a commercial dishwasher (Lancer) and handwashing sensitive glassware
 
@@ -33,8 +33,6 @@ The **Lab Assistant** will be contributing to successful experiments and workflo
 \- Provide input in the development, implementation, and continuous improvement of lab processes and procedures
 
 \- Troubleshoot issues in real time; notify supervisor and coordinate with additional personnel as needed
-
-
 
 ## Requirements
 
