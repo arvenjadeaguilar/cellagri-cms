@@ -8,6 +8,8 @@ description: >-
   What does the USDA and FDA's framework for cell-based meat mean for the future
   of food?
 ---
+<img src="/img/cowsunsetoutline.jpeg" width="100%"/>
+
 This month, the US Department of Agriculture (USDA) and Food and Drug Administration (FDA) announced that they established the [basic framework](//www.fda.gov/Food/InternationalInteragencyCoordination/DomesticInteragencyAgreements/UCM632752) for regulating “human food products derived from cultured livestock and poultry cells” (also known as cell-based/clean/cultured meat).
 
 The framework puts into writing what was agreed upon in [October](//www.cell.ag/october-2018-month-in-review/): that the USDA and FDA will work together and **jointly** regulate meat produced via [cellular agriculture](//cell.ag/cellular-agriculture-future-of-food). This will be the _first_ instance where both agencies are in charge of regulating a field of products.
@@ -16,7 +18,7 @@ According to the framework, the FDA will oversee initial steps and regulate the 
 
 Beyond sharing an overview of how they will work together, the announcement from the FDA and USDA didn’t share many new details. Upon reading the framework, there are a **few points** that really stuck out to me.
 
-<img src="/img/cowsunsetoutline.jpeg" width="100%"/>
+<img src="/img/countryside-cropland-dawn-158179.jpg" width="100%"/>
 
 ## Labelling
 
@@ -38,11 +40,11 @@ Perhaps more nuanced than needed, but the language suggests that the product _ca
 
 The language also suggests that it isn’t a question of whether the USDA will label the cell ag product as meat or not. It will most likely be considered meat. The language shows it will just come down to the _quality_ of what’s produced.
 
+<img src="/img/chickenfeeding.jpg" width="100%"/>
+
 It’s about the _quality_ of the cell ag meat product being high enough to be labelled as meat. Not _whether_ it can be labelled at all. 
 
 Poor quality products, even derived from animals, wouldn’t get the USDA stamp of approval to be sold as meat if not at the right quality. It seems likely they will treat meat produced via cells the same way.
-
-<img src="/img/chickenfeeding.jpg" width="100%"/>
 
 ## Regulation
 
