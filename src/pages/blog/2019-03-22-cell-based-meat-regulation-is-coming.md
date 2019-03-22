@@ -64,7 +64,7 @@ Considering that many meat and cattlemen associations have an interest in the US
 
 Beyond beef and chicken, there are still questions of how regulation would look like for other cellular agriculture food products. What about cell-based fish, which is solely regulated by the FDA? Will cell-based fish startups be required to follow a similar regulatory process even if the USDA is not involved?
 
-In addition, there are questions over how _acellular_ products, like animal-free gelatin, egg whites, and dairy proteins, will be regulated. Will they be regulated under current systems that allow products Generally Recognized as Safe (GRAS)? Or would their novel production methods require those startups to take their products through a different type of regulation?
+In addition, there are questions over how [_acellular_](//www.cell.ag/six-terms-changing-food-forever/) products, like animal-free gelatin, egg whites, and dairy proteins, will be [regulated](//www.cell.ag/cell-ag-obstacles-ahead/). Will they be regulated under current systems that allow products Generally Recognized as Safe (GRAS)? Or would their novel production methods require those startups to take their products through a different type of regulation?
 
 While there are still many questions (and _details_) to address, it is promising to see that the USDA and FDA both agreed upon the basic regulatory framework for cell-cultured meat. It is now important that regulators communicate clearly with all the respective companies and industries to help grow and support the _future of food_.
 
