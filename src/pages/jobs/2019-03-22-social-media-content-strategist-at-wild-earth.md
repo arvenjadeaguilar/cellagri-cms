@@ -3,7 +3,7 @@ title: Social Media & Content Strategist at Wild Earth
 position: Social Media & Content Strategist
 templateKey: jobs-post
 path: /jobs/wildearth/social-media-content-strategist
-date: '2019-03-15T12:06:45+05:00'
+date: '2019-03-22T12:06:45+05:00'
 companyRelated: /wildearth
 ---
 Do you dream of creating inspirational, experiential and motivational stories across all channels? The **Social and Content Strategist** is a master in cost-effective editorial, video, and audio production and social media strategy, production and execution. The Social Media & Content Strategist role at Wild Earth is the DREAM ROLE for someone who is passionate about capturing and sharing experiences on the forefront of animals, food technology and alternative proteins. This candidate is a natural born storyteller with the ability to engage the world with content and engaging storylines. You possess a deep understanding of how to create compelling stories and content pieces that grow brand love and relevance. In this role, you are a brand storyteller and generate consumer loyalty by building an active passionate audience base.
