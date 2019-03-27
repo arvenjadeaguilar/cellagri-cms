@@ -26,7 +26,7 @@ Labelling has been one of the [**major points of contention**](//www.cell.ag/3-m
 
 It is important to note, however, that the document mentions that both the FDA and USDA _“will develop joint principles for product labelling and claims to ensure that products are labeled consistently and transparently”_. 
 
-This means that, even though the USDA will be the department labelling the final products, it will be based on previously agreed terms with the FDA. If the FDA has a role in labelling then it may be possible that the joint USDA and FDA consensus will be to label cell ag meat products _meat_. 
+This means that, even though the USDA will be the department labelling the final products, it will be based on previously agreed terms with the FDA. If the FDA has a role in labelling, then it's possible that the joint USDA and FDA consensus will be to label cell ag meat products as _meat_. 
 
 <img src="/img/cows.jpeg" width="100%"/>
 
@@ -50,7 +50,7 @@ Poor quality products, even derived from animals, wouldn’t get the USDA stamp 
 
 When it comes to cell-based meat, language plays an important role in regard to regulation and jurisdictions.
 
-What if, for example, the USDA _does not label_ cell ag meat as meat? This would be an interesting hypothetical situation.
+What if, _hypothetically_, the USDA _does not label_ cell ag meat as meat? This would be an interesting _hypothetical_ situation.
 
 The USDA explicitly has regulatory control over meat, poultry, catfish, and egg products. The FDA regulates all other food products. 
 
