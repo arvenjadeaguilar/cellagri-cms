@@ -54,7 +54,7 @@ We want the best people and we don’t want biases holding us back. We strongly 
 
 \- **Terms of employment**: Full-time, exempt
 
-\-** Reports to**: Sanah Baig, Special Advisor to the Executive Director
+\- ** Reports to**: Sanah Baig, Special Advisor to the Executive Director
 
 \- **Location**: Remote; United States; must live in the Washington, D.C. area
 
