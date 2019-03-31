@@ -3,7 +3,7 @@ title: Senior Policy Specialist at GFI
 position: Senior Policy Specialist
 templateKey: jobs-post
 path: /jobs/gfi/senior-policy-specialist
-date: '2019-03-31T19:05:39+08:00'
+date: '2019-04-01T19:05:39+08:00'
 companyRelated: /gfi
 ---
 GFI’s Policy Department is focused on creating a clear regulatory pathway for cell-based meat, sometimes called clean meat or cultured meat, and leveling the playing field for plant-based meat, eggs, and dairy. As our **Senior Policy Specialist**, you will lead the Policy Department’s state legislative efforts, campaigning in favor of the use of public research and development funds for healthy, sustainable proteins, and defending against label censorship laws that would ban terms like “almond milk” and “vegan sausage.” 
