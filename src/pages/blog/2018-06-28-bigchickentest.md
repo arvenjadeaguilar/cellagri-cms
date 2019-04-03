@@ -30,7 +30,7 @@ Through her book, McKenna shares the joint history about the emergence and rise 
 
 Now the very same agricultural system might lead to the end of antibiotics.
 
-**Antibiotic resistance** arises when bacteria have mutations that prevents certain antibiotics from killing them, making them resistant to the antibiotic. The resistant bacteria survive and divide to produce more bacteria that is also resistant to the antibiotic treatment. They can even pass the resistance on to other bacteria (and can become resistant to _multiple_ types of antibiotics).
+**Antibiotic resistance** arises when bacteria have mutations that prevents certain antibiotics from killing them, making them resistant to the antibiotic. The resistant bacteria survive and divide to produce more bacteria that are also resistant to the antibiotic treatment. They can even pass the resistance on to other bacteria (and can become resistant to _multiple_ types of antibiotics).
 
 Since the use of antibiotics first began in the animal agriculture (about 80% of antibiotics sold in the US are used in animal agriculture), there has been a dramatic increase in the number of public outbreaks of antibiotic resistant bacteria. More concerning, McKenna notes an even larger threat: outbreaks of diseases from _multiple drug resistant_ bacteria. 
 
